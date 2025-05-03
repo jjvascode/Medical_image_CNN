@@ -28,7 +28,7 @@ test_frame["labels"] = test_frame["labels"].apply(lambda x: int(x.strip("[]")) i
 test_frame["binary_label"] = (test_frame["labels"] != 0).astype(int)
 
 # For illness classification 'labels' must be 1 hot encoded 
-# This can be done using 
+# This can be done using to_categorical
 y = test_frame["labels"].values
 one_hot = to_categorical(y, num_classes =15)
 test_frame["illness"] = list(one_hot)

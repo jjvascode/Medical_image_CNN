@@ -3,6 +3,7 @@ import pandas as pd
 from pathlib import Path
 import os
 import tensorflow as tf
+import keras
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, GlobalAveragePooling2D
@@ -41,6 +42,8 @@ hot_encoded = to_categorical(y, num_classes =15)
 train_frame["illness"] = list(hot_encoded)
 
 print(train_frame.dtypes)
+
+
 
 
 
