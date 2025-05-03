@@ -1,25 +1,143 @@
-from datasets import load_dataset
-from PIL import Image
+import numpy as np
+import pandas as pd
+from pathlib import Path
+import os
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, GlobalAveragePooling2D
+from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 
-#"image-classification", trust_remote_code = True
+# Read labels from both csvs
+# This will create dataframes for both
+# this will have the image names as well as the labels
+test_frame = pd.read_csv("/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/test_label.csv")
+train_frame = pd.read_csv("/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/train_labels.csv")
 
-# Load Dataset from hugging face
-dataset = load_dataset('alkzar90/NIH-Chest-X-ray-dataset', 'image-classification', trust_remote_code = True)
+# Keep track of folder paths 
+# These will be used to join with img names to get full paths for each image
+# The full paths will be needed in order to process the images into the CNN
+train_folder_path = "/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/train"
+test_folder_path = "/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/test"
 
-# Run print to test that data was loaded correctly. 
-# Data is autsplit into train and test subsets
-print(dataset['train'][:5])
+# Change dataframe so that image filename is the fullpath of the image
+# lambda function will concat image filename with the folder path to create full path for images
+train_frame.loc[:, ('image_filename')] = train_frame['image_filename'].apply(lambda x: os.path.join(train_folder_path, x))
+test_frame.loc[:, ('image_filename')] = test_frame['image_filename'].apply(lambda x: os.path.join(test_folder_path, x))
 
-# Create a data set for the train split 
-train_data = dataset['train'][:5]
+# Labels are stored as strs, in order to manipulate frame as needed, they need to be convereted to ints
+# Remove [] from str and convert to an int, lambda function: if x is a str it is convereted if not it remains x (int)
+train_frame["labels"] = train_frame["labels"].apply(lambda x: int(x.strip("[]")) if isinstance(x, str) else x)
+test_frame["labels"] = test_frame["labels"].apply(lambda x: int(x.strip("[]")) if isinstance(x, str) else x)
 
-# Within the data you are given a PIL object for each "image" and labels
-# These labels are enumerated from 0 to 12 (each being a different abnormality)
-# Iterate through the lenght of train_data set
-# at each iteration we will load the image at the ith index as well as teh label
-# show each of the images using PIL .show() to ensure they are loaded properly
-for i in range(len(train_data['image'])):
-    image = train_data['image'][i]
-    label = train_data['labels'][i]
 
-    image.show()
+# The frame must be altered further need to add binary classification o if label ==0 and 1 if label >0
+# if the value of labels is not 0, then the value is set to 1 (0 is normal and 1 is anomaly detected)
+train_frame["binary_label"] = (train_frame["labels"] != 0).astype(str)
+test_frame["binary_label"] = (test_frame["labels"] != 0).astype(str)
+
+# In order to do illness classification as well, label needs to be one hot encoded 
+# this can be done via the function get_dummies whihc will create an array of 0s with a 1 at the class that corresponds to the value of the label
+train_frame = pd.get_dummies(train_frame, columns=['labels'], prefix='class', dtype= int)
+test_frame = pd.get_dummies(test_frame, columns=['labels'], prefix='class', dtype= int)
+
+# Preprocess images using keras generator (first run will use not augmentation)
+training_gen = tf.keras.preprocessing.image.ImageDataGenerator(
+    # Rescale pixel value to normalize values between 0 and 1
+    rescale = 1./255,
+    # Create a validation split
+    validation_split = .2
+)
+
+# Create a gen for testing images as well 
+test_gen = tf.keras.preprocessing.image.ImageDataGenerator (
+    # Normalize 
+    rescale = 1./255
+)
+
+# Once the generators are created, we want to load the images into them for testing 
+# this can be done using flow_from_dataframe using the train and test frames
+training_images = training_gen.flow_from_dataframe(
+    # Set the dataframe from which to load images
+    dataframe = train_frame,
+    # X-col will be path to images
+    x_col = "image_filename",
+    #y-col are the labels,
+    y_col = "binary_label",
+    # Declare size of the image
+    target_size = (256, 256),
+    # batch size
+    batch_size = 64, 
+    # Class mode
+    class_mode = "binary",
+    # define subset
+    subset = "training"
+)
+
+validation_images = training_gen.flow_from_dataframe(
+    # Set the dataframe from which to load images
+    dataframe = train_frame,
+    # X-col will be path to images
+    x_col = "image_filename",
+    #y-col are the labels,
+    y_col = "binary_label",
+    # Declare size of the image
+    target_size = (256, 256),
+    # batch size
+    batch_size = 64, 
+    # Class mode
+    class_mode = "binary",
+    # define subset
+    subset = "validation"
+)
+
+# Build out model, using Conv2D layers, maxpooling, etc. 
+model = Sequential([
+    Conv2D(32, (3,3), activation = 'relu', padding = "same", input_shape = (256, 256, 3)),
+    MaxPooling2D(2,2),
+    Conv2D(64, (3,3), activation = 'relu', padding = "same"),
+    MaxPooling2D(2,2),
+    Conv2D(128, (3,3), activation = 'relu', padding = "same"),
+    MaxPooling2D(2,2),
+    Conv2D(256, (3,3), activation = 'relu', padding = "same"),
+    MaxPooling2D(2,2),
+
+    # Flatten output that is to be fed to the connected dense layers
+    GlobalAveragePooling2D(),
+    
+    Dense(256, activation = 'relu'),
+    Dropout(0.5),
+    Dense(128, activation = 'relu'),
+    Dropout(0.5),
+    Dense(64, activation = 'relu'),
+    Dropout(0.5),
+
+    # Output layer will be a single node and use sigmoid activation
+    Dense(1, activation = 'sigmoid')
+])
+
+# Compile the model that was jsut made
+# use adam optimzer, binary crossentropy as the loss (binary classification) and measure accuracy
+model.compile(
+    optimizer = "adam",
+    loss = "binary_crossentropy",
+    metrics =["accuracy"]
+)
+
+# Can use summary to check and ensure model was created properly
+#model.summary()
+
+# Implement callbacks and LROn to improve learning and stop if learning plateaus
+callback =[
+    EarlyStopping(monitor="val_loss", patience=5, restore_best_weights=True),
+    ModelCheckpoint(filepath="/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/models/best_model.h5", monitor="val_loss", save_best_only =True),
+    ReduceLROnPlateau(monitor="val_loss", factor=.2, patience=3, min_lr=1e-6)
+]
+
+# Run model after ensuring it is created properly 
+history = model.fit(
+    training_images, 
+    validation_data = validation_images,
+    epochs = 25, 
+    callbacks=callback
+)
