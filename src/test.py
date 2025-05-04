@@ -8,12 +8,20 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, GlobalAveragePooling2D
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from tensorflow.keras.utils import to_categorical
+from dotenv import load_dotenv
+
+# Load in variables from .env
+load_dotenv()
+
+# Set variables needed
+test_path = os.getenv("TEST_FOLDER_PATH")
+test_csv = os.getenv("TEST_LABELS_CSV")
 
 # Read labels from csv and create dataframe for testing
-test_frame = pd.read_csv("/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/test_label.csv")
+test_frame = pd.read_csv(test_csv)
 
 # Keep track of folder path it will be used to join with img names to get full paths for each image
-test_folder_path = "/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/test"
+test_folder_path = test_path
 
 # Change dataframe so that image filename is the fullpath of the image
 # lambda function will concat image filename with the folder path to create full path for images

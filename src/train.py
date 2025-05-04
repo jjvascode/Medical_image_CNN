@@ -12,16 +12,24 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLRO
 from tensorflow.keras.utils import to_categorical, Sequence
 from tensorflow.keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
+from dotenv import load_dotenv
+
+# Load in variables from .env
+load_dotenv()
+
+# Set variables needed
+train_path = os.getenv("TRAIN_FOLDER_PATH")
+train_csv = os.getenv("TRAIN_LABELS_CSV")
 
 # Read labels from both csvs
 # This will create dataframe
 # this will have the image names as well as the labels
-train_frame = pd.read_csv("/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/train_labels.csv")
+train_frame = pd.read_csv(train_csv)
 
 # Keep track of folder paths 
 # These will be used to join with img names to get full paths for each image
 # The full paths will be needed in order to process the images into the CNN
-train_folder_path = "/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/data/NIH-Images/train"
+train_folder_path = train_path
 
 
 # Change dataframe so that image filename is the fullpath of the image
@@ -45,9 +53,13 @@ hot_encoded = to_categorical(y, num_classes =15)
 train_frame["illness"] = list(hot_encoded)
 
 
+print(train_frame)
+
 # Create a train and validation split using scikit learn
 # Want to stratify as data within the set is skewed resulting in a larger proportion of "normal" images
 train_df, val_df = train_test_split(train_frame, test_size=0.2, stratify=train_frame["binary_label"], random_state=42)
+
+
 
 
 """
@@ -56,8 +68,8 @@ in order to deal with this, the use of a custom generator was needed.THe base of
 https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly. Where it discusses the use of custom generators using keras Sequence. 
 This use of a custom generator allows for binary classification (normal vs not normal) as well as multi-class classification (0-14) where each is 
 a different illness.
-
 """
+
 class CustomGen(Sequence):
     def __init__(self, dataframe, batch_size = 64, img_size =(256, 256), shuffle=True):
         # Initialization
@@ -142,7 +154,6 @@ train_gen = CustomGen(train_df, batch_size=64, img_size=(256,256), shuffle=True)
 val_gen = CustomGen(val_df, batch_size=64, img_size=(256,256), shuffle=False)
 
 model.fit(train_gen, validation_data = val_gen, epochs=10)
-
 
 
 """

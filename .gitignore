@@ -1,3 +1,4 @@
 medcnn/
 medDL/
 /data/NIH-Images
+.env
