@@ -4,7 +4,7 @@ from pathlib import Path
 import os
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.models import Sequential
+from tensorflow.keras.models import Sequential, load_model
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, GlobalAveragePooling2D
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from tensorflow.keras.utils import to_categorical
@@ -12,6 +12,9 @@ from dotenv import load_dotenv
 
 # Load in variables from .env
 load_dotenv()
+
+# Load the saved model
+model = load_model("/mnt/c/Users/jjvas/OneDrive/Desktop/DL-Project/models/best_model.keras")
 
 # Set variables needed
 test_path = os.getenv("TEST_FOLDER_PATH")
@@ -27,18 +30,21 @@ test_folder_path = test_path
 # lambda function will concat image filename with the folder path to create full path for images
 test_frame.loc[:, ('image_filename')] = test_frame['image_filename'].apply(lambda x: os.path.join(test_folder_path, x))
 
-# Labels are stored as strs, in order to manipulate frame as needed, they need to be convereted to ints
-# Remove [] from str and convert to an int, lambda function: if x is a str it is convereted if not it remains x (int)
-test_frame["labels"] = test_frame["labels"].apply(lambda x: int(x.strip("[]")) if isinstance(x, str) else x)
+# Create a gen for testing images as well (Normalize images)
+test_gen = tf.keras.preprocessing.image.ImageDataGenerator (
+    rescale = 1./255
+)
 
-# The frame must be altered further need to add binary classification so 0 if label ==0 and 1 if label >0
-# if the value of labels is not 0, then the value is set to 1 (0 is normal and 1 is anomaly detected)
-test_frame["binary_label"] = (test_frame["labels"] != 0).astype(int)
+# flow from datafram to load images into the gen.
+test_data = test_gen.flow_from_dataframe(
+    dataframe=test_frame,
+    x_col='image_filename',
+    y_col='labels',              
+    target_size=(256, 256),     
+    batch_size=32,
+    class_mode='categorical',   
+    shuffle=False               
+)
 
-# For illness classification 'labels' must be 1 hot encoded 
-# This can be done using to_categorical
-y = test_frame["labels"].values
-one_hot = to_categorical(y, num_classes =15)
-test_frame["illness"] = list(one_hot)
-
-print(test_frame)
+model.summary()
+model.evaluate(test_data)
