@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split #type: ignore
 from tensorflow.keras.applications import DenseNet121 # type: ignore
 from tensorflow.keras.applications.densenet import preprocess_input # type: ignore
 from tensorflow.keras.layers import GlobalAveragePooling2D, Dense, Dropout, BatchNormalization # type: ignore
