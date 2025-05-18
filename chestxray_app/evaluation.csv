@@ -9612,3 +9612,2393 @@ image_filename,labels,binary_label,illness prediction,illness confidence,binary 
 11995.png,No Finding,No Finding,No Finding,65.52%,Finding,True,False
 11996.png,No Finding,No Finding,No Finding,84.85%,No Finding,True,True
 11999.png,Cardiomegaly,Finding,Cardiomegaly,58.06%,Finding,True,True
+12000.png,No Finding,No Finding,No Finding,56.71%,Finding,True,False
+12001.png,No Finding,No Finding,No Finding,92.02%,No Finding,True,True
+12002.png,No Finding,No Finding,No Finding,62.48%,Finding,True,False
+12003.png,No Finding,No Finding,No Finding,90.82%,No Finding,True,True
+12005.png,No Finding,No Finding,No Finding,66.76%,Finding,True,False
+12006.png,Consolidation,Finding,No Finding,70.08%,No Finding,False,False
+12007.png,Effusion,Finding,No Finding,75.11%,No Finding,False,False
+12008.png,No Finding,No Finding,No Finding,80.77%,No Finding,True,True
+12009.png,No Finding,No Finding,No Finding,83.92%,Finding,True,False
+12010.png,No Finding,No Finding,No Finding,70.20%,No Finding,True,True
+12011.png,Effusion,Finding,No Finding,46.93%,Finding,False,True
+12012.png,No Finding,No Finding,No Finding,54.05%,Finding,True,False
+12013.png,No Finding,No Finding,No Finding,54.61%,Finding,True,False
+12014.png,Nodule,Finding,No Finding,72.67%,Finding,False,True
+12016.png,Nodule,Finding,Nodule,38.02%,Finding,True,True
+12017.png,Nodule,Finding,No Finding,55.51%,Finding,False,True
+12018.png,No Finding,No Finding,No Finding,60.24%,Finding,True,False
+12019.png,No Finding,No Finding,No Finding,72.74%,No Finding,True,True
+12020.png,No Finding,No Finding,No Finding,86.98%,No Finding,True,True
+12022.png,No Finding,No Finding,No Finding,76.33%,No Finding,True,True
+12024.png,No Finding,No Finding,No Finding,72.13%,No Finding,True,True
+12027.png,Nodule,Finding,No Finding,57.63%,Finding,False,True
+12028.png,No Finding,No Finding,No Finding,98.32%,No Finding,True,True
+12030.png,Infiltration,Finding,No Finding,47.30%,Finding,False,True
+12031.png,No Finding,No Finding,No Finding,82.16%,No Finding,True,True
+12032.png,Effusion,Finding,No Finding,73.46%,No Finding,False,False
+12033.png,No Finding,No Finding,No Finding,50.22%,Finding,True,False
+12034.png,Infiltration,Finding,No Finding,80.47%,No Finding,False,False
+12035.png,Effusion,Finding,Effusion,58.30%,Finding,True,True
+12036.png,No Finding,No Finding,No Finding,73.01%,No Finding,True,True
+12037.png,No Finding,No Finding,No Finding,83.10%,No Finding,True,True
+12038.png,Infiltration,Finding,No Finding,48.86%,Finding,False,True
+12039.png,No Finding,No Finding,No Finding,62.61%,Finding,True,False
+12040.png,Nodule,Finding,No Finding,70.41%,Finding,False,True
+12041.png,No Finding,No Finding,No Finding,85.02%,No Finding,True,True
+12042.png,Nodule,Finding,No Finding,62.32%,Finding,False,True
+12043.png,No Finding,No Finding,No Finding,61.07%,Finding,True,False
+12045.png,No Finding,No Finding,No Finding,58.70%,Finding,True,False
+12046.png,Edema,Finding,No Finding,54.49%,Finding,False,True
+12047.png,No Finding,No Finding,No Finding,67.60%,No Finding,True,True
+12049.png,No Finding,No Finding,No Finding,57.16%,Finding,True,False
+12051.png,No Finding,No Finding,No Finding,80.60%,No Finding,True,True
+12052.png,No Finding,No Finding,No Finding,55.91%,Finding,True,False
+12053.png,No Finding,No Finding,No Finding,48.32%,Finding,True,False
+12054.png,No Finding,No Finding,No Finding,49.24%,Finding,True,False
+12055.png,No Finding,No Finding,No Finding,81.36%,No Finding,True,True
+12056.png,Mass,Finding,No Finding,55.98%,Finding,False,True
+12057.png,No Finding,No Finding,No Finding,69.87%,Finding,True,False
+12058.png,No Finding,No Finding,No Finding,93.62%,No Finding,True,True
+12060.png,Infiltration,Finding,No Finding,57.71%,Finding,False,True
+12061.png,No Finding,No Finding,No Finding,80.36%,No Finding,True,True
+12062.png,Atelectasis,Finding,No Finding,69.55%,Finding,False,True
+12063.png,No Finding,No Finding,No Finding,84.59%,No Finding,True,True
+12064.png,Nodule,Finding,No Finding,66.52%,Finding,False,True
+12065.png,No Finding,No Finding,No Finding,62.89%,Finding,True,False
+12066.png,No Finding,No Finding,No Finding,46.58%,Finding,True,False
+12067.png,No Finding,No Finding,No Finding,70.04%,No Finding,True,True
+12068.png,No Finding,No Finding,Infiltration,45.35%,Finding,False,False
+12070.png,No Finding,No Finding,No Finding,46.25%,Finding,True,False
+12071.png,No Finding,No Finding,No Finding,64.08%,No Finding,True,True
+12073.png,No Finding,No Finding,No Finding,74.08%,No Finding,True,True
+12074.png,No Finding,No Finding,No Finding,78.60%,No Finding,True,True
+12075.png,Infiltration,Finding,No Finding,75.04%,No Finding,False,False
+12076.png,No Finding,No Finding,No Finding,83.55%,No Finding,True,True
+12077.png,No Finding,No Finding,No Finding,76.57%,No Finding,True,True
+12078.png,No Finding,No Finding,No Finding,73.97%,No Finding,True,True
+12079.png,Pleural_Thickening,Finding,No Finding,57.76%,Finding,False,True
+12080.png,No Finding,No Finding,No Finding,77.51%,No Finding,True,True
+12081.png,No Finding,No Finding,No Finding,59.77%,Finding,True,False
+12082.png,No Finding,No Finding,No Finding,72.91%,No Finding,True,True
+12083.png,No Finding,No Finding,No Finding,88.12%,No Finding,True,True
+12084.png,No Finding,No Finding,No Finding,54.35%,Finding,True,False
+12085.png,No Finding,No Finding,No Finding,75.00%,No Finding,True,True
+12086.png,Infiltration,Finding,No Finding,62.83%,Finding,False,True
+12088.png,Atelectasis,Finding,No Finding,53.60%,Finding,False,True
+12089.png,No Finding,No Finding,No Finding,65.99%,No Finding,True,True
+12090.png,Mass,Finding,Mass,51.96%,Finding,True,True
+12091.png,Infiltration,Finding,No Finding,89.20%,No Finding,False,False
+12093.png,No Finding,No Finding,No Finding,83.87%,No Finding,True,True
+12094.png,Nodule,Finding,No Finding,73.56%,Finding,False,True
+12095.png,No Finding,No Finding,No Finding,81.28%,No Finding,True,True
+12096.png,Nodule,Finding,No Finding,55.23%,Finding,False,True
+12097.png,No Finding,No Finding,No Finding,49.93%,Finding,True,False
+12098.png,No Finding,No Finding,No Finding,41.10%,Finding,True,False
+12099.png,No Finding,No Finding,No Finding,93.71%,No Finding,True,True
+12100.png,Consolidation,Finding,No Finding,46.13%,Finding,False,True
+12101.png,No Finding,No Finding,No Finding,57.78%,Finding,True,False
+12102.png,No Finding,No Finding,No Finding,63.03%,No Finding,True,True
+12104.png,No Finding,No Finding,No Finding,45.73%,Finding,True,False
+12105.png,Infiltration,Finding,No Finding,58.89%,Finding,False,True
+12106.png,Mass,Finding,No Finding,98.78%,No Finding,False,False
+12107.png,No Finding,No Finding,No Finding,89.28%,No Finding,True,True
+12108.png,Emphysema,Finding,No Finding,53.19%,Finding,False,True
+12109.png,No Finding,No Finding,No Finding,88.50%,No Finding,True,True
+12110.png,No Finding,No Finding,No Finding,52.19%,Finding,True,False
+12111.png,Pneumothorax,Finding,No Finding,61.57%,Finding,False,True
+12113.png,Pleural_Thickening,Finding,No Finding,49.76%,Finding,False,True
+12114.png,No Finding,No Finding,No Finding,50.35%,Finding,True,False
+12116.png,Infiltration,Finding,No Finding,82.75%,No Finding,False,False
+12117.png,Infiltration,Finding,No Finding,74.13%,No Finding,False,False
+12119.png,Nodule,Finding,No Finding,67.81%,No Finding,False,False
+12124.png,Effusion,Finding,No Finding,41.81%,Finding,False,True
+12125.png,No Finding,No Finding,No Finding,67.77%,No Finding,True,True
+12127.png,No Finding,No Finding,No Finding,90.50%,No Finding,True,True
+12130.png,Infiltration,Finding,No Finding,75.37%,No Finding,False,False
+12131.png,No Finding,No Finding,No Finding,91.13%,No Finding,True,True
+12133.png,No Finding,No Finding,No Finding,73.98%,No Finding,True,True
+12134.png,No Finding,No Finding,No Finding,68.21%,No Finding,True,True
+12135.png,Infiltration,Finding,No Finding,78.38%,No Finding,False,False
+12136.png,Infiltration,Finding,Infiltration,50.19%,Finding,True,True
+12137.png,No Finding,No Finding,No Finding,53.92%,Finding,True,False
+12138.png,Cardiomegaly,Finding,No Finding,49.67%,Finding,False,True
+12139.png,Infiltration,Finding,No Finding,52.43%,No Finding,False,False
+12140.png,No Finding,No Finding,No Finding,65.84%,Finding,True,False
+12141.png,No Finding,No Finding,No Finding,77.18%,No Finding,True,True
+12142.png,No Finding,No Finding,No Finding,67.88%,No Finding,True,True
+12143.png,Infiltration,Finding,No Finding,80.44%,No Finding,False,False
+12144.png,Edema,Finding,No Finding,54.03%,Finding,False,True
+12145.png,No Finding,No Finding,No Finding,64.64%,Finding,True,False
+12146.png,Consolidation,Finding,No Finding,56.13%,Finding,False,True
+12148.png,No Finding,No Finding,No Finding,69.70%,Finding,True,False
+12149.png,No Finding,No Finding,No Finding,61.76%,No Finding,True,True
+12151.png,Nodule,Finding,No Finding,72.83%,No Finding,False,False
+12152.png,Fibrosis,Finding,No Finding,77.55%,No Finding,False,False
+12154.png,No Finding,No Finding,No Finding,74.47%,No Finding,True,True
+12155.png,No Finding,No Finding,No Finding,62.19%,No Finding,True,True
+12156.png,No Finding,No Finding,No Finding,62.31%,Finding,True,False
+12158.png,Effusion,Finding,Effusion,74.12%,Finding,True,True
+12159.png,No Finding,No Finding,No Finding,92.75%,No Finding,True,True
+12160.png,No Finding,No Finding,No Finding,50.71%,Finding,True,False
+12161.png,No Finding,No Finding,No Finding,51.75%,Finding,True,False
+12162.png,Mass,Finding,No Finding,97.54%,No Finding,False,False
+12163.png,Pneumonia,Finding,No Finding,50.14%,Finding,False,True
+12164.png,No Finding,No Finding,No Finding,81.56%,No Finding,True,True
+12165.png,Infiltration,Finding,No Finding,86.50%,No Finding,False,False
+12166.png,No Finding,No Finding,No Finding,70.38%,Finding,True,False
+12167.png,Atelectasis,Finding,No Finding,77.25%,Finding,False,True
+12168.png,No Finding,No Finding,No Finding,68.70%,No Finding,True,True
+12170.png,No Finding,No Finding,No Finding,79.31%,Finding,True,False
+12171.png,No Finding,No Finding,No Finding,51.38%,No Finding,True,True
+12172.png,No Finding,No Finding,Infiltration,40.53%,Finding,False,False
+12173.png,No Finding,No Finding,No Finding,61.23%,Finding,True,False
+12175.png,No Finding,No Finding,No Finding,95.16%,No Finding,True,True
+12176.png,No Finding,No Finding,No Finding,72.75%,No Finding,True,True
+12178.png,No Finding,No Finding,No Finding,69.87%,No Finding,True,True
+12179.png,No Finding,No Finding,No Finding,83.79%,Finding,True,False
+12180.png,Emphysema,Finding,No Finding,53.06%,Finding,False,True
+12183.png,No Finding,No Finding,No Finding,74.08%,No Finding,True,True
+12184.png,No Finding,No Finding,No Finding,98.21%,No Finding,True,True
+12185.png,No Finding,No Finding,No Finding,52.38%,Finding,True,False
+12186.png,No Finding,No Finding,No Finding,64.07%,Finding,True,False
+12188.png,No Finding,No Finding,No Finding,89.75%,No Finding,True,True
+12189.png,Consolidation,Finding,No Finding,63.69%,Finding,False,True
+12191.png,Infiltration,Finding,No Finding,87.47%,No Finding,False,False
+12192.png,Atelectasis,Finding,No Finding,65.41%,Finding,False,True
+12193.png,Infiltration,Finding,No Finding,79.33%,No Finding,False,False
+12194.png,No Finding,No Finding,No Finding,45.97%,Finding,True,False
+12195.png,No Finding,No Finding,No Finding,72.45%,Finding,True,False
+12196.png,Infiltration,Finding,No Finding,79.38%,Finding,False,True
+12197.png,Consolidation,Finding,No Finding,77.21%,No Finding,False,False
+12198.png,Infiltration,Finding,No Finding,84.29%,No Finding,False,False
+12199.png,No Finding,No Finding,No Finding,49.89%,Finding,True,False
+12200.png,No Finding,No Finding,No Finding,47.85%,Finding,True,False
+12201.png,Consolidation,Finding,No Finding,68.44%,No Finding,False,False
+12202.png,No Finding,No Finding,No Finding,34.17%,Finding,True,False
+12203.png,No Finding,No Finding,No Finding,68.55%,No Finding,True,True
+12204.png,No Finding,No Finding,No Finding,71.34%,No Finding,True,True
+12205.png,Edema,Finding,No Finding,32.81%,Finding,False,True
+12206.png,Effusion,Finding,No Finding,43.23%,Finding,False,True
+12208.png,Effusion,Finding,Effusion,88.74%,Finding,True,True
+12209.png,No Finding,No Finding,No Finding,76.67%,Finding,True,False
+12210.png,No Finding,No Finding,No Finding,81.98%,Finding,True,False
+12211.png,Infiltration,Finding,No Finding,49.94%,Finding,False,True
+12212.png,Cardiomegaly,Finding,No Finding,77.80%,No Finding,False,False
+12213.png,Mass,Finding,No Finding,56.46%,Finding,False,True
+12214.png,Infiltration,Finding,No Finding,68.40%,No Finding,False,False
+12215.png,No Finding,No Finding,No Finding,87.76%,No Finding,True,True
+12216.png,Cardiomegaly,Finding,No Finding,65.01%,Finding,False,True
+12217.png,Effusion,Finding,No Finding,47.04%,Finding,False,True
+12218.png,Infiltration,Finding,No Finding,75.68%,No Finding,False,False
+12219.png,Infiltration,Finding,No Finding,63.71%,No Finding,False,False
+12220.png,No Finding,No Finding,No Finding,98.84%,No Finding,True,True
+12224.png,No Finding,No Finding,No Finding,52.27%,Finding,True,False
+12225.png,No Finding,No Finding,No Finding,93.73%,No Finding,True,True
+12226.png,Pneumothorax,Finding,No Finding,47.41%,Finding,False,True
+12227.png,No Finding,No Finding,No Finding,81.25%,No Finding,True,True
+12228.png,Infiltration,Finding,No Finding,93.86%,No Finding,False,False
+12229.png,No Finding,No Finding,No Finding,73.02%,No Finding,True,True
+12233.png,Atelectasis,Finding,No Finding,73.07%,Finding,False,True
+12234.png,Nodule,Finding,No Finding,75.57%,No Finding,False,False
+12235.png,No Finding,No Finding,No Finding,60.41%,Finding,True,False
+12236.png,No Finding,No Finding,Infiltration,66.24%,Finding,False,False
+12238.png,Infiltration,Finding,No Finding,59.60%,Finding,False,True
+12239.png,No Finding,No Finding,No Finding,81.13%,No Finding,True,True
+12241.png,Pneumothorax,Finding,No Finding,48.88%,Finding,False,True
+12242.png,No Finding,No Finding,No Finding,70.30%,No Finding,True,True
+12244.png,No Finding,No Finding,No Finding,80.53%,No Finding,True,True
+12245.png,Pleural_Thickening,Finding,No Finding,49.63%,Finding,False,True
+12246.png,No Finding,No Finding,No Finding,68.11%,Finding,True,False
+12247.png,Effusion,Finding,Effusion,95.64%,Finding,True,True
+12248.png,No Finding,No Finding,No Finding,62.72%,No Finding,True,True
+12249.png,Atelectasis,Finding,No Finding,55.43%,Finding,False,True
+12251.png,Effusion,Finding,Effusion,96.38%,Finding,True,True
+12252.png,Effusion,Finding,Effusion,52.65%,Finding,True,True
+12255.png,Pneumonia,Finding,No Finding,58.77%,Finding,False,True
+12256.png,No Finding,No Finding,No Finding,79.81%,No Finding,True,True
+12257.png,No Finding,No Finding,No Finding,78.16%,No Finding,True,True
+12258.png,No Finding,No Finding,No Finding,56.95%,Finding,True,False
+12259.png,No Finding,No Finding,No Finding,63.74%,Finding,True,False
+12260.png,No Finding,No Finding,No Finding,79.73%,No Finding,True,True
+12261.png,No Finding,No Finding,No Finding,54.79%,Finding,True,False
+12262.png,Mass,Finding,No Finding,66.10%,Finding,False,True
+12265.png,No Finding,No Finding,No Finding,60.72%,No Finding,True,True
+12267.png,Atelectasis,Finding,No Finding,49.81%,Finding,False,True
+12268.png,No Finding,No Finding,No Finding,58.51%,No Finding,True,True
+12269.png,Nodule,Finding,No Finding,81.49%,Finding,False,True
+12272.png,Infiltration,Finding,No Finding,60.54%,Finding,False,True
+12273.png,No Finding,No Finding,No Finding,61.55%,No Finding,True,True
+12274.png,No Finding,No Finding,No Finding,73.96%,No Finding,True,True
+12275.png,No Finding,No Finding,No Finding,45.95%,Finding,True,False
+12276.png,No Finding,No Finding,No Finding,66.89%,No Finding,True,True
+12277.png,No Finding,No Finding,No Finding,85.55%,No Finding,True,True
+12278.png,No Finding,No Finding,No Finding,80.79%,No Finding,True,True
+12279.png,Infiltration,Finding,No Finding,63.96%,Finding,False,True
+12280.png,No Finding,No Finding,No Finding,84.65%,No Finding,True,True
+12281.png,Atelectasis,Finding,No Finding,59.94%,Finding,False,True
+12282.png,No Finding,No Finding,No Finding,66.95%,No Finding,True,True
+12283.png,No Finding,No Finding,No Finding,85.44%,No Finding,True,True
+12284.png,Atelectasis,Finding,No Finding,54.79%,Finding,False,True
+12285.png,Pneumonia,Finding,No Finding,48.87%,Finding,False,True
+12286.png,Nodule,Finding,No Finding,67.34%,No Finding,False,False
+12287.png,Infiltration,Finding,No Finding,52.11%,Finding,False,True
+12288.png,No Finding,No Finding,No Finding,33.00%,Finding,True,False
+12289.png,No Finding,No Finding,No Finding,66.13%,Finding,True,False
+12291.png,Pneumothorax,Finding,Pneumothorax,83.24%,No Finding,True,False
+12293.png,No Finding,No Finding,No Finding,88.36%,No Finding,True,True
+12294.png,No Finding,No Finding,No Finding,55.31%,Finding,True,False
+12296.png,Atelectasis,Finding,Atelectasis,67.05%,Finding,True,True
+12297.png,No Finding,No Finding,No Finding,67.82%,Finding,True,False
+12298.png,No Finding,No Finding,No Finding,85.10%,No Finding,True,True
+12299.png,No Finding,No Finding,No Finding,75.17%,No Finding,True,True
+12300.png,Infiltration,Finding,No Finding,73.04%,Finding,False,True
+12303.png,No Finding,No Finding,No Finding,61.91%,Finding,True,False
+12304.png,No Finding,No Finding,No Finding,61.88%,Finding,True,False
+12305.png,Pneumothorax,Finding,No Finding,45.65%,Finding,False,True
+12306.png,No Finding,No Finding,No Finding,62.28%,Finding,True,False
+12307.png,Infiltration,Finding,No Finding,77.10%,No Finding,False,False
+12308.png,Atelectasis,Finding,No Finding,71.63%,Finding,False,True
+12309.png,No Finding,No Finding,No Finding,46.24%,Finding,True,False
+12311.png,No Finding,No Finding,No Finding,76.77%,Finding,True,False
+12312.png,No Finding,No Finding,No Finding,85.64%,No Finding,True,True
+12313.png,Infiltration,Finding,No Finding,73.88%,No Finding,False,False
+12314.png,No Finding,No Finding,No Finding,71.80%,Finding,True,False
+12315.png,Pneumothorax,Finding,No Finding,55.38%,Finding,False,True
+12317.png,No Finding,No Finding,No Finding,62.41%,Finding,True,False
+12319.png,No Finding,No Finding,No Finding,43.57%,Finding,True,False
+12324.png,No Finding,No Finding,No Finding,52.38%,Finding,True,False
+12327.png,No Finding,No Finding,No Finding,94.48%,No Finding,True,True
+12329.png,No Finding,No Finding,No Finding,74.97%,No Finding,True,True
+12331.png,Nodule,Finding,No Finding,54.10%,Finding,False,True
+12332.png,Mass,Finding,No Finding,60.46%,Finding,False,True
+12333.png,Edema,Finding,Infiltration,56.62%,Finding,False,True
+12334.png,No Finding,No Finding,No Finding,67.72%,Finding,True,False
+12335.png,Infiltration,Finding,No Finding,76.79%,No Finding,False,False
+12336.png,No Finding,No Finding,No Finding,59.66%,Finding,True,False
+12337.png,No Finding,No Finding,No Finding,81.86%,No Finding,True,True
+12338.png,No Finding,No Finding,No Finding,76.20%,No Finding,True,True
+12340.png,No Finding,No Finding,No Finding,77.03%,No Finding,True,True
+12341.png,No Finding,No Finding,No Finding,89.83%,No Finding,True,True
+12342.png,Mass,Finding,No Finding,44.43%,Finding,False,True
+12343.png,Atelectasis,Finding,No Finding,73.53%,Finding,False,True
+12344.png,Infiltration,Finding,No Finding,50.86%,Finding,False,True
+12345.png,No Finding,No Finding,No Finding,81.20%,No Finding,True,True
+12346.png,No Finding,No Finding,No Finding,81.86%,No Finding,True,True
+12347.png,No Finding,No Finding,No Finding,56.69%,No Finding,True,True
+12348.png,No Finding,No Finding,No Finding,78.05%,Finding,True,False
+12349.png,Atelectasis,Finding,No Finding,50.10%,Finding,False,True
+12350.png,No Finding,No Finding,No Finding,47.19%,Finding,True,False
+12351.png,Infiltration,Finding,No Finding,81.34%,No Finding,False,False
+12352.png,No Finding,No Finding,No Finding,78.92%,No Finding,True,True
+12353.png,Fibrosis,Finding,No Finding,62.51%,Finding,False,True
+12354.png,No Finding,No Finding,No Finding,66.90%,No Finding,True,True
+12355.png,Infiltration,Finding,No Finding,84.44%,No Finding,False,False
+12356.png,No Finding,No Finding,No Finding,99.99%,Finding,True,False
+12357.png,Edema,Finding,Infiltration,34.28%,Finding,False,True
+12358.png,No Finding,No Finding,No Finding,92.28%,No Finding,True,True
+12359.png,No Finding,No Finding,No Finding,78.24%,No Finding,True,True
+12361.png,No Finding,No Finding,No Finding,90.06%,No Finding,True,True
+12362.png,No Finding,No Finding,No Finding,92.04%,No Finding,True,True
+12363.png,No Finding,No Finding,No Finding,76.46%,No Finding,True,True
+12367.png,No Finding,No Finding,No Finding,47.68%,Finding,True,False
+12368.png,No Finding,No Finding,Effusion,37.89%,No Finding,False,True
+12369.png,Infiltration,Finding,No Finding,40.47%,Finding,False,True
+12370.png,Nodule,Finding,No Finding,57.47%,Finding,False,True
+12371.png,No Finding,No Finding,No Finding,42.38%,Finding,True,False
+12372.png,No Finding,No Finding,No Finding,65.47%,No Finding,True,True
+12373.png,No Finding,No Finding,No Finding,92.66%,No Finding,True,True
+12374.png,No Finding,No Finding,No Finding,73.03%,No Finding,True,True
+12375.png,Nodule,Finding,No Finding,88.21%,No Finding,False,False
+12376.png,No Finding,No Finding,No Finding,53.55%,Finding,True,False
+12377.png,Atelectasis,Finding,No Finding,76.15%,No Finding,False,False
+12378.png,No Finding,No Finding,No Finding,74.06%,No Finding,True,True
+12379.png,Infiltration,Finding,No Finding,44.74%,Finding,False,True
+12380.png,No Finding,No Finding,No Finding,64.22%,No Finding,True,True
+12381.png,No Finding,No Finding,No Finding,62.29%,Finding,True,False
+12382.png,No Finding,No Finding,No Finding,58.72%,Finding,True,False
+12383.png,Pneumothorax,Finding,No Finding,50.17%,Finding,False,True
+12385.png,No Finding,No Finding,No Finding,64.45%,Finding,True,False
+12386.png,No Finding,No Finding,No Finding,69.15%,Finding,True,False
+12387.png,Pneumothorax,Finding,No Finding,53.50%,Finding,False,True
+12390.png,Infiltration,Finding,No Finding,74.52%,No Finding,False,False
+12391.png,No Finding,No Finding,No Finding,70.32%,No Finding,True,True
+12394.png,Nodule,Finding,No Finding,85.67%,No Finding,False,False
+12395.png,No Finding,No Finding,No Finding,68.85%,No Finding,True,True
+12396.png,No Finding,No Finding,No Finding,76.84%,No Finding,True,True
+12397.png,Atelectasis,Finding,No Finding,65.54%,Finding,False,True
+12398.png,Nodule,Finding,No Finding,72.40%,No Finding,False,False
+12399.png,No Finding,No Finding,No Finding,49.39%,Finding,True,False
+12400.png,No Finding,No Finding,No Finding,82.14%,No Finding,True,True
+12401.png,No Finding,No Finding,No Finding,53.15%,Finding,True,False
+12403.png,Nodule,Finding,No Finding,78.92%,No Finding,False,False
+12404.png,Consolidation,Finding,No Finding,62.91%,Finding,False,True
+12407.png,Infiltration,Finding,No Finding,49.50%,Finding,False,True
+12408.png,Emphysema,Finding,No Finding,87.40%,No Finding,False,False
+12409.png,No Finding,No Finding,No Finding,89.12%,No Finding,True,True
+12410.png,No Finding,No Finding,No Finding,60.74%,Finding,True,False
+12411.png,No Finding,No Finding,No Finding,86.15%,No Finding,True,True
+12412.png,No Finding,No Finding,No Finding,88.24%,No Finding,True,True
+12413.png,Infiltration,Finding,No Finding,72.34%,No Finding,False,False
+12414.png,No Finding,No Finding,No Finding,78.01%,No Finding,True,True
+12416.png,No Finding,No Finding,No Finding,51.16%,Finding,True,False
+12419.png,No Finding,No Finding,No Finding,83.87%,No Finding,True,True
+12420.png,Infiltration,Finding,No Finding,76.39%,No Finding,False,False
+12421.png,No Finding,No Finding,No Finding,44.13%,Finding,True,False
+12422.png,No Finding,No Finding,No Finding,51.44%,Finding,True,False
+12423.png,No Finding,No Finding,No Finding,73.75%,No Finding,True,True
+12424.png,No Finding,No Finding,No Finding,88.94%,No Finding,True,True
+12425.png,Infiltration,Finding,No Finding,66.06%,No Finding,False,False
+12426.png,No Finding,No Finding,No Finding,91.49%,No Finding,True,True
+12427.png,No Finding,No Finding,No Finding,87.05%,No Finding,True,True
+12428.png,Infiltration,Finding,No Finding,73.57%,No Finding,False,False
+12429.png,Consolidation,Finding,Infiltration,44.37%,Finding,False,True
+12431.png,No Finding,No Finding,No Finding,59.91%,Finding,True,False
+12433.png,No Finding,No Finding,No Finding,77.14%,No Finding,True,True
+12434.png,No Finding,No Finding,No Finding,74.87%,No Finding,True,True
+12436.png,Infiltration,Finding,No Finding,82.21%,No Finding,False,False
+12437.png,No Finding,No Finding,No Finding,49.01%,Finding,True,False
+12438.png,No Finding,No Finding,No Finding,81.96%,No Finding,True,True
+12439.png,No Finding,No Finding,No Finding,71.60%,Finding,True,False
+12440.png,No Finding,No Finding,No Finding,65.77%,Finding,True,False
+12441.png,No Finding,No Finding,No Finding,74.12%,No Finding,True,True
+12442.png,No Finding,No Finding,No Finding,50.99%,Finding,True,False
+12444.png,No Finding,No Finding,No Finding,53.78%,Finding,True,False
+12446.png,No Finding,No Finding,No Finding,91.74%,No Finding,True,True
+12447.png,No Finding,No Finding,No Finding,81.17%,No Finding,True,True
+12448.png,No Finding,No Finding,No Finding,82.46%,No Finding,True,True
+12449.png,No Finding,No Finding,No Finding,84.44%,No Finding,True,True
+12450.png,Atelectasis,Finding,No Finding,57.27%,Finding,False,True
+12451.png,No Finding,No Finding,No Finding,76.31%,No Finding,True,True
+12452.png,No Finding,No Finding,No Finding,52.96%,Finding,True,False
+12453.png,No Finding,No Finding,No Finding,66.57%,Finding,True,False
+12455.png,No Finding,No Finding,No Finding,71.62%,Finding,True,False
+12457.png,Infiltration,Finding,No Finding,39.33%,Finding,False,True
+12458.png,Pleural_Thickening,Finding,No Finding,78.97%,No Finding,False,False
+12459.png,Infiltration,Finding,No Finding,51.13%,Finding,False,True
+12460.png,Effusion,Finding,No Finding,46.69%,Finding,False,True
+12461.png,No Finding,No Finding,No Finding,92.34%,No Finding,True,True
+12463.png,Pneumothorax,Finding,No Finding,47.78%,Finding,False,True
+12464.png,No Finding,No Finding,No Finding,68.14%,No Finding,True,True
+12465.png,No Finding,No Finding,No Finding,49.61%,Finding,True,False
+12466.png,Pleural_Thickening,Finding,No Finding,62.59%,Finding,False,True
+12468.png,Infiltration,Finding,No Finding,65.44%,Finding,False,True
+12469.png,No Finding,No Finding,No Finding,85.40%,No Finding,True,True
+12470.png,No Finding,No Finding,No Finding,85.80%,No Finding,True,True
+12471.png,No Finding,No Finding,No Finding,94.62%,No Finding,True,True
+12472.png,No Finding,No Finding,No Finding,56.42%,Finding,True,False
+12473.png,No Finding,No Finding,No Finding,76.12%,No Finding,True,True
+12474.png,No Finding,No Finding,No Finding,88.12%,No Finding,True,True
+12475.png,No Finding,No Finding,No Finding,65.65%,No Finding,True,True
+12476.png,Effusion,Finding,Effusion,50.93%,Finding,True,True
+12477.png,No Finding,No Finding,No Finding,73.82%,No Finding,True,True
+12479.png,No Finding,No Finding,No Finding,85.81%,No Finding,True,True
+12480.png,No Finding,No Finding,No Finding,80.71%,No Finding,True,True
+12481.png,Infiltration,Finding,No Finding,52.17%,Finding,False,True
+12482.png,No Finding,No Finding,No Finding,70.81%,No Finding,True,True
+12483.png,No Finding,No Finding,No Finding,61.84%,No Finding,True,True
+12484.png,No Finding,No Finding,No Finding,68.92%,No Finding,True,True
+12485.png,No Finding,No Finding,No Finding,83.24%,No Finding,True,True
+12486.png,Emphysema,Finding,No Finding,71.80%,No Finding,False,False
+12487.png,Atelectasis,Finding,Atelectasis,45.38%,Finding,True,True
+12489.png,No Finding,No Finding,No Finding,54.13%,Finding,True,False
+12490.png,No Finding,No Finding,No Finding,67.24%,Finding,True,False
+12491.png,No Finding,No Finding,No Finding,63.97%,No Finding,True,True
+12492.png,No Finding,No Finding,No Finding,71.51%,No Finding,True,True
+12493.png,No Finding,No Finding,No Finding,82.01%,No Finding,True,True
+12494.png,Pleural_Thickening,Finding,No Finding,61.74%,No Finding,False,False
+12495.png,Effusion,Finding,No Finding,51.55%,Finding,False,True
+12496.png,Infiltration,Finding,No Finding,73.38%,No Finding,False,False
+12498.png,No Finding,No Finding,No Finding,75.85%,No Finding,True,True
+12499.png,Infiltration,Finding,No Finding,67.18%,No Finding,False,False
+12500.png,Edema,Finding,No Finding,48.91%,Finding,False,True
+12501.png,Infiltration,Finding,No Finding,68.42%,No Finding,False,False
+12504.png,No Finding,No Finding,No Finding,83.37%,No Finding,True,True
+12505.png,No Finding,No Finding,No Finding,81.71%,No Finding,True,True
+12506.png,Effusion,Finding,No Finding,55.45%,Finding,False,True
+12508.png,No Finding,No Finding,No Finding,98.20%,No Finding,True,True
+12509.png,No Finding,No Finding,No Finding,59.39%,Finding,True,False
+12510.png,No Finding,No Finding,No Finding,54.78%,Finding,True,False
+12511.png,No Finding,No Finding,No Finding,76.22%,No Finding,True,True
+12512.png,No Finding,No Finding,No Finding,46.79%,Finding,True,False
+12513.png,No Finding,No Finding,No Finding,85.86%,No Finding,True,True
+12514.png,No Finding,No Finding,No Finding,86.99%,No Finding,True,True
+12515.png,Effusion,Finding,No Finding,49.99%,Finding,False,True
+12516.png,Nodule,Finding,No Finding,58.72%,Finding,False,True
+12517.png,No Finding,No Finding,No Finding,97.04%,No Finding,True,True
+12519.png,No Finding,No Finding,No Finding,61.68%,Finding,True,False
+12520.png,Infiltration,Finding,No Finding,70.00%,No Finding,False,False
+12521.png,No Finding,No Finding,No Finding,76.91%,No Finding,True,True
+12522.png,No Finding,No Finding,No Finding,67.73%,No Finding,True,True
+12523.png,No Finding,No Finding,No Finding,65.54%,Finding,True,False
+12524.png,No Finding,No Finding,No Finding,87.71%,No Finding,True,True
+12525.png,Effusion,Finding,Effusion,76.53%,Finding,True,True
+12526.png,Atelectasis,Finding,No Finding,67.66%,No Finding,False,False
+12527.png,No Finding,No Finding,No Finding,48.18%,Finding,True,False
+12528.png,No Finding,No Finding,No Finding,64.29%,No Finding,True,True
+12529.png,No Finding,No Finding,No Finding,58.67%,Finding,True,False
+12530.png,Nodule,Finding,No Finding,50.11%,Finding,False,True
+12531.png,Atelectasis,Finding,No Finding,56.44%,Finding,False,True
+12532.png,Pleural_Thickening,Finding,No Finding,72.16%,No Finding,False,False
+12533.png,No Finding,No Finding,No Finding,74.62%,No Finding,True,True
+12534.png,Edema,Finding,No Finding,64.78%,Finding,False,True
+12535.png,No Finding,No Finding,No Finding,83.77%,No Finding,True,True
+12536.png,No Finding,No Finding,No Finding,79.45%,No Finding,True,True
+12537.png,No Finding,No Finding,No Finding,90.24%,No Finding,True,True
+12538.png,No Finding,No Finding,No Finding,87.55%,No Finding,True,True
+12539.png,No Finding,No Finding,No Finding,77.63%,No Finding,True,True
+12540.png,No Finding,No Finding,No Finding,73.58%,Finding,True,False
+12541.png,No Finding,No Finding,No Finding,75.01%,No Finding,True,True
+12542.png,No Finding,No Finding,No Finding,98.63%,No Finding,True,True
+12543.png,No Finding,No Finding,No Finding,86.18%,No Finding,True,True
+12544.png,No Finding,No Finding,No Finding,74.37%,No Finding,True,True
+12545.png,No Finding,No Finding,No Finding,47.90%,Finding,True,False
+12547.png,No Finding,No Finding,No Finding,91.23%,No Finding,True,True
+12548.png,No Finding,No Finding,No Finding,92.42%,No Finding,True,True
+12549.png,No Finding,No Finding,No Finding,70.76%,No Finding,True,True
+12550.png,No Finding,No Finding,No Finding,73.51%,No Finding,True,True
+12551.png,No Finding,No Finding,No Finding,62.68%,Finding,True,False
+12552.png,Pneumothorax,Finding,No Finding,51.86%,Finding,False,True
+12553.png,No Finding,No Finding,No Finding,70.77%,No Finding,True,True
+12554.png,No Finding,No Finding,No Finding,66.04%,Finding,True,False
+12556.png,No Finding,No Finding,No Finding,69.92%,Finding,True,False
+12557.png,Cardiomegaly,Finding,No Finding,86.69%,No Finding,False,False
+12558.png,No Finding,No Finding,No Finding,68.00%,Finding,True,False
+12559.png,No Finding,No Finding,No Finding,83.17%,No Finding,True,True
+12560.png,No Finding,No Finding,No Finding,95.00%,No Finding,True,True
+12561.png,No Finding,No Finding,No Finding,74.01%,No Finding,True,True
+12563.png,No Finding,No Finding,No Finding,71.82%,No Finding,True,True
+12565.png,No Finding,No Finding,No Finding,46.41%,Finding,True,False
+12566.png,No Finding,No Finding,No Finding,96.41%,No Finding,True,True
+12567.png,No Finding,No Finding,No Finding,52.09%,Finding,True,False
+12568.png,No Finding,No Finding,No Finding,49.74%,Finding,True,False
+12569.png,Pleural_Thickening,Finding,No Finding,48.72%,Finding,False,True
+12570.png,No Finding,No Finding,No Finding,71.15%,No Finding,True,True
+12571.png,Infiltration,Finding,No Finding,69.24%,No Finding,False,False
+12572.png,No Finding,No Finding,No Finding,57.96%,Finding,True,False
+12573.png,No Finding,No Finding,No Finding,77.45%,No Finding,True,True
+12574.png,No Finding,No Finding,No Finding,60.82%,Finding,True,False
+12575.png,No Finding,No Finding,No Finding,78.66%,No Finding,True,True
+12576.png,No Finding,No Finding,No Finding,48.09%,Finding,True,False
+12577.png,No Finding,No Finding,No Finding,88.43%,No Finding,True,True
+12579.png,No Finding,No Finding,No Finding,49.90%,Finding,True,False
+12580.png,No Finding,No Finding,No Finding,62.38%,Finding,True,False
+12583.png,Effusion,Finding,Effusion,47.23%,Finding,True,True
+12584.png,No Finding,No Finding,No Finding,75.79%,No Finding,True,True
+12585.png,No Finding,No Finding,No Finding,68.57%,No Finding,True,True
+12586.png,No Finding,No Finding,No Finding,67.07%,No Finding,True,True
+12587.png,No Finding,No Finding,No Finding,82.43%,No Finding,True,True
+12588.png,No Finding,No Finding,No Finding,90.03%,No Finding,True,True
+12589.png,Infiltration,Finding,No Finding,64.16%,Finding,False,True
+12593.png,Infiltration,Finding,No Finding,47.67%,Finding,False,True
+12595.png,Effusion,Finding,No Finding,68.23%,Finding,False,True
+12596.png,No Finding,No Finding,No Finding,72.13%,No Finding,True,True
+12597.png,Infiltration,Finding,No Finding,75.76%,No Finding,False,False
+12598.png,Atelectasis,Finding,No Finding,48.54%,Finding,False,True
+12599.png,Pneumothorax,Finding,Emphysema,40.26%,Finding,False,True
+12600.png,Effusion,Finding,No Finding,65.49%,No Finding,False,False
+12601.png,No Finding,No Finding,No Finding,93.87%,No Finding,True,True
+12602.png,No Finding,No Finding,No Finding,85.44%,No Finding,True,True
+12603.png,No Finding,No Finding,No Finding,71.90%,Finding,True,False
+12605.png,No Finding,No Finding,No Finding,93.67%,No Finding,True,True
+12606.png,Atelectasis,Finding,No Finding,55.40%,Finding,False,True
+12607.png,No Finding,No Finding,No Finding,75.72%,No Finding,True,True
+12608.png,Infiltration,Finding,No Finding,58.59%,Finding,False,True
+12609.png,No Finding,No Finding,No Finding,80.73%,No Finding,True,True
+12610.png,No Finding,No Finding,No Finding,87.93%,No Finding,True,True
+12611.png,Atelectasis,Finding,No Finding,80.16%,Finding,False,True
+12612.png,Infiltration,Finding,No Finding,64.68%,Finding,False,True
+12613.png,Effusion,Finding,Effusion,62.45%,Finding,True,True
+12614.png,No Finding,No Finding,No Finding,93.66%,No Finding,True,True
+12615.png,No Finding,No Finding,No Finding,65.61%,No Finding,True,True
+12616.png,No Finding,No Finding,No Finding,36.99%,Finding,True,False
+12617.png,Atelectasis,Finding,No Finding,63.87%,Finding,False,True
+12618.png,Atelectasis,Finding,No Finding,51.50%,Finding,False,True
+12619.png,No Finding,No Finding,No Finding,94.88%,No Finding,True,True
+12620.png,No Finding,No Finding,No Finding,97.19%,No Finding,True,True
+12622.png,Effusion,Finding,No Finding,56.06%,Finding,False,True
+12623.png,Infiltration,Finding,No Finding,79.01%,No Finding,False,False
+12624.png,No Finding,No Finding,No Finding,79.08%,No Finding,True,True
+12625.png,Mass,Finding,No Finding,84.01%,Finding,False,True
+12626.png,No Finding,No Finding,No Finding,73.47%,No Finding,True,True
+12627.png,No Finding,No Finding,No Finding,78.75%,No Finding,True,True
+12628.png,Effusion,Finding,Effusion,84.06%,Finding,True,True
+12629.png,Atelectasis,Finding,No Finding,54.43%,Finding,False,True
+12630.png,No Finding,No Finding,No Finding,86.96%,No Finding,True,True
+12631.png,No Finding,No Finding,No Finding,93.16%,No Finding,True,True
+12632.png,Nodule,Finding,No Finding,71.61%,No Finding,False,False
+12633.png,No Finding,No Finding,No Finding,92.46%,No Finding,True,True
+12635.png,No Finding,No Finding,No Finding,75.69%,No Finding,True,True
+12637.png,No Finding,No Finding,No Finding,72.28%,No Finding,True,True
+12638.png,No Finding,No Finding,No Finding,71.46%,No Finding,True,True
+12640.png,Infiltration,Finding,No Finding,48.34%,Finding,False,True
+12642.png,Infiltration,Finding,No Finding,75.43%,No Finding,False,False
+12643.png,No Finding,No Finding,No Finding,47.82%,Finding,True,False
+12644.png,No Finding,No Finding,No Finding,59.85%,No Finding,True,True
+12645.png,No Finding,No Finding,No Finding,68.14%,Finding,True,False
+12646.png,Pneumothorax,Finding,No Finding,39.66%,Finding,False,True
+12647.png,No Finding,No Finding,No Finding,46.74%,Finding,True,False
+12650.png,Nodule,Finding,No Finding,44.50%,Finding,False,True
+12651.png,No Finding,No Finding,No Finding,78.49%,No Finding,True,True
+12653.png,No Finding,No Finding,No Finding,82.69%,No Finding,True,True
+12655.png,No Finding,No Finding,No Finding,65.18%,Finding,True,False
+12656.png,No Finding,No Finding,No Finding,89.92%,No Finding,True,True
+12657.png,No Finding,No Finding,No Finding,58.80%,Finding,True,False
+12660.png,Infiltration,Finding,No Finding,75.77%,No Finding,False,False
+12661.png,Atelectasis,Finding,No Finding,56.73%,No Finding,False,False
+12662.png,Infiltration,Finding,No Finding,37.72%,Finding,False,True
+12663.png,Infiltration,Finding,No Finding,71.64%,Finding,False,True
+12664.png,Effusion,Finding,Effusion,40.19%,Finding,True,True
+12665.png,No Finding,No Finding,No Finding,81.32%,No Finding,True,True
+12667.png,No Finding,No Finding,No Finding,58.18%,Finding,True,False
+12668.png,No Finding,No Finding,No Finding,84.61%,No Finding,True,True
+12669.png,No Finding,No Finding,No Finding,65.16%,Finding,True,False
+12670.png,Effusion,Finding,No Finding,56.06%,Finding,False,True
+12671.png,No Finding,No Finding,No Finding,62.80%,Finding,True,False
+12672.png,No Finding,No Finding,No Finding,57.81%,Finding,True,False
+12673.png,Mass,Finding,No Finding,44.58%,Finding,False,True
+12674.png,No Finding,No Finding,No Finding,66.11%,Finding,True,False
+12675.png,Infiltration,Finding,No Finding,73.04%,No Finding,False,False
+12676.png,No Finding,No Finding,No Finding,81.91%,No Finding,True,True
+12678.png,Infiltration,Finding,Infiltration,41.39%,Finding,True,True
+12680.png,Pleural_Thickening,Finding,No Finding,73.26%,No Finding,False,False
+12681.png,No Finding,No Finding,No Finding,73.80%,No Finding,True,True
+12682.png,Infiltration,Finding,No Finding,77.38%,No Finding,False,False
+12685.png,Infiltration,Finding,Infiltration,47.22%,Finding,True,True
+12686.png,No Finding,No Finding,No Finding,89.73%,No Finding,True,True
+12687.png,No Finding,No Finding,No Finding,69.89%,No Finding,True,True
+12688.png,No Finding,No Finding,No Finding,93.46%,No Finding,True,True
+12690.png,No Finding,No Finding,No Finding,82.87%,No Finding,True,True
+12691.png,No Finding,No Finding,No Finding,70.70%,No Finding,True,True
+12692.png,No Finding,No Finding,No Finding,80.04%,No Finding,True,True
+12693.png,No Finding,No Finding,No Finding,84.74%,No Finding,True,True
+12695.png,No Finding,No Finding,No Finding,69.89%,No Finding,True,True
+12696.png,Infiltration,Finding,No Finding,63.73%,Finding,False,True
+12699.png,Infiltration,Finding,No Finding,50.20%,Finding,False,True
+12700.png,No Finding,No Finding,No Finding,82.29%,No Finding,True,True
+12701.png,No Finding,No Finding,No Finding,51.34%,Finding,True,False
+12703.png,No Finding,No Finding,No Finding,76.43%,Finding,True,False
+12705.png,No Finding,No Finding,No Finding,64.27%,Finding,True,False
+12706.png,No Finding,No Finding,No Finding,96.74%,No Finding,True,True
+12707.png,Edema,Finding,No Finding,54.64%,Finding,False,True
+12708.png,No Finding,No Finding,No Finding,62.88%,No Finding,True,True
+12709.png,Effusion,Finding,No Finding,75.35%,Finding,False,True
+12710.png,No Finding,No Finding,No Finding,72.96%,No Finding,True,True
+12714.png,No Finding,No Finding,No Finding,77.32%,No Finding,True,True
+12715.png,No Finding,No Finding,No Finding,72.52%,Finding,True,False
+12716.png,Infiltration,Finding,No Finding,65.75%,Finding,False,True
+12717.png,Effusion,Finding,No Finding,76.62%,No Finding,False,False
+12719.png,Infiltration,Finding,Infiltration,39.68%,Finding,True,True
+12720.png,Pneumonia,Finding,No Finding,57.77%,Finding,False,True
+12721.png,No Finding,No Finding,No Finding,59.31%,Finding,True,False
+12722.png,Atelectasis,Finding,No Finding,60.44%,Finding,False,True
+12724.png,No Finding,No Finding,No Finding,75.07%,No Finding,True,True
+12725.png,No Finding,No Finding,No Finding,76.69%,No Finding,True,True
+12726.png,No Finding,No Finding,No Finding,61.74%,No Finding,True,True
+12728.png,Cardiomegaly,Finding,No Finding,55.75%,Finding,False,True
+12729.png,No Finding,No Finding,No Finding,71.97%,No Finding,True,True
+12730.png,No Finding,No Finding,No Finding,80.37%,No Finding,True,True
+12733.png,Mass,Finding,No Finding,57.85%,Finding,False,True
+12734.png,Infiltration,Finding,No Finding,67.29%,Finding,False,True
+12736.png,No Finding,No Finding,No Finding,69.00%,Finding,True,False
+12737.png,No Finding,No Finding,No Finding,45.61%,Finding,True,False
+12738.png,Effusion,Finding,Effusion,47.41%,Finding,True,True
+12739.png,No Finding,No Finding,No Finding,69.91%,Finding,True,False
+12740.png,No Finding,No Finding,No Finding,81.74%,No Finding,True,True
+12741.png,No Finding,No Finding,No Finding,83.34%,No Finding,True,True
+12743.png,No Finding,No Finding,No Finding,76.55%,No Finding,True,True
+12745.png,No Finding,No Finding,No Finding,98.04%,No Finding,True,True
+12747.png,No Finding,No Finding,No Finding,35.65%,Finding,True,False
+12748.png,No Finding,No Finding,No Finding,52.56%,Finding,True,False
+12749.png,No Finding,No Finding,No Finding,60.95%,Finding,True,False
+12751.png,Infiltration,Finding,No Finding,57.96%,Finding,False,True
+12752.png,Effusion,Finding,No Finding,43.90%,Finding,False,True
+12753.png,Atelectasis,Finding,No Finding,71.96%,Finding,False,True
+12754.png,No Finding,No Finding,No Finding,97.49%,No Finding,True,True
+12755.png,No Finding,No Finding,No Finding,81.73%,No Finding,True,True
+12756.png,No Finding,No Finding,No Finding,82.18%,No Finding,True,True
+12758.png,No Finding,No Finding,No Finding,60.43%,No Finding,True,True
+12762.png,No Finding,No Finding,No Finding,63.98%,Finding,True,False
+12763.png,No Finding,No Finding,No Finding,91.36%,No Finding,True,True
+12764.png,No Finding,No Finding,No Finding,41.31%,Finding,True,False
+12765.png,No Finding,No Finding,No Finding,69.46%,Finding,True,False
+12768.png,No Finding,No Finding,No Finding,74.14%,Finding,True,False
+12769.png,No Finding,No Finding,No Finding,48.65%,Finding,True,False
+12770.png,No Finding,No Finding,No Finding,62.71%,No Finding,True,True
+12771.png,Infiltration,Finding,Infiltration,44.48%,Finding,True,True
+12772.png,No Finding,No Finding,No Finding,80.06%,No Finding,True,True
+12773.png,No Finding,No Finding,No Finding,64.90%,Finding,True,False
+12774.png,No Finding,No Finding,No Finding,68.63%,No Finding,True,True
+12775.png,Atelectasis,Finding,No Finding,59.72%,No Finding,False,False
+12776.png,Pleural_Thickening,Finding,No Finding,64.97%,No Finding,False,False
+12777.png,Atelectasis,Finding,No Finding,77.58%,No Finding,False,False
+12778.png,No Finding,No Finding,No Finding,86.45%,No Finding,True,True
+12779.png,Cardiomegaly,Finding,Cardiomegaly,65.51%,No Finding,True,False
+12781.png,No Finding,No Finding,No Finding,78.88%,Finding,True,False
+12782.png,No Finding,No Finding,No Finding,83.05%,No Finding,True,True
+12784.png,Infiltration,Finding,No Finding,72.56%,Finding,False,True
+12785.png,Infiltration,Finding,No Finding,69.66%,No Finding,False,False
+12787.png,No Finding,No Finding,No Finding,50.12%,Finding,True,False
+12788.png,No Finding,No Finding,No Finding,45.20%,Finding,True,False
+12789.png,No Finding,No Finding,No Finding,64.28%,No Finding,True,True
+12790.png,Effusion,Finding,No Finding,67.90%,No Finding,False,False
+12791.png,No Finding,No Finding,No Finding,68.41%,No Finding,True,True
+12792.png,No Finding,No Finding,No Finding,46.05%,Finding,True,False
+12793.png,No Finding,No Finding,No Finding,72.93%,No Finding,True,True
+12794.png,No Finding,No Finding,No Finding,90.25%,No Finding,True,True
+12795.png,No Finding,No Finding,No Finding,49.64%,Finding,True,False
+12796.png,Infiltration,Finding,No Finding,68.44%,Finding,False,True
+12798.png,Atelectasis,Finding,No Finding,69.59%,Finding,False,True
+12799.png,No Finding,No Finding,No Finding,91.04%,No Finding,True,True
+12801.png,No Finding,No Finding,No Finding,76.75%,Finding,True,False
+12802.png,No Finding,No Finding,No Finding,64.65%,No Finding,True,True
+12804.png,No Finding,No Finding,No Finding,64.33%,No Finding,True,True
+12806.png,No Finding,No Finding,No Finding,75.70%,No Finding,True,True
+12808.png,No Finding,No Finding,No Finding,75.08%,No Finding,True,True
+12809.png,No Finding,No Finding,No Finding,48.73%,Finding,True,False
+12810.png,No Finding,No Finding,No Finding,76.97%,No Finding,True,True
+12811.png,No Finding,No Finding,No Finding,49.64%,Finding,True,False
+12813.png,No Finding,No Finding,No Finding,69.42%,No Finding,True,True
+12814.png,No Finding,No Finding,No Finding,79.74%,No Finding,True,True
+12815.png,No Finding,No Finding,No Finding,93.66%,No Finding,True,True
+12816.png,No Finding,No Finding,No Finding,55.51%,Finding,True,False
+12817.png,No Finding,No Finding,No Finding,73.24%,No Finding,True,True
+12818.png,No Finding,No Finding,No Finding,90.48%,No Finding,True,True
+12820.png,No Finding,No Finding,No Finding,57.70%,No Finding,True,True
+12821.png,Infiltration,Finding,No Finding,59.73%,No Finding,False,False
+12822.png,No Finding,No Finding,No Finding,89.44%,No Finding,True,True
+12823.png,Effusion,Finding,No Finding,44.42%,Finding,False,True
+12824.png,No Finding,No Finding,No Finding,89.57%,No Finding,True,True
+12825.png,No Finding,No Finding,No Finding,84.22%,No Finding,True,True
+12826.png,No Finding,No Finding,No Finding,67.00%,Finding,True,False
+12827.png,No Finding,No Finding,No Finding,55.50%,Finding,True,False
+12828.png,No Finding,No Finding,No Finding,66.05%,Finding,True,False
+12829.png,Infiltration,Finding,No Finding,51.82%,Finding,False,True
+12830.png,Mass,Finding,No Finding,92.06%,No Finding,False,False
+12831.png,No Finding,No Finding,No Finding,61.93%,Finding,True,False
+12832.png,No Finding,No Finding,No Finding,94.67%,No Finding,True,True
+12834.png,Effusion,Finding,No Finding,50.90%,Finding,False,True
+12835.png,No Finding,No Finding,No Finding,58.33%,No Finding,True,True
+12836.png,No Finding,No Finding,No Finding,84.42%,No Finding,True,True
+12837.png,No Finding,No Finding,No Finding,61.31%,Finding,True,False
+12839.png,Atelectasis,Finding,No Finding,65.72%,No Finding,False,False
+12840.png,No Finding,No Finding,No Finding,54.33%,Finding,True,False
+12842.png,Infiltration,Finding,No Finding,76.06%,No Finding,False,False
+12843.png,No Finding,No Finding,No Finding,80.07%,No Finding,True,True
+12844.png,No Finding,No Finding,No Finding,73.16%,No Finding,True,True
+12845.png,No Finding,No Finding,No Finding,70.43%,Finding,True,False
+12846.png,No Finding,No Finding,No Finding,92.78%,No Finding,True,True
+12847.png,No Finding,No Finding,No Finding,82.16%,No Finding,True,True
+12848.png,No Finding,No Finding,No Finding,59.86%,No Finding,True,True
+12849.png,No Finding,No Finding,No Finding,77.39%,Finding,True,False
+12851.png,No Finding,No Finding,No Finding,84.02%,No Finding,True,True
+12852.png,No Finding,No Finding,No Finding,67.06%,Finding,True,False
+12853.png,No Finding,No Finding,No Finding,65.70%,Finding,True,False
+12854.png,No Finding,No Finding,No Finding,64.81%,Finding,True,False
+12856.png,No Finding,No Finding,No Finding,70.44%,No Finding,True,True
+12858.png,Nodule,Finding,No Finding,56.40%,Finding,False,True
+12859.png,No Finding,No Finding,No Finding,70.32%,No Finding,True,True
+12860.png,No Finding,No Finding,No Finding,81.86%,No Finding,True,True
+12861.png,Mass,Finding,Effusion,72.31%,Finding,False,True
+12862.png,Pneumothorax,Finding,No Finding,51.55%,Finding,False,True
+12863.png,Mass,Finding,No Finding,65.23%,Finding,False,True
+12864.png,No Finding,No Finding,No Finding,71.61%,No Finding,True,True
+12865.png,Consolidation,Finding,No Finding,45.22%,Finding,False,True
+12866.png,No Finding,No Finding,No Finding,96.10%,No Finding,True,True
+12868.png,No Finding,No Finding,No Finding,76.92%,Finding,True,False
+12869.png,No Finding,No Finding,No Finding,55.65%,Finding,True,False
+12870.png,Nodule,Finding,No Finding,85.62%,No Finding,False,False
+12871.png,Edema,Finding,No Finding,40.23%,Finding,False,True
+12872.png,No Finding,No Finding,No Finding,97.40%,No Finding,True,True
+12874.png,Pleural_Thickening,Finding,No Finding,57.70%,No Finding,False,False
+12877.png,Infiltration,Finding,No Finding,64.88%,No Finding,False,False
+12879.png,No Finding,No Finding,No Finding,67.98%,Finding,True,False
+12880.png,No Finding,No Finding,No Finding,93.20%,No Finding,True,True
+12881.png,Infiltration,Finding,Nodule,36.40%,Finding,False,True
+12882.png,No Finding,No Finding,No Finding,73.34%,No Finding,True,True
+12883.png,No Finding,No Finding,No Finding,89.24%,No Finding,True,True
+12884.png,No Finding,No Finding,No Finding,45.26%,Finding,True,False
+12885.png,No Finding,No Finding,No Finding,84.53%,No Finding,True,True
+12886.png,No Finding,No Finding,No Finding,75.16%,No Finding,True,True
+12888.png,No Finding,No Finding,No Finding,72.04%,Finding,True,False
+12890.png,Pneumothorax,Finding,No Finding,58.80%,Finding,False,True
+12891.png,Pleural_Thickening,Finding,No Finding,80.08%,No Finding,False,False
+12892.png,Infiltration,Finding,No Finding,78.79%,No Finding,False,False
+12893.png,No Finding,No Finding,No Finding,91.61%,No Finding,True,True
+12894.png,Infiltration,Finding,No Finding,35.57%,Finding,False,True
+12895.png,No Finding,No Finding,No Finding,78.47%,Finding,True,False
+12896.png,Fibrosis,Finding,No Finding,35.39%,Finding,False,True
+12897.png,No Finding,No Finding,No Finding,75.00%,No Finding,True,True
+12898.png,No Finding,No Finding,No Finding,79.36%,No Finding,True,True
+12899.png,Infiltration,Finding,No Finding,62.78%,Finding,False,True
+12900.png,No Finding,No Finding,No Finding,70.79%,No Finding,True,True
+12901.png,Atelectasis,Finding,No Finding,91.93%,No Finding,False,False
+12902.png,No Finding,No Finding,Effusion,61.02%,Finding,False,False
+12903.png,No Finding,No Finding,No Finding,89.25%,No Finding,True,True
+12905.png,Atelectasis,Finding,Atelectasis,55.81%,Finding,True,True
+12907.png,Infiltration,Finding,No Finding,75.56%,No Finding,False,False
+12908.png,Pleural_Thickening,Finding,No Finding,43.93%,Finding,False,True
+12912.png,Atelectasis,Finding,No Finding,76.58%,No Finding,False,False
+12913.png,Nodule,Finding,No Finding,88.07%,No Finding,False,False
+12914.png,No Finding,No Finding,No Finding,77.54%,No Finding,True,True
+12915.png,Infiltration,Finding,No Finding,51.01%,Finding,False,True
+12917.png,No Finding,No Finding,No Finding,68.81%,No Finding,True,True
+12918.png,Atelectasis,Finding,No Finding,47.07%,Finding,False,True
+12919.png,No Finding,No Finding,No Finding,73.33%,Finding,True,False
+12920.png,No Finding,No Finding,No Finding,70.60%,Finding,True,False
+12921.png,No Finding,No Finding,No Finding,59.77%,No Finding,True,True
+12922.png,No Finding,No Finding,No Finding,86.05%,No Finding,True,True
+12924.png,No Finding,No Finding,No Finding,87.62%,No Finding,True,True
+12926.png,No Finding,No Finding,No Finding,76.66%,No Finding,True,True
+12927.png,Infiltration,Finding,No Finding,63.57%,No Finding,False,False
+12928.png,No Finding,No Finding,No Finding,93.37%,Finding,True,False
+12929.png,No Finding,No Finding,No Finding,67.97%,No Finding,True,True
+12930.png,No Finding,No Finding,No Finding,77.05%,No Finding,True,True
+12931.png,No Finding,No Finding,No Finding,73.96%,No Finding,True,True
+12932.png,Nodule,Finding,Mass,52.08%,Finding,False,True
+12933.png,No Finding,No Finding,No Finding,53.66%,Finding,True,False
+12934.png,Hernia,Finding,No Finding,53.09%,Finding,False,True
+12935.png,Hernia,Finding,No Finding,40.51%,Finding,False,True
+12939.png,No Finding,No Finding,No Finding,67.43%,Finding,True,False
+12940.png,No Finding,No Finding,No Finding,52.86%,Finding,True,False
+12941.png,No Finding,No Finding,No Finding,84.37%,No Finding,True,True
+12942.png,No Finding,No Finding,No Finding,76.94%,No Finding,True,True
+12943.png,No Finding,No Finding,No Finding,56.14%,Finding,True,False
+12944.png,No Finding,No Finding,Infiltration,51.90%,Finding,False,False
+12947.png,Effusion,Finding,Effusion,52.09%,Finding,True,True
+12948.png,Effusion,Finding,No Finding,42.81%,Finding,False,True
+12950.png,Effusion,Finding,Effusion,41.23%,Finding,True,True
+12951.png,No Finding,No Finding,No Finding,56.25%,Finding,True,False
+12953.png,No Finding,No Finding,No Finding,78.00%,No Finding,True,True
+12954.png,No Finding,No Finding,No Finding,85.12%,No Finding,True,True
+12955.png,No Finding,No Finding,No Finding,72.48%,No Finding,True,True
+12956.png,Infiltration,Finding,No Finding,71.19%,No Finding,False,False
+12957.png,Infiltration,Finding,No Finding,77.51%,Finding,False,True
+12958.png,No Finding,No Finding,No Finding,86.44%,No Finding,True,True
+12959.png,No Finding,No Finding,No Finding,57.48%,Finding,True,False
+12960.png,No Finding,No Finding,No Finding,89.25%,No Finding,True,True
+12961.png,No Finding,No Finding,No Finding,99.27%,No Finding,True,True
+12963.png,No Finding,No Finding,No Finding,93.81%,No Finding,True,True
+12965.png,No Finding,No Finding,No Finding,83.37%,No Finding,True,True
+12966.png,Effusion,Finding,Effusion,36.36%,Finding,True,True
+12967.png,No Finding,No Finding,No Finding,67.67%,Finding,True,False
+12968.png,No Finding,No Finding,No Finding,36.14%,Finding,True,False
+12969.png,No Finding,No Finding,No Finding,79.84%,Finding,True,False
+12970.png,No Finding,No Finding,No Finding,98.01%,No Finding,True,True
+12972.png,No Finding,No Finding,No Finding,67.97%,Finding,True,False
+12973.png,No Finding,No Finding,No Finding,76.41%,Finding,True,False
+12974.png,No Finding,No Finding,No Finding,78.40%,No Finding,True,True
+12975.png,No Finding,No Finding,No Finding,83.39%,No Finding,True,True
+12977.png,No Finding,No Finding,No Finding,85.40%,No Finding,True,True
+12978.png,No Finding,No Finding,No Finding,82.25%,No Finding,True,True
+12980.png,Infiltration,Finding,No Finding,63.26%,No Finding,False,False
+12981.png,No Finding,No Finding,No Finding,70.02%,No Finding,True,True
+12982.png,No Finding,No Finding,No Finding,60.43%,Finding,True,False
+12984.png,Effusion,Finding,No Finding,41.66%,Finding,False,True
+12985.png,No Finding,No Finding,No Finding,71.58%,No Finding,True,True
+12986.png,Infiltration,Finding,No Finding,72.85%,No Finding,False,False
+12987.png,Effusion,Finding,No Finding,77.94%,No Finding,False,False
+12988.png,No Finding,No Finding,No Finding,53.69%,Finding,True,False
+12990.png,No Finding,No Finding,No Finding,56.85%,Finding,True,False
+12991.png,No Finding,No Finding,No Finding,74.59%,No Finding,True,True
+12993.png,No Finding,No Finding,No Finding,77.24%,No Finding,True,True
+12994.png,No Finding,No Finding,No Finding,61.84%,No Finding,True,True
+12995.png,No Finding,No Finding,No Finding,76.57%,No Finding,True,True
+12996.png,No Finding,No Finding,No Finding,78.79%,Finding,True,False
+12997.png,No Finding,No Finding,No Finding,89.08%,No Finding,True,True
+12998.png,Atelectasis,Finding,Effusion,39.06%,Finding,False,True
+12999.png,No Finding,No Finding,No Finding,68.71%,No Finding,True,True
+13000.png,Atelectasis,Finding,No Finding,63.00%,Finding,False,True
+13001.png,No Finding,No Finding,No Finding,74.25%,No Finding,True,True
+13002.png,No Finding,No Finding,No Finding,77.53%,No Finding,True,True
+13003.png,Pneumothorax,Finding,No Finding,60.96%,No Finding,False,False
+13005.png,Edema,Finding,No Finding,49.91%,Finding,False,True
+13006.png,No Finding,No Finding,No Finding,50.63%,Finding,True,False
+13008.png,No Finding,No Finding,No Finding,84.32%,No Finding,True,True
+13010.png,Cardiomegaly,Finding,No Finding,61.95%,Finding,False,True
+13011.png,No Finding,No Finding,No Finding,40.06%,Finding,True,False
+13012.png,Effusion,Finding,Effusion,47.19%,Finding,True,True
+13013.png,Infiltration,Finding,No Finding,58.66%,Finding,False,True
+13014.png,Mass,Finding,No Finding,59.08%,Finding,False,True
+13015.png,Mass,Finding,No Finding,55.93%,Finding,False,True
+13018.png,No Finding,No Finding,No Finding,61.16%,No Finding,True,True
+13019.png,Pleural_Thickening,Finding,No Finding,88.59%,No Finding,False,False
+13020.png,No Finding,No Finding,No Finding,70.45%,No Finding,True,True
+13021.png,Infiltration,Finding,No Finding,35.64%,Finding,False,True
+13022.png,Emphysema,Finding,No Finding,40.04%,Finding,False,True
+13023.png,No Finding,No Finding,No Finding,80.12%,No Finding,True,True
+13024.png,No Finding,No Finding,No Finding,87.46%,No Finding,True,True
+13025.png,No Finding,No Finding,No Finding,80.08%,No Finding,True,True
+13026.png,No Finding,No Finding,No Finding,60.68%,No Finding,True,True
+13028.png,No Finding,No Finding,No Finding,89.70%,No Finding,True,True
+13029.png,No Finding,No Finding,No Finding,88.84%,No Finding,True,True
+13032.png,No Finding,No Finding,No Finding,65.76%,No Finding,True,True
+13033.png,Infiltration,Finding,No Finding,48.85%,Finding,False,True
+13034.png,Consolidation,Finding,No Finding,85.12%,No Finding,False,False
+13035.png,No Finding,No Finding,No Finding,75.66%,No Finding,True,True
+13036.png,No Finding,No Finding,No Finding,77.47%,No Finding,True,True
+13037.png,Edema,Finding,No Finding,60.10%,Finding,False,True
+13038.png,No Finding,No Finding,Cardiomegaly,67.26%,Finding,False,False
+13039.png,Mass,Finding,No Finding,60.58%,Finding,False,True
+13040.png,No Finding,No Finding,No Finding,69.32%,No Finding,True,True
+13041.png,Infiltration,Finding,No Finding,84.25%,No Finding,False,False
+13042.png,No Finding,No Finding,No Finding,97.13%,No Finding,True,True
+13044.png,No Finding,No Finding,No Finding,76.84%,No Finding,True,True
+13045.png,No Finding,No Finding,No Finding,74.84%,No Finding,True,True
+13046.png,No Finding,No Finding,No Finding,74.25%,No Finding,True,True
+13048.png,No Finding,No Finding,No Finding,75.93%,No Finding,True,True
+13049.png,No Finding,No Finding,No Finding,64.72%,Finding,True,False
+13050.png,No Finding,No Finding,No Finding,71.37%,No Finding,True,True
+13051.png,No Finding,No Finding,No Finding,84.44%,No Finding,True,True
+13052.png,No Finding,No Finding,No Finding,84.47%,No Finding,True,True
+13054.png,No Finding,No Finding,No Finding,61.44%,Finding,True,False
+13055.png,No Finding,No Finding,No Finding,90.59%,No Finding,True,True
+13056.png,Infiltration,Finding,No Finding,81.28%,No Finding,False,False
+13057.png,No Finding,No Finding,No Finding,85.57%,No Finding,True,True
+13058.png,No Finding,No Finding,No Finding,51.24%,Finding,True,False
+13059.png,No Finding,No Finding,No Finding,70.00%,No Finding,True,True
+13060.png,No Finding,No Finding,No Finding,72.43%,No Finding,True,True
+13061.png,Pneumonia,Finding,No Finding,63.65%,No Finding,False,False
+13062.png,No Finding,No Finding,Effusion,63.07%,Finding,False,False
+13063.png,Pleural_Thickening,Finding,No Finding,66.10%,No Finding,False,False
+13064.png,Nodule,Finding,No Finding,76.23%,No Finding,False,False
+13065.png,Consolidation,Finding,No Finding,49.89%,Finding,False,True
+13067.png,No Finding,No Finding,No Finding,55.80%,Finding,True,False
+13068.png,No Finding,No Finding,No Finding,92.77%,No Finding,True,True
+13070.png,Effusion,Finding,No Finding,51.58%,Finding,False,True
+13071.png,Nodule,Finding,No Finding,61.94%,Finding,False,True
+13072.png,No Finding,No Finding,No Finding,97.17%,No Finding,True,True
+13074.png,No Finding,No Finding,No Finding,51.16%,Finding,True,False
+13075.png,Atelectasis,Finding,No Finding,50.07%,Finding,False,True
+13076.png,No Finding,No Finding,No Finding,95.63%,No Finding,True,True
+13077.png,Emphysema,Finding,No Finding,57.78%,Finding,False,True
+13078.png,Fibrosis,Finding,No Finding,70.12%,No Finding,False,False
+13079.png,Nodule,Finding,No Finding,79.98%,No Finding,False,False
+13080.png,Atelectasis,Finding,No Finding,58.79%,No Finding,False,False
+13081.png,Cardiomegaly,Finding,No Finding,64.85%,Finding,False,True
+13082.png,Cardiomegaly,Finding,No Finding,57.61%,Finding,False,True
+13083.png,Infiltration,Finding,No Finding,37.09%,Finding,False,True
+13084.png,Pneumothorax,Finding,No Finding,47.73%,Finding,False,True
+13085.png,No Finding,No Finding,No Finding,69.98%,Finding,True,False
+13086.png,No Finding,No Finding,No Finding,54.81%,Finding,True,False
+13087.png,No Finding,No Finding,No Finding,84.24%,No Finding,True,True
+13089.png,No Finding,No Finding,No Finding,71.80%,No Finding,True,True
+13090.png,No Finding,No Finding,Nodule,45.70%,Finding,False,False
+13091.png,No Finding,No Finding,No Finding,49.69%,Finding,True,False
+13092.png,No Finding,No Finding,No Finding,80.07%,No Finding,True,True
+13093.png,Effusion,Finding,No Finding,43.63%,Finding,False,True
+13095.png,Effusion,Finding,No Finding,41.56%,Finding,False,True
+13096.png,No Finding,No Finding,No Finding,74.42%,No Finding,True,True
+13097.png,Nodule,Finding,No Finding,94.07%,No Finding,False,False
+13098.png,No Finding,No Finding,No Finding,45.23%,Finding,True,False
+13099.png,Fibrosis,Finding,No Finding,49.40%,Finding,False,True
+13102.png,Infiltration,Finding,No Finding,77.93%,No Finding,False,False
+13103.png,No Finding,No Finding,No Finding,94.55%,No Finding,True,True
+13104.png,No Finding,No Finding,No Finding,63.86%,No Finding,True,True
+13105.png,Infiltration,Finding,No Finding,43.35%,Finding,False,True
+13106.png,No Finding,No Finding,Effusion,49.03%,Finding,False,False
+13107.png,Infiltration,Finding,No Finding,80.21%,No Finding,False,False
+13108.png,No Finding,No Finding,No Finding,73.27%,No Finding,True,True
+13109.png,No Finding,No Finding,No Finding,78.03%,No Finding,True,True
+13110.png,No Finding,No Finding,No Finding,81.73%,No Finding,True,True
+13111.png,Atelectasis,Finding,No Finding,53.65%,No Finding,False,False
+13112.png,No Finding,No Finding,No Finding,79.74%,No Finding,True,True
+13113.png,Nodule,Finding,Effusion,39.88%,Finding,False,True
+13114.png,Nodule,Finding,No Finding,38.34%,Finding,False,True
+13117.png,No Finding,No Finding,No Finding,78.19%,No Finding,True,True
+13118.png,Nodule,Finding,No Finding,78.34%,No Finding,False,False
+13119.png,No Finding,No Finding,No Finding,81.61%,No Finding,True,True
+13120.png,No Finding,No Finding,No Finding,62.12%,Finding,True,False
+13121.png,No Finding,No Finding,No Finding,83.88%,No Finding,True,True
+13122.png,No Finding,No Finding,No Finding,50.51%,Finding,True,False
+13123.png,No Finding,No Finding,No Finding,37.35%,Finding,True,False
+13124.png,No Finding,No Finding,No Finding,76.25%,No Finding,True,True
+13125.png,Infiltration,Finding,No Finding,55.83%,Finding,False,True
+13126.png,No Finding,No Finding,No Finding,42.23%,Finding,True,False
+13127.png,Atelectasis,Finding,No Finding,82.61%,No Finding,False,False
+13128.png,Pneumonia,Finding,No Finding,60.04%,Finding,False,True
+13129.png,No Finding,No Finding,No Finding,96.66%,No Finding,True,True
+13130.png,Infiltration,Finding,No Finding,45.24%,Finding,False,True
+13131.png,No Finding,No Finding,No Finding,78.10%,No Finding,True,True
+13132.png,No Finding,No Finding,No Finding,74.28%,Finding,True,False
+13133.png,No Finding,No Finding,No Finding,42.12%,Finding,True,False
+13134.png,No Finding,No Finding,No Finding,70.34%,No Finding,True,True
+13135.png,No Finding,No Finding,No Finding,90.05%,No Finding,True,True
+13136.png,Infiltration,Finding,No Finding,75.56%,No Finding,False,False
+13137.png,No Finding,No Finding,No Finding,69.87%,No Finding,True,True
+13139.png,Pneumothorax,Finding,No Finding,68.94%,No Finding,False,False
+13140.png,No Finding,No Finding,No Finding,93.00%,No Finding,True,True
+13141.png,Infiltration,Finding,No Finding,81.36%,No Finding,False,False
+13142.png,No Finding,No Finding,No Finding,71.40%,Finding,True,False
+13144.png,No Finding,No Finding,No Finding,44.56%,Finding,True,False
+13145.png,No Finding,No Finding,No Finding,50.53%,Finding,True,False
+13147.png,No Finding,No Finding,No Finding,81.65%,No Finding,True,True
+13148.png,No Finding,No Finding,No Finding,59.88%,Finding,True,False
+13149.png,Atelectasis,Finding,No Finding,69.50%,No Finding,False,False
+13150.png,No Finding,No Finding,No Finding,56.91%,Finding,True,False
+13152.png,No Finding,No Finding,No Finding,70.38%,Finding,True,False
+13153.png,No Finding,No Finding,No Finding,55.32%,Finding,True,False
+13154.png,No Finding,No Finding,No Finding,69.15%,Finding,True,False
+13155.png,No Finding,No Finding,No Finding,59.15%,Finding,True,False
+13158.png,No Finding,No Finding,No Finding,81.95%,No Finding,True,True
+13159.png,No Finding,No Finding,No Finding,72.06%,No Finding,True,True
+13160.png,No Finding,No Finding,No Finding,68.46%,No Finding,True,True
+13161.png,No Finding,No Finding,No Finding,90.06%,No Finding,True,True
+13162.png,Mass,Finding,No Finding,45.00%,Finding,False,True
+13163.png,Consolidation,Finding,No Finding,69.72%,Finding,False,True
+13164.png,Infiltration,Finding,No Finding,62.36%,Finding,False,True
+13165.png,No Finding,No Finding,No Finding,45.73%,Finding,True,False
+13166.png,No Finding,No Finding,No Finding,64.61%,No Finding,True,True
+13167.png,Atelectasis,Finding,No Finding,68.64%,No Finding,False,False
+13168.png,No Finding,No Finding,No Finding,62.75%,Finding,True,False
+13169.png,No Finding,No Finding,No Finding,48.17%,Finding,True,False
+13170.png,No Finding,No Finding,No Finding,73.57%,No Finding,True,True
+13172.png,Infiltration,Finding,No Finding,85.39%,No Finding,False,False
+13173.png,Infiltration,Finding,No Finding,80.10%,No Finding,False,False
+13174.png,Infiltration,Finding,No Finding,49.80%,Finding,False,True
+13175.png,Infiltration,Finding,No Finding,82.98%,No Finding,False,False
+13176.png,No Finding,No Finding,No Finding,59.75%,Finding,True,False
+13177.png,No Finding,No Finding,No Finding,57.86%,Finding,True,False
+13178.png,Atelectasis,Finding,No Finding,80.83%,No Finding,False,False
+13179.png,Infiltration,Finding,No Finding,73.21%,No Finding,False,False
+13180.png,No Finding,No Finding,No Finding,76.44%,No Finding,True,True
+13181.png,Atelectasis,Finding,No Finding,56.29%,Finding,False,True
+13182.png,No Finding,No Finding,No Finding,64.84%,Finding,True,False
+13183.png,Infiltration,Finding,No Finding,46.91%,Finding,False,True
+13186.png,Mass,Finding,No Finding,45.39%,Finding,False,True
+13187.png,No Finding,No Finding,No Finding,62.73%,No Finding,True,True
+13190.png,No Finding,No Finding,No Finding,95.62%,No Finding,True,True
+13191.png,Infiltration,Finding,No Finding,49.06%,Finding,False,True
+13192.png,No Finding,No Finding,No Finding,84.28%,No Finding,True,True
+13193.png,No Finding,No Finding,No Finding,83.75%,No Finding,True,True
+13195.png,No Finding,No Finding,No Finding,71.95%,No Finding,True,True
+13196.png,No Finding,No Finding,No Finding,73.13%,Finding,True,False
+13197.png,No Finding,No Finding,No Finding,56.44%,Finding,True,False
+13198.png,No Finding,No Finding,No Finding,55.08%,Finding,True,False
+13199.png,No Finding,No Finding,No Finding,79.45%,No Finding,True,True
+13200.png,Nodule,Finding,No Finding,46.08%,Finding,False,True
+13202.png,No Finding,No Finding,No Finding,66.37%,No Finding,True,True
+13203.png,Cardiomegaly,Finding,Cardiomegaly,50.67%,Finding,True,True
+13204.png,No Finding,No Finding,No Finding,71.14%,No Finding,True,True
+13205.png,No Finding,No Finding,No Finding,47.58%,Finding,True,False
+13206.png,Infiltration,Finding,No Finding,78.35%,No Finding,False,False
+13207.png,No Finding,No Finding,No Finding,72.26%,No Finding,True,True
+13208.png,No Finding,No Finding,No Finding,72.52%,No Finding,True,True
+13209.png,No Finding,No Finding,No Finding,57.44%,Finding,True,False
+13210.png,No Finding,No Finding,No Finding,48.96%,Finding,True,False
+13211.png,Atelectasis,Finding,No Finding,61.10%,No Finding,False,False
+13212.png,Consolidation,Finding,No Finding,47.53%,Finding,False,True
+13214.png,No Finding,No Finding,No Finding,92.16%,No Finding,True,True
+13215.png,No Finding,No Finding,No Finding,38.03%,Finding,True,False
+13216.png,No Finding,No Finding,No Finding,80.43%,No Finding,True,True
+13218.png,Nodule,Finding,No Finding,65.71%,Finding,False,True
+13219.png,No Finding,No Finding,No Finding,61.61%,No Finding,True,True
+13220.png,Pleural_Thickening,Finding,No Finding,48.28%,Finding,False,True
+13221.png,Nodule,Finding,No Finding,48.17%,Finding,False,True
+13222.png,Atelectasis,Finding,No Finding,66.77%,Finding,False,True
+13223.png,No Finding,No Finding,No Finding,34.97%,Finding,True,False
+13224.png,No Finding,No Finding,No Finding,86.35%,No Finding,True,True
+13226.png,No Finding,No Finding,No Finding,63.44%,No Finding,True,True
+13227.png,Infiltration,Finding,No Finding,55.67%,No Finding,False,False
+13228.png,No Finding,No Finding,No Finding,96.82%,No Finding,True,True
+13229.png,Mass,Finding,No Finding,54.66%,Finding,False,True
+13230.png,No Finding,No Finding,No Finding,40.83%,Finding,True,False
+13231.png,No Finding,No Finding,No Finding,90.83%,No Finding,True,True
+13232.png,No Finding,No Finding,No Finding,89.61%,No Finding,True,True
+13233.png,No Finding,No Finding,No Finding,73.17%,No Finding,True,True
+13234.png,Cardiomegaly,Finding,No Finding,46.07%,Finding,False,True
+13235.png,No Finding,No Finding,No Finding,71.33%,No Finding,True,True
+13236.png,Cardiomegaly,Finding,No Finding,74.39%,No Finding,False,False
+13237.png,Infiltration,Finding,No Finding,53.74%,Finding,False,True
+13238.png,No Finding,No Finding,No Finding,82.91%,No Finding,True,True
+13239.png,No Finding,No Finding,No Finding,47.14%,Finding,True,False
+13242.png,No Finding,No Finding,No Finding,87.43%,No Finding,True,True
+13243.png,Fibrosis,Finding,No Finding,64.03%,Finding,False,True
+13244.png,No Finding,No Finding,No Finding,65.65%,Finding,True,False
+13245.png,Atelectasis,Finding,No Finding,48.95%,Finding,False,True
+13246.png,No Finding,No Finding,No Finding,87.79%,No Finding,True,True
+13247.png,No Finding,No Finding,No Finding,49.30%,Finding,True,False
+13248.png,No Finding,No Finding,No Finding,77.82%,No Finding,True,True
+13249.png,No Finding,No Finding,No Finding,87.58%,No Finding,True,True
+13250.png,No Finding,No Finding,No Finding,42.75%,Finding,True,False
+13251.png,No Finding,No Finding,No Finding,70.10%,No Finding,True,True
+13253.png,No Finding,No Finding,No Finding,94.32%,No Finding,True,True
+13255.png,Mass,Finding,No Finding,55.09%,Finding,False,True
+13256.png,No Finding,No Finding,No Finding,81.32%,No Finding,True,True
+13257.png,Infiltration,Finding,No Finding,47.79%,Finding,False,True
+13259.png,No Finding,No Finding,No Finding,75.63%,No Finding,True,True
+13260.png,No Finding,No Finding,No Finding,68.88%,No Finding,True,True
+13261.png,No Finding,No Finding,No Finding,81.62%,No Finding,True,True
+13262.png,Infiltration,Finding,No Finding,51.53%,Finding,False,True
+13264.png,Infiltration,Finding,No Finding,58.96%,Finding,False,True
+13265.png,No Finding,No Finding,No Finding,81.93%,No Finding,True,True
+13266.png,No Finding,No Finding,No Finding,46.56%,Finding,True,False
+13267.png,No Finding,No Finding,No Finding,52.83%,Finding,True,False
+13268.png,Infiltration,Finding,No Finding,72.37%,Finding,False,True
+13269.png,No Finding,No Finding,No Finding,77.31%,No Finding,True,True
+13270.png,Infiltration,Finding,No Finding,66.91%,No Finding,False,False
+13271.png,Emphysema,Finding,No Finding,67.10%,No Finding,False,False
+13273.png,Atelectasis,Finding,No Finding,43.90%,Finding,False,True
+13274.png,Effusion,Finding,No Finding,59.10%,Finding,False,True
+13275.png,Infiltration,Finding,No Finding,70.30%,Finding,False,True
+13276.png,No Finding,No Finding,No Finding,87.42%,No Finding,True,True
+13277.png,No Finding,No Finding,No Finding,79.13%,No Finding,True,True
+13278.png,No Finding,No Finding,No Finding,46.60%,Finding,True,False
+13280.png,Effusion,Finding,No Finding,62.08%,Finding,False,True
+13281.png,Emphysema,Finding,No Finding,50.67%,Finding,False,True
+13282.png,Pleural_Thickening,Finding,No Finding,49.02%,Finding,False,True
+13283.png,No Finding,No Finding,No Finding,67.67%,No Finding,True,True
+13284.png,No Finding,No Finding,No Finding,73.20%,No Finding,True,True
+13286.png,No Finding,No Finding,No Finding,82.96%,No Finding,True,True
+13287.png,Consolidation,Finding,No Finding,49.87%,Finding,False,True
+13290.png,Atelectasis,Finding,No Finding,75.54%,No Finding,False,False
+13292.png,Consolidation,Finding,No Finding,56.61%,Finding,False,True
+13293.png,No Finding,No Finding,No Finding,69.19%,No Finding,True,True
+13294.png,Cardiomegaly,Finding,No Finding,81.60%,No Finding,False,False
+13295.png,No Finding,No Finding,No Finding,64.88%,No Finding,True,True
+13296.png,Infiltration,Finding,No Finding,65.28%,Finding,False,True
+13298.png,No Finding,No Finding,No Finding,78.46%,No Finding,True,True
+13299.png,Infiltration,Finding,No Finding,64.25%,Finding,False,True
+13300.png,No Finding,No Finding,Cardiomegaly,79.72%,No Finding,False,True
+13301.png,No Finding,No Finding,No Finding,55.27%,Finding,True,False
+13302.png,Atelectasis,Finding,No Finding,87.25%,No Finding,False,False
+13303.png,No Finding,No Finding,No Finding,96.67%,No Finding,True,True
+13305.png,Infiltration,Finding,No Finding,71.29%,Finding,False,True
+13306.png,No Finding,No Finding,No Finding,51.01%,Finding,True,False
+13307.png,Effusion,Finding,No Finding,48.93%,Finding,False,True
+13308.png,No Finding,No Finding,No Finding,93.32%,No Finding,True,True
+13309.png,No Finding,No Finding,No Finding,71.51%,No Finding,True,True
+13311.png,Atelectasis,Finding,No Finding,79.27%,No Finding,False,False
+13312.png,Infiltration,Finding,No Finding,76.15%,No Finding,False,False
+13313.png,No Finding,No Finding,No Finding,49.19%,Finding,True,False
+13314.png,Infiltration,Finding,No Finding,80.99%,No Finding,False,False
+13315.png,No Finding,No Finding,No Finding,83.72%,No Finding,True,True
+13316.png,No Finding,No Finding,No Finding,88.51%,No Finding,True,True
+13317.png,Effusion,Finding,No Finding,53.56%,Finding,False,True
+13318.png,No Finding,No Finding,No Finding,54.01%,Finding,True,False
+13319.png,No Finding,No Finding,Effusion,71.44%,Finding,False,False
+13320.png,Emphysema,Finding,No Finding,57.83%,No Finding,False,False
+13322.png,Fibrosis,Finding,No Finding,62.65%,No Finding,False,False
+13323.png,No Finding,No Finding,No Finding,72.43%,No Finding,True,True
+13326.png,Infiltration,Finding,Infiltration,41.93%,Finding,True,True
+13327.png,No Finding,No Finding,No Finding,65.57%,Finding,True,False
+13328.png,No Finding,No Finding,No Finding,62.57%,No Finding,True,True
+13329.png,No Finding,No Finding,No Finding,93.84%,No Finding,True,True
+13330.png,No Finding,No Finding,No Finding,56.30%,Finding,True,False
+13331.png,No Finding,No Finding,No Finding,71.11%,No Finding,True,True
+13332.png,No Finding,No Finding,No Finding,45.36%,Finding,True,False
+13334.png,No Finding,No Finding,No Finding,44.16%,Finding,True,False
+13335.png,No Finding,No Finding,No Finding,66.70%,Finding,True,False
+13336.png,No Finding,No Finding,No Finding,85.45%,Finding,True,False
+13337.png,No Finding,No Finding,No Finding,79.12%,No Finding,True,True
+13338.png,Effusion,Finding,No Finding,46.31%,Finding,False,True
+13339.png,Mass,Finding,No Finding,52.65%,Finding,False,True
+13340.png,No Finding,No Finding,No Finding,59.77%,No Finding,True,True
+13341.png,No Finding,No Finding,No Finding,58.84%,Finding,True,False
+13343.png,No Finding,No Finding,No Finding,74.10%,No Finding,True,True
+13344.png,No Finding,No Finding,No Finding,98.25%,No Finding,True,True
+13345.png,No Finding,No Finding,No Finding,59.09%,Finding,True,False
+13346.png,No Finding,No Finding,No Finding,53.50%,Finding,True,False
+13348.png,Infiltration,Finding,No Finding,47.07%,Finding,False,True
+13349.png,No Finding,No Finding,No Finding,78.32%,No Finding,True,True
+13350.png,Nodule,Finding,No Finding,37.08%,Finding,False,True
+13351.png,No Finding,No Finding,No Finding,61.30%,Finding,True,False
+13352.png,Effusion,Finding,No Finding,52.00%,Finding,False,True
+13353.png,No Finding,No Finding,No Finding,92.40%,No Finding,True,True
+13354.png,No Finding,No Finding,No Finding,57.53%,Finding,True,False
+13358.png,No Finding,No Finding,No Finding,83.54%,No Finding,True,True
+13360.png,No Finding,No Finding,No Finding,71.03%,No Finding,True,True
+13361.png,No Finding,No Finding,No Finding,79.68%,No Finding,True,True
+13362.png,No Finding,No Finding,No Finding,94.26%,No Finding,True,True
+13364.png,Atelectasis,Finding,No Finding,62.67%,Finding,False,True
+13365.png,No Finding,No Finding,No Finding,49.96%,Finding,True,False
+13366.png,No Finding,No Finding,No Finding,48.16%,Finding,True,False
+13367.png,Effusion,Finding,No Finding,49.15%,Finding,False,True
+13368.png,No Finding,No Finding,No Finding,60.74%,Finding,True,False
+13369.png,No Finding,No Finding,No Finding,52.05%,Finding,True,False
+13370.png,No Finding,No Finding,No Finding,46.07%,Finding,True,False
+13371.png,No Finding,No Finding,No Finding,94.12%,No Finding,True,True
+13374.png,No Finding,No Finding,No Finding,44.93%,Finding,True,False
+13375.png,No Finding,No Finding,No Finding,66.36%,Finding,True,False
+13377.png,Infiltration,Finding,Infiltration,64.62%,Finding,True,True
+13378.png,Infiltration,Finding,No Finding,71.74%,No Finding,False,False
+13380.png,No Finding,No Finding,No Finding,90.21%,No Finding,True,True
+13381.png,No Finding,No Finding,No Finding,77.37%,No Finding,True,True
+13382.png,No Finding,No Finding,No Finding,80.32%,No Finding,True,True
+13383.png,Cardiomegaly,Finding,No Finding,52.93%,Finding,False,True
+13384.png,No Finding,No Finding,No Finding,49.40%,Finding,True,False
+13385.png,Infiltration,Finding,No Finding,72.43%,No Finding,False,False
+13386.png,No Finding,No Finding,No Finding,50.76%,Finding,True,False
+13387.png,Mass,Finding,No Finding,65.28%,No Finding,False,False
+13390.png,Effusion,Finding,No Finding,64.56%,Finding,False,True
+13391.png,No Finding,No Finding,No Finding,71.90%,No Finding,True,True
+13392.png,No Finding,No Finding,No Finding,71.99%,No Finding,True,True
+13393.png,No Finding,No Finding,No Finding,74.80%,No Finding,True,True
+13394.png,Infiltration,Finding,No Finding,66.94%,No Finding,False,False
+13395.png,No Finding,No Finding,No Finding,60.80%,Finding,True,False
+13396.png,Pneumothorax,Finding,No Finding,63.30%,Finding,False,True
+13398.png,Pleural_Thickening,Finding,No Finding,51.45%,Finding,False,True
+13399.png,No Finding,No Finding,No Finding,60.79%,Finding,True,False
+13400.png,No Finding,No Finding,No Finding,62.29%,No Finding,True,True
+13401.png,Pneumonia,Finding,No Finding,64.56%,Finding,False,True
+13403.png,Infiltration,Finding,No Finding,43.85%,Finding,False,True
+13404.png,No Finding,No Finding,No Finding,47.43%,Finding,True,False
+13407.png,No Finding,No Finding,No Finding,71.08%,Finding,True,False
+13409.png,Effusion,Finding,No Finding,47.45%,Finding,False,True
+13410.png,No Finding,No Finding,No Finding,53.29%,No Finding,True,True
+13411.png,No Finding,No Finding,No Finding,87.41%,No Finding,True,True
+13412.png,Nodule,Finding,No Finding,88.88%,No Finding,False,False
+13413.png,No Finding,No Finding,No Finding,54.67%,Finding,True,False
+13414.png,No Finding,No Finding,No Finding,82.87%,No Finding,True,True
+13415.png,No Finding,No Finding,No Finding,65.05%,No Finding,True,True
+13416.png,Mass,Finding,No Finding,58.96%,Finding,False,True
+13417.png,Infiltration,Finding,No Finding,69.41%,No Finding,False,False
+13418.png,No Finding,No Finding,No Finding,94.16%,No Finding,True,True
+13419.png,No Finding,No Finding,No Finding,90.88%,No Finding,True,True
+13420.png,Atelectasis,Finding,No Finding,56.99%,Finding,False,True
+13421.png,Infiltration,Finding,No Finding,62.58%,Finding,False,True
+13422.png,No Finding,No Finding,No Finding,63.34%,Finding,True,False
+13423.png,No Finding,No Finding,No Finding,73.77%,No Finding,True,True
+13424.png,No Finding,No Finding,No Finding,41.59%,Finding,True,False
+13426.png,No Finding,No Finding,No Finding,61.30%,Finding,True,False
+13427.png,No Finding,No Finding,No Finding,78.52%,No Finding,True,True
+13428.png,No Finding,No Finding,No Finding,93.24%,No Finding,True,True
+13429.png,No Finding,No Finding,No Finding,75.56%,No Finding,True,True
+13431.png,No Finding,No Finding,No Finding,73.78%,No Finding,True,True
+13432.png,Infiltration,Finding,No Finding,75.13%,No Finding,False,False
+13433.png,No Finding,No Finding,No Finding,94.20%,No Finding,True,True
+13434.png,Atelectasis,Finding,No Finding,39.03%,Finding,False,True
+13435.png,No Finding,No Finding,No Finding,50.24%,Finding,True,False
+13436.png,No Finding,No Finding,No Finding,80.35%,Finding,True,False
+13437.png,No Finding,No Finding,No Finding,82.20%,No Finding,True,True
+13438.png,Effusion,Finding,No Finding,57.29%,Finding,False,True
+13439.png,Pneumothorax,Finding,No Finding,68.03%,No Finding,False,False
+13440.png,No Finding,No Finding,No Finding,80.20%,No Finding,True,True
+13443.png,No Finding,No Finding,No Finding,79.80%,No Finding,True,True
+13444.png,No Finding,No Finding,No Finding,78.54%,No Finding,True,True
+13447.png,Effusion,Finding,No Finding,69.22%,Finding,False,True
+13450.png,No Finding,No Finding,No Finding,53.09%,Finding,True,False
+13451.png,Infiltration,Finding,No Finding,57.39%,No Finding,False,False
+13452.png,No Finding,No Finding,No Finding,67.76%,No Finding,True,True
+13453.png,No Finding,No Finding,No Finding,82.38%,No Finding,True,True
+13454.png,Infiltration,Finding,No Finding,72.85%,No Finding,False,False
+13455.png,Cardiomegaly,Finding,No Finding,69.84%,No Finding,False,False
+13456.png,Effusion,Finding,No Finding,52.22%,Finding,False,True
+13457.png,No Finding,No Finding,No Finding,63.43%,Finding,True,False
+13458.png,Edema,Finding,No Finding,55.90%,Finding,False,True
+13459.png,No Finding,No Finding,No Finding,89.11%,No Finding,True,True
+13460.png,No Finding,No Finding,No Finding,63.88%,No Finding,True,True
+13461.png,No Finding,No Finding,No Finding,66.33%,No Finding,True,True
+13462.png,Effusion,Finding,No Finding,45.54%,Finding,False,True
+13463.png,No Finding,No Finding,No Finding,51.12%,No Finding,True,True
+13464.png,Effusion,Finding,No Finding,42.55%,Finding,False,True
+13465.png,Infiltration,Finding,No Finding,58.87%,Finding,False,True
+13467.png,No Finding,No Finding,No Finding,72.19%,No Finding,True,True
+13470.png,No Finding,No Finding,No Finding,80.38%,No Finding,True,True
+13471.png,Nodule,Finding,Nodule,73.58%,Finding,True,True
+13472.png,No Finding,No Finding,No Finding,58.49%,Finding,True,False
+13474.png,No Finding,No Finding,No Finding,91.56%,No Finding,True,True
+13475.png,No Finding,No Finding,No Finding,78.60%,No Finding,True,True
+13476.png,Edema,Finding,Infiltration,38.04%,Finding,False,True
+13477.png,No Finding,No Finding,No Finding,51.28%,Finding,True,False
+13478.png,Infiltration,Finding,No Finding,57.45%,Finding,False,True
+13479.png,No Finding,No Finding,No Finding,65.13%,No Finding,True,True
+13480.png,Atelectasis,Finding,No Finding,47.85%,No Finding,False,False
+13482.png,No Finding,No Finding,No Finding,76.36%,No Finding,True,True
+13483.png,No Finding,No Finding,No Finding,90.96%,No Finding,True,True
+13484.png,Infiltration,Finding,No Finding,71.99%,No Finding,False,False
+13486.png,No Finding,No Finding,No Finding,77.50%,No Finding,True,True
+13487.png,Effusion,Finding,No Finding,47.86%,Finding,False,True
+13488.png,Cardiomegaly,Finding,No Finding,49.98%,No Finding,False,False
+13489.png,No Finding,No Finding,No Finding,78.55%,No Finding,True,True
+13490.png,No Finding,No Finding,No Finding,55.30%,No Finding,True,True
+13491.png,No Finding,No Finding,No Finding,83.37%,No Finding,True,True
+13493.png,No Finding,No Finding,No Finding,86.39%,No Finding,True,True
+13495.png,No Finding,No Finding,No Finding,67.57%,Finding,True,False
+13496.png,No Finding,No Finding,No Finding,61.69%,No Finding,True,True
+13497.png,No Finding,No Finding,No Finding,49.10%,Finding,True,False
+13498.png,No Finding,No Finding,No Finding,79.17%,No Finding,True,True
+13499.png,No Finding,No Finding,No Finding,84.88%,No Finding,True,True
+13500.png,Cardiomegaly,Finding,No Finding,71.11%,Finding,False,True
+13501.png,No Finding,No Finding,No Finding,54.94%,Finding,True,False
+13502.png,No Finding,No Finding,No Finding,61.92%,Finding,True,False
+13503.png,No Finding,No Finding,No Finding,50.52%,Finding,True,False
+13504.png,Pneumothorax,Finding,No Finding,58.51%,No Finding,False,False
+13505.png,No Finding,No Finding,No Finding,89.37%,No Finding,True,True
+13508.png,No Finding,No Finding,No Finding,88.34%,No Finding,True,True
+13509.png,No Finding,No Finding,No Finding,89.88%,No Finding,True,True
+13510.png,No Finding,No Finding,No Finding,56.50%,Finding,True,False
+13511.png,No Finding,No Finding,No Finding,73.95%,Finding,True,False
+13513.png,No Finding,No Finding,No Finding,82.48%,No Finding,True,True
+13515.png,No Finding,No Finding,No Finding,87.54%,No Finding,True,True
+13516.png,No Finding,No Finding,No Finding,50.01%,Finding,True,False
+13517.png,Cardiomegaly,Finding,No Finding,49.13%,Finding,False,True
+13518.png,Effusion,Finding,No Finding,78.61%,No Finding,False,False
+13519.png,No Finding,No Finding,No Finding,93.26%,No Finding,True,True
+13520.png,Emphysema,Finding,No Finding,52.91%,Finding,False,True
+13521.png,Nodule,Finding,No Finding,63.50%,Finding,False,True
+13522.png,No Finding,No Finding,No Finding,78.17%,No Finding,True,True
+13523.png,No Finding,No Finding,No Finding,89.97%,No Finding,True,True
+13524.png,Edema,Finding,No Finding,45.74%,Finding,False,True
+13525.png,Mass,Finding,No Finding,63.65%,No Finding,False,False
+13526.png,No Finding,No Finding,No Finding,86.86%,No Finding,True,True
+13527.png,Infiltration,Finding,No Finding,65.49%,No Finding,False,False
+13528.png,Infiltration,Finding,No Finding,73.28%,No Finding,False,False
+13529.png,Cardiomegaly,Finding,No Finding,56.05%,Finding,False,True
+13530.png,No Finding,No Finding,No Finding,51.38%,Finding,True,False
+13531.png,No Finding,No Finding,No Finding,94.27%,No Finding,True,True
+13532.png,No Finding,No Finding,No Finding,72.01%,No Finding,True,True
+13533.png,Pneumonia,Finding,No Finding,71.84%,No Finding,False,False
+13534.png,Effusion,Finding,No Finding,44.34%,Finding,False,True
+13535.png,Pneumothorax,Finding,No Finding,49.92%,Finding,False,True
+13536.png,Mass,Finding,No Finding,87.42%,No Finding,False,False
+13537.png,Cardiomegaly,Finding,No Finding,42.72%,Finding,False,True
+13538.png,No Finding,No Finding,No Finding,42.08%,Finding,True,False
+13541.png,No Finding,No Finding,No Finding,83.68%,No Finding,True,True
+13543.png,No Finding,No Finding,No Finding,69.04%,Finding,True,False
+13544.png,No Finding,No Finding,No Finding,63.70%,No Finding,True,True
+13545.png,No Finding,No Finding,No Finding,46.12%,Finding,True,False
+13546.png,Infiltration,Finding,No Finding,95.34%,No Finding,False,False
+13548.png,Effusion,Finding,No Finding,53.48%,Finding,False,True
+13549.png,No Finding,No Finding,No Finding,87.47%,No Finding,True,True
+13550.png,Infiltration,Finding,No Finding,42.61%,Finding,False,True
+13551.png,Mass,Finding,No Finding,46.04%,Finding,False,True
+13552.png,No Finding,No Finding,No Finding,82.47%,No Finding,True,True
+13553.png,Pneumothorax,Finding,No Finding,46.63%,Finding,False,True
+13554.png,Pneumothorax,Finding,No Finding,64.71%,Finding,False,True
+13555.png,No Finding,No Finding,No Finding,69.69%,No Finding,True,True
+13556.png,No Finding,No Finding,No Finding,53.06%,Finding,True,False
+13557.png,Consolidation,Finding,No Finding,60.94%,Finding,False,True
+13558.png,Infiltration,Finding,No Finding,48.73%,Finding,False,True
+13559.png,No Finding,No Finding,No Finding,68.04%,No Finding,True,True
+13560.png,No Finding,No Finding,No Finding,74.68%,No Finding,True,True
+13561.png,No Finding,No Finding,No Finding,67.80%,Finding,True,False
+13562.png,Cardiomegaly,Finding,No Finding,58.67%,Finding,False,True
+13563.png,No Finding,No Finding,No Finding,75.28%,No Finding,True,True
+13564.png,Infiltration,Finding,No Finding,78.11%,Finding,False,True
+13566.png,Mass,Finding,No Finding,72.40%,Finding,False,True
+13567.png,No Finding,No Finding,No Finding,79.15%,No Finding,True,True
+13568.png,No Finding,No Finding,No Finding,60.54%,Finding,True,False
+13569.png,No Finding,No Finding,No Finding,55.34%,Finding,True,False
+13572.png,No Finding,No Finding,No Finding,98.21%,No Finding,True,True
+13573.png,No Finding,No Finding,No Finding,94.67%,No Finding,True,True
+13575.png,No Finding,No Finding,No Finding,51.21%,Finding,True,False
+13576.png,Mass,Finding,No Finding,53.57%,Finding,False,True
+13577.png,Fibrosis,Finding,No Finding,58.94%,Finding,False,True
+13578.png,No Finding,No Finding,No Finding,75.08%,Finding,True,False
+13579.png,No Finding,No Finding,No Finding,97.07%,No Finding,True,True
+13580.png,No Finding,No Finding,No Finding,65.14%,Finding,True,False
+13582.png,No Finding,No Finding,No Finding,62.91%,Finding,True,False
+13583.png,No Finding,No Finding,No Finding,75.70%,No Finding,True,True
+13584.png,Nodule,Finding,No Finding,47.75%,Finding,False,True
+13586.png,No Finding,No Finding,No Finding,85.58%,No Finding,True,True
+13587.png,No Finding,No Finding,No Finding,87.69%,No Finding,True,True
+13588.png,No Finding,No Finding,No Finding,71.28%,No Finding,True,True
+13589.png,Infiltration,Finding,No Finding,81.22%,No Finding,False,False
+13590.png,No Finding,No Finding,No Finding,83.50%,No Finding,True,True
+13591.png,No Finding,No Finding,No Finding,87.13%,No Finding,True,True
+13592.png,No Finding,No Finding,No Finding,64.70%,No Finding,True,True
+13593.png,Pleural_Thickening,Finding,No Finding,55.62%,Finding,False,True
+13594.png,No Finding,No Finding,No Finding,71.60%,No Finding,True,True
+13595.png,No Finding,No Finding,No Finding,90.79%,No Finding,True,True
+13596.png,Consolidation,Finding,No Finding,51.96%,Finding,False,True
+13598.png,Atelectasis,Finding,No Finding,57.12%,Finding,False,True
+13599.png,No Finding,No Finding,No Finding,62.25%,No Finding,True,True
+13601.png,No Finding,No Finding,No Finding,90.89%,No Finding,True,True
+13602.png,Consolidation,Finding,No Finding,55.16%,No Finding,False,False
+13604.png,Infiltration,Finding,No Finding,56.10%,Finding,False,True
+13605.png,No Finding,No Finding,No Finding,57.33%,Finding,True,False
+13606.png,Nodule,Finding,No Finding,53.21%,Finding,False,True
+13607.png,Cardiomegaly,Finding,Cardiomegaly,46.61%,Finding,True,True
+13608.png,Infiltration,Finding,No Finding,62.59%,No Finding,False,False
+13609.png,No Finding,No Finding,No Finding,61.58%,Finding,True,False
+13610.png,No Finding,No Finding,No Finding,45.58%,Finding,True,False
+13611.png,Nodule,Finding,No Finding,68.06%,No Finding,False,False
+13613.png,Mass,Finding,No Finding,53.07%,Finding,False,True
+13614.png,No Finding,No Finding,No Finding,78.90%,No Finding,True,True
+13615.png,No Finding,No Finding,No Finding,81.76%,No Finding,True,True
+13617.png,No Finding,No Finding,Effusion,41.90%,Finding,False,False
+13621.png,No Finding,No Finding,No Finding,76.48%,No Finding,True,True
+13623.png,Consolidation,Finding,No Finding,79.34%,Finding,False,True
+13624.png,No Finding,No Finding,No Finding,93.14%,No Finding,True,True
+13625.png,No Finding,No Finding,No Finding,62.49%,Finding,True,False
+13626.png,Nodule,Finding,No Finding,66.68%,Finding,False,True
+13627.png,No Finding,No Finding,No Finding,81.90%,No Finding,True,True
+13628.png,Nodule,Finding,No Finding,41.34%,Finding,False,True
+13629.png,No Finding,No Finding,No Finding,50.28%,Finding,True,False
+13630.png,No Finding,No Finding,No Finding,50.12%,Finding,True,False
+13631.png,No Finding,No Finding,No Finding,64.68%,No Finding,True,True
+13632.png,No Finding,No Finding,No Finding,94.52%,No Finding,True,True
+13633.png,Infiltration,Finding,No Finding,39.92%,Finding,False,True
+13634.png,No Finding,No Finding,No Finding,82.80%,No Finding,True,True
+13635.png,No Finding,No Finding,No Finding,54.28%,Finding,True,False
+13637.png,No Finding,No Finding,No Finding,80.77%,No Finding,True,True
+13638.png,No Finding,No Finding,No Finding,98.11%,No Finding,True,True
+13639.png,Effusion,Finding,No Finding,72.32%,No Finding,False,False
+13640.png,Nodule,Finding,No Finding,62.82%,Finding,False,True
+13641.png,No Finding,No Finding,No Finding,73.05%,No Finding,True,True
+13642.png,No Finding,No Finding,No Finding,76.70%,No Finding,True,True
+13643.png,No Finding,No Finding,No Finding,96.58%,No Finding,True,True
+13644.png,Nodule,Finding,No Finding,59.97%,Finding,False,True
+13645.png,Effusion,Finding,No Finding,57.46%,Finding,False,True
+13647.png,Infiltration,Finding,No Finding,68.30%,Finding,False,True
+13648.png,No Finding,No Finding,No Finding,90.03%,No Finding,True,True
+13649.png,No Finding,No Finding,No Finding,85.63%,No Finding,True,True
+13650.png,No Finding,No Finding,No Finding,83.79%,No Finding,True,True
+13651.png,No Finding,No Finding,No Finding,81.97%,No Finding,True,True
+13652.png,No Finding,No Finding,No Finding,77.51%,No Finding,True,True
+13653.png,No Finding,No Finding,No Finding,51.18%,Finding,True,False
+13654.png,No Finding,No Finding,No Finding,50.04%,Finding,True,False
+13657.png,No Finding,No Finding,No Finding,63.33%,Finding,True,False
+13658.png,No Finding,No Finding,No Finding,73.12%,Finding,True,False
+13659.png,No Finding,No Finding,No Finding,53.00%,Finding,True,False
+13662.png,No Finding,No Finding,No Finding,67.35%,Finding,True,False
+13664.png,No Finding,No Finding,No Finding,77.00%,No Finding,True,True
+13665.png,No Finding,No Finding,No Finding,70.50%,No Finding,True,True
+13666.png,Consolidation,Finding,No Finding,82.55%,Finding,False,True
+13667.png,Infiltration,Finding,No Finding,54.93%,Finding,False,True
+13670.png,No Finding,No Finding,No Finding,53.09%,Finding,True,False
+13671.png,No Finding,No Finding,No Finding,90.37%,No Finding,True,True
+13672.png,Atelectasis,Finding,No Finding,55.94%,Finding,False,True
+13673.png,No Finding,No Finding,No Finding,80.81%,No Finding,True,True
+13674.png,No Finding,No Finding,No Finding,60.10%,Finding,True,False
+13676.png,No Finding,No Finding,No Finding,81.46%,No Finding,True,True
+13677.png,Infiltration,Finding,No Finding,51.93%,No Finding,False,False
+13678.png,No Finding,No Finding,No Finding,75.75%,No Finding,True,True
+13679.png,No Finding,No Finding,No Finding,84.78%,No Finding,True,True
+13680.png,No Finding,No Finding,No Finding,66.99%,Finding,True,False
+13681.png,No Finding,No Finding,No Finding,63.08%,Finding,True,False
+13682.png,No Finding,No Finding,No Finding,65.62%,No Finding,True,True
+13683.png,No Finding,No Finding,No Finding,52.31%,Finding,True,False
+13684.png,Pneumothorax,Finding,No Finding,47.49%,Finding,False,True
+13685.png,No Finding,No Finding,No Finding,69.54%,No Finding,True,True
+13686.png,No Finding,No Finding,No Finding,72.60%,Finding,True,False
+13687.png,Nodule,Finding,No Finding,74.71%,No Finding,False,False
+13689.png,Infiltration,Finding,No Finding,74.80%,Finding,False,True
+13690.png,Atelectasis,Finding,No Finding,52.10%,Finding,False,True
+13691.png,No Finding,No Finding,No Finding,45.77%,Finding,True,False
+13692.png,No Finding,No Finding,No Finding,76.59%,No Finding,True,True
+13695.png,Infiltration,Finding,No Finding,39.72%,Finding,False,True
+13696.png,Infiltration,Finding,No Finding,81.15%,No Finding,False,False
+13697.png,Infiltration,Finding,No Finding,62.84%,Finding,False,True
+13698.png,Infiltration,Finding,No Finding,76.14%,Finding,False,True
+13699.png,Nodule,Finding,No Finding,55.30%,Finding,False,True
+13700.png,No Finding,No Finding,No Finding,55.85%,Finding,True,False
+13701.png,No Finding,No Finding,No Finding,53.74%,Finding,True,False
+13702.png,No Finding,No Finding,No Finding,90.00%,No Finding,True,True
+13703.png,Infiltration,Finding,No Finding,65.69%,Finding,False,True
+13704.png,Consolidation,Finding,No Finding,34.33%,Finding,False,True
+13705.png,Atelectasis,Finding,No Finding,73.19%,No Finding,False,False
+13706.png,No Finding,No Finding,No Finding,86.00%,No Finding,True,True
+13707.png,No Finding,No Finding,No Finding,71.58%,No Finding,True,True
+13709.png,No Finding,No Finding,No Finding,90.99%,No Finding,True,True
+13710.png,No Finding,No Finding,No Finding,45.88%,Finding,True,False
+13712.png,No Finding,No Finding,Effusion,57.22%,Finding,False,False
+13713.png,No Finding,No Finding,No Finding,79.59%,Finding,True,False
+13714.png,Infiltration,Finding,No Finding,80.83%,No Finding,False,False
+13716.png,Atelectasis,Finding,No Finding,54.67%,Finding,False,True
+13717.png,Atelectasis,Finding,No Finding,76.90%,Finding,False,True
+13718.png,Atelectasis,Finding,No Finding,55.10%,Finding,False,True
+13719.png,No Finding,No Finding,No Finding,93.51%,No Finding,True,True
+13721.png,No Finding,No Finding,No Finding,72.75%,No Finding,True,True
+13722.png,No Finding,No Finding,No Finding,59.67%,No Finding,True,True
+13723.png,No Finding,No Finding,No Finding,58.82%,Finding,True,False
+13725.png,Pleural_Thickening,Finding,No Finding,58.79%,Finding,False,True
+13727.png,No Finding,No Finding,No Finding,87.32%,No Finding,True,True
+13728.png,Edema,Finding,No Finding,54.29%,Finding,False,True
+13729.png,Infiltration,Finding,No Finding,71.42%,Finding,False,True
+13730.png,No Finding,No Finding,No Finding,91.61%,No Finding,True,True
+13731.png,Fibrosis,Finding,No Finding,74.50%,No Finding,False,False
+13733.png,Edema,Finding,No Finding,56.99%,Finding,False,True
+13734.png,No Finding,No Finding,No Finding,69.97%,No Finding,True,True
+13736.png,No Finding,No Finding,No Finding,81.18%,No Finding,True,True
+13737.png,No Finding,No Finding,No Finding,87.68%,No Finding,True,True
+13738.png,Pleural_Thickening,Finding,No Finding,73.39%,No Finding,False,False
+13739.png,No Finding,No Finding,No Finding,80.65%,No Finding,True,True
+13740.png,Pleural_Thickening,Finding,No Finding,54.38%,Finding,False,True
+13742.png,Effusion,Finding,No Finding,44.85%,Finding,False,True
+13743.png,Mass,Finding,No Finding,60.36%,Finding,False,True
+13744.png,No Finding,No Finding,No Finding,59.36%,Finding,True,False
+13745.png,No Finding,No Finding,No Finding,79.35%,No Finding,True,True
+13746.png,Effusion,Finding,No Finding,33.40%,Finding,False,True
+13747.png,No Finding,No Finding,No Finding,60.61%,Finding,True,False
+13748.png,No Finding,No Finding,No Finding,45.21%,Finding,True,False
+13749.png,Effusion,Finding,No Finding,45.18%,Finding,False,True
+13750.png,No Finding,No Finding,No Finding,81.30%,No Finding,True,True
+13751.png,Infiltration,Finding,No Finding,70.55%,Finding,False,True
+13754.png,Infiltration,Finding,No Finding,67.97%,No Finding,False,False
+13755.png,No Finding,No Finding,No Finding,92.97%,No Finding,True,True
+13756.png,Atelectasis,Finding,Effusion,34.16%,Finding,False,True
+13757.png,No Finding,No Finding,No Finding,81.12%,No Finding,True,True
+13758.png,Infiltration,Finding,No Finding,44.05%,Finding,False,True
+13759.png,Mass,Finding,No Finding,65.22%,Finding,False,True
+13760.png,No Finding,No Finding,No Finding,58.06%,Finding,True,False
+13762.png,No Finding,No Finding,No Finding,77.80%,Finding,True,False
+13763.png,Atelectasis,Finding,No Finding,66.21%,No Finding,False,False
+13764.png,No Finding,No Finding,No Finding,65.59%,Finding,True,False
+13766.png,No Finding,No Finding,No Finding,71.50%,Finding,True,False
+13767.png,Edema,Finding,No Finding,53.32%,Finding,False,True
+13768.png,No Finding,No Finding,No Finding,74.31%,No Finding,True,True
+13770.png,Fibrosis,Finding,No Finding,73.33%,No Finding,False,False
+13771.png,No Finding,No Finding,No Finding,90.53%,No Finding,True,True
+13772.png,No Finding,No Finding,No Finding,44.52%,Finding,True,False
+13773.png,No Finding,No Finding,No Finding,71.97%,No Finding,True,True
+13774.png,No Finding,No Finding,No Finding,74.28%,No Finding,True,True
+13775.png,Pleural_Thickening,Finding,No Finding,89.14%,No Finding,False,False
+13776.png,No Finding,No Finding,No Finding,71.35%,No Finding,True,True
+13778.png,No Finding,No Finding,No Finding,46.09%,Finding,True,False
+13779.png,Nodule,Finding,No Finding,48.61%,Finding,False,True
+13780.png,No Finding,No Finding,No Finding,85.18%,No Finding,True,True
+13781.png,No Finding,No Finding,No Finding,65.53%,No Finding,True,True
+13783.png,No Finding,No Finding,No Finding,90.76%,No Finding,True,True
+13784.png,Nodule,Finding,No Finding,80.70%,No Finding,False,False
+13786.png,Infiltration,Finding,No Finding,87.02%,No Finding,False,False
+13787.png,No Finding,No Finding,No Finding,87.57%,No Finding,True,True
+13788.png,Infiltration,Finding,No Finding,64.46%,Finding,False,True
+13789.png,No Finding,No Finding,No Finding,92.09%,No Finding,True,True
+13790.png,No Finding,No Finding,No Finding,82.48%,No Finding,True,True
+13791.png,Consolidation,Finding,No Finding,52.67%,Finding,False,True
+13793.png,No Finding,No Finding,No Finding,79.86%,No Finding,True,True
+13794.png,Mass,Finding,No Finding,43.85%,Finding,False,True
+13796.png,Atelectasis,Finding,No Finding,74.81%,Finding,False,True
+13797.png,No Finding,No Finding,No Finding,81.82%,Finding,True,False
+13799.png,Cardiomegaly,Finding,No Finding,63.86%,Finding,False,True
+13800.png,No Finding,No Finding,No Finding,74.10%,No Finding,True,True
+13801.png,No Finding,No Finding,No Finding,64.31%,Finding,True,False
+13802.png,No Finding,No Finding,No Finding,71.82%,No Finding,True,True
+13803.png,Effusion,Finding,No Finding,38.18%,Finding,False,True
+13804.png,No Finding,No Finding,No Finding,90.20%,No Finding,True,True
+13805.png,No Finding,No Finding,No Finding,82.10%,No Finding,True,True
+13806.png,No Finding,No Finding,No Finding,79.39%,No Finding,True,True
+13807.png,No Finding,No Finding,No Finding,69.79%,No Finding,True,True
+13808.png,No Finding,No Finding,No Finding,79.45%,No Finding,True,True
+13810.png,Emphysema,Finding,No Finding,62.62%,Finding,False,True
+13811.png,Atelectasis,Finding,No Finding,66.90%,Finding,False,True
+13812.png,No Finding,No Finding,No Finding,85.70%,No Finding,True,True
+13814.png,No Finding,No Finding,No Finding,91.85%,No Finding,True,True
+13815.png,No Finding,No Finding,No Finding,72.02%,No Finding,True,True
+13816.png,No Finding,No Finding,No Finding,76.91%,Finding,True,False
+13817.png,Mass,Finding,No Finding,38.12%,Finding,False,True
+13818.png,Pneumothorax,Finding,No Finding,52.39%,Finding,False,True
+13821.png,No Finding,No Finding,No Finding,79.55%,No Finding,True,True
+13823.png,Atelectasis,Finding,No Finding,55.50%,Finding,False,True
+13824.png,No Finding,No Finding,No Finding,54.00%,Finding,True,False
+13825.png,No Finding,No Finding,No Finding,58.68%,Finding,True,False
+13826.png,No Finding,No Finding,No Finding,37.18%,Finding,True,False
+13827.png,No Finding,No Finding,No Finding,84.19%,No Finding,True,True
+13828.png,No Finding,No Finding,No Finding,88.92%,No Finding,True,True
+13829.png,No Finding,No Finding,No Finding,61.41%,Finding,True,False
+13830.png,No Finding,No Finding,No Finding,72.56%,No Finding,True,True
+13832.png,No Finding,No Finding,No Finding,62.74%,Finding,True,False
+13833.png,No Finding,No Finding,No Finding,47.22%,Finding,True,False
+13834.png,No Finding,No Finding,No Finding,78.80%,No Finding,True,True
+13835.png,No Finding,No Finding,No Finding,64.54%,Finding,True,False
+13836.png,No Finding,No Finding,No Finding,59.85%,Finding,True,False
+13837.png,No Finding,No Finding,No Finding,74.27%,No Finding,True,True
+13838.png,No Finding,No Finding,No Finding,73.47%,No Finding,True,True
+13839.png,No Finding,No Finding,No Finding,63.60%,No Finding,True,True
+13840.png,Infiltration,Finding,No Finding,58.39%,Finding,False,True
+13841.png,Infiltration,Finding,No Finding,69.32%,No Finding,False,False
+13843.png,No Finding,No Finding,No Finding,64.30%,No Finding,True,True
+13845.png,No Finding,No Finding,No Finding,49.31%,Finding,True,False
+13846.png,No Finding,No Finding,No Finding,65.22%,Finding,True,False
+13847.png,No Finding,No Finding,No Finding,84.73%,No Finding,True,True
+13848.png,Nodule,Finding,No Finding,65.51%,No Finding,False,False
+13849.png,No Finding,No Finding,No Finding,65.80%,Finding,True,False
+13850.png,Pneumothorax,Finding,No Finding,72.02%,Finding,False,True
+13851.png,No Finding,No Finding,No Finding,57.85%,Finding,True,False
+13852.png,No Finding,No Finding,No Finding,65.32%,No Finding,True,True
+13853.png,No Finding,No Finding,No Finding,59.77%,Finding,True,False
+13854.png,No Finding,No Finding,No Finding,83.97%,No Finding,True,True
+13855.png,No Finding,No Finding,No Finding,82.43%,No Finding,True,True
+13857.png,No Finding,No Finding,No Finding,92.53%,No Finding,True,True
+13858.png,No Finding,No Finding,No Finding,70.17%,No Finding,True,True
+13859.png,Nodule,Finding,No Finding,54.03%,Finding,False,True
+13860.png,Effusion,Finding,No Finding,53.23%,Finding,False,True
+13861.png,No Finding,No Finding,No Finding,60.22%,Finding,True,False
+13862.png,No Finding,No Finding,No Finding,84.63%,No Finding,True,True
+13863.png,No Finding,No Finding,No Finding,88.93%,No Finding,True,True
+13864.png,Atelectasis,Finding,No Finding,35.58%,Finding,False,True
+13865.png,No Finding,No Finding,No Finding,62.77%,Finding,True,False
+13866.png,Consolidation,Finding,No Finding,65.42%,No Finding,False,False
+13867.png,Infiltration,Finding,No Finding,70.94%,No Finding,False,False
+13869.png,No Finding,No Finding,No Finding,96.27%,No Finding,True,True
+13871.png,Atelectasis,Finding,No Finding,74.25%,No Finding,False,False
+13872.png,No Finding,No Finding,No Finding,82.62%,No Finding,True,True
+13873.png,No Finding,No Finding,No Finding,90.74%,No Finding,True,True
+13874.png,Fibrosis,Finding,No Finding,76.59%,No Finding,False,False
+13875.png,Mass,Finding,No Finding,54.74%,Finding,False,True
+13876.png,No Finding,No Finding,No Finding,71.46%,No Finding,True,True
+13877.png,Mass,Finding,No Finding,44.12%,Finding,False,True
+13878.png,Nodule,Finding,No Finding,82.41%,No Finding,False,False
+13879.png,No Finding,No Finding,No Finding,70.33%,No Finding,True,True
+13881.png,Infiltration,Finding,No Finding,72.84%,No Finding,False,False
+13883.png,No Finding,No Finding,No Finding,90.90%,No Finding,True,True
+13884.png,No Finding,No Finding,No Finding,87.16%,No Finding,True,True
+13885.png,No Finding,No Finding,No Finding,72.10%,Finding,True,False
+13887.png,No Finding,No Finding,No Finding,56.54%,Finding,True,False
+13888.png,Effusion,Finding,No Finding,37.97%,Finding,False,True
+13889.png,No Finding,No Finding,No Finding,64.37%,No Finding,True,True
+13890.png,Infiltration,Finding,No Finding,59.80%,Finding,False,True
+13891.png,Nodule,Finding,No Finding,54.13%,Finding,False,True
+13892.png,Edema,Finding,No Finding,43.29%,Finding,False,True
+13895.png,No Finding,No Finding,No Finding,70.77%,No Finding,True,True
+13896.png,Infiltration,Finding,No Finding,58.42%,Finding,False,True
+13898.png,Atelectasis,Finding,No Finding,54.09%,Finding,False,True
+13899.png,No Finding,No Finding,No Finding,63.18%,Finding,True,False
+13900.png,Atelectasis,Finding,No Finding,62.26%,Finding,False,True
+13901.png,No Finding,No Finding,No Finding,97.50%,No Finding,True,True
+13902.png,Pleural_Thickening,Finding,No Finding,50.64%,Finding,False,True
+13903.png,No Finding,No Finding,No Finding,76.49%,Finding,True,False
+13904.png,Atelectasis,Finding,No Finding,63.49%,No Finding,False,False
+13905.png,No Finding,No Finding,No Finding,89.67%,No Finding,True,True
+13906.png,No Finding,No Finding,No Finding,57.63%,Finding,True,False
+13907.png,No Finding,No Finding,No Finding,62.52%,No Finding,True,True
+13908.png,No Finding,No Finding,No Finding,73.33%,Finding,True,False
+13909.png,No Finding,No Finding,No Finding,85.54%,No Finding,True,True
+13910.png,Pleural_Thickening,Finding,Effusion,42.31%,No Finding,False,False
+13911.png,No Finding,No Finding,No Finding,69.62%,Finding,True,False
+13912.png,No Finding,No Finding,No Finding,67.69%,No Finding,True,True
+13913.png,No Finding,No Finding,No Finding,64.28%,No Finding,True,True
+13914.png,Effusion,Finding,No Finding,63.23%,Finding,False,True
+13915.png,Infiltration,Finding,No Finding,66.65%,No Finding,False,False
+13916.png,Mass,Finding,No Finding,72.16%,Finding,False,True
+13917.png,Effusion,Finding,No Finding,76.91%,No Finding,False,False
+13918.png,Effusion,Finding,No Finding,42.46%,Finding,False,True
+13919.png,Pneumothorax,Finding,No Finding,48.24%,Finding,False,True
+13921.png,No Finding,No Finding,No Finding,82.25%,No Finding,True,True
+13922.png,Effusion,Finding,Effusion,74.29%,Finding,True,True
+13923.png,No Finding,No Finding,No Finding,67.82%,No Finding,True,True
+13924.png,Effusion,Finding,No Finding,87.03%,No Finding,False,False
+13925.png,Effusion,Finding,Effusion,58.30%,Finding,True,True
+13926.png,Pleural_Thickening,Finding,No Finding,62.67%,Finding,False,True
+13927.png,No Finding,No Finding,No Finding,65.28%,Finding,True,False
+13928.png,No Finding,No Finding,No Finding,92.64%,No Finding,True,True
+13929.png,No Finding,No Finding,No Finding,62.44%,No Finding,True,True
+13930.png,No Finding,No Finding,No Finding,75.40%,No Finding,True,True
+13931.png,No Finding,No Finding,No Finding,54.23%,Finding,True,False
+13932.png,No Finding,No Finding,No Finding,61.46%,No Finding,True,True
+13937.png,No Finding,No Finding,No Finding,74.99%,No Finding,True,True
+13938.png,Infiltration,Finding,No Finding,68.61%,No Finding,False,False
+13940.png,Nodule,Finding,No Finding,51.99%,Finding,False,True
+13943.png,No Finding,No Finding,No Finding,56.65%,Finding,True,False
+13944.png,No Finding,No Finding,No Finding,99.27%,No Finding,True,True
+13945.png,No Finding,No Finding,No Finding,92.59%,No Finding,True,True
+13948.png,No Finding,No Finding,No Finding,58.32%,Finding,True,False
+13950.png,No Finding,No Finding,No Finding,63.78%,Finding,True,False
+13951.png,No Finding,No Finding,No Finding,85.49%,No Finding,True,True
+13952.png,Infiltration,Finding,No Finding,68.83%,No Finding,False,False
+13953.png,Mass,Finding,No Finding,68.26%,No Finding,False,False
+13955.png,No Finding,No Finding,No Finding,86.39%,No Finding,True,True
+13956.png,No Finding,No Finding,No Finding,46.42%,Finding,True,False
+13957.png,No Finding,No Finding,No Finding,76.85%,No Finding,True,True
+13958.png,Effusion,Finding,Effusion,91.82%,Finding,True,True
+13959.png,Atelectasis,Finding,No Finding,49.07%,Finding,False,True
+13960.png,No Finding,No Finding,No Finding,71.51%,No Finding,True,True
+13961.png,No Finding,No Finding,No Finding,64.96%,No Finding,True,True
+13963.png,No Finding,No Finding,No Finding,82.96%,No Finding,True,True
+13964.png,No Finding,No Finding,No Finding,65.79%,Finding,True,False
+13966.png,No Finding,No Finding,No Finding,74.06%,No Finding,True,True
+13967.png,Consolidation,Finding,No Finding,41.78%,Finding,False,True
+13970.png,No Finding,No Finding,No Finding,71.27%,No Finding,True,True
+13971.png,Effusion,Finding,No Finding,64.62%,No Finding,False,False
+13973.png,Mass,Finding,No Finding,45.54%,Finding,False,True
+13974.png,No Finding,No Finding,No Finding,72.77%,Finding,True,False
+13975.png,Infiltration,Finding,No Finding,39.24%,Finding,False,True
+13976.png,No Finding,No Finding,No Finding,81.79%,No Finding,True,True
+13978.png,No Finding,No Finding,Infiltration,64.28%,Finding,False,False
+13979.png,No Finding,No Finding,No Finding,73.54%,Finding,True,False
+13981.png,No Finding,No Finding,No Finding,61.18%,Finding,True,False
+13982.png,No Finding,No Finding,No Finding,72.34%,Finding,True,False
+13983.png,Infiltration,Finding,No Finding,71.77%,No Finding,False,False
+13984.png,No Finding,No Finding,No Finding,62.23%,No Finding,True,True
+13986.png,Fibrosis,Finding,No Finding,72.62%,No Finding,False,False
+13987.png,No Finding,No Finding,No Finding,92.98%,No Finding,True,True
+13988.png,No Finding,No Finding,No Finding,69.76%,No Finding,True,True
+13989.png,Nodule,Finding,No Finding,79.81%,No Finding,False,False
+13993.png,Atelectasis,Finding,No Finding,55.85%,Finding,False,True
+13994.png,No Finding,No Finding,No Finding,82.13%,Finding,True,False
+13996.png,No Finding,No Finding,No Finding,63.28%,Finding,True,False
+13997.png,Edema,Finding,No Finding,62.37%,Finding,False,True
+13998.png,No Finding,No Finding,No Finding,51.29%,Finding,True,False
+13999.png,Infiltration,Finding,No Finding,53.51%,Finding,False,True
+14001.png,Nodule,Finding,No Finding,58.25%,Finding,False,True
+14002.png,No Finding,No Finding,No Finding,74.88%,Finding,True,False
+14003.png,No Finding,No Finding,No Finding,59.75%,Finding,True,False
+14007.png,No Finding,No Finding,No Finding,69.20%,No Finding,True,True
+14008.png,No Finding,No Finding,No Finding,65.04%,No Finding,True,True
+14010.png,No Finding,No Finding,No Finding,96.52%,No Finding,True,True
+14011.png,Consolidation,Finding,No Finding,88.66%,No Finding,False,False
+14012.png,Atelectasis,Finding,No Finding,77.24%,No Finding,False,False
+14014.png,No Finding,No Finding,No Finding,55.26%,Finding,True,False
+14015.png,No Finding,No Finding,No Finding,58.30%,Finding,True,False
+14016.png,Infiltration,Finding,No Finding,80.06%,No Finding,False,False
+14017.png,No Finding,No Finding,No Finding,95.11%,No Finding,True,True
+14019.png,Mass,Finding,No Finding,90.26%,Finding,False,True
+14020.png,Infiltration,Finding,No Finding,79.73%,No Finding,False,False
+14022.png,Mass,Finding,No Finding,66.02%,Finding,False,True
+14024.png,No Finding,No Finding,No Finding,89.38%,No Finding,True,True
+14025.png,Atelectasis,Finding,No Finding,59.29%,Finding,False,True
+14027.png,No Finding,No Finding,No Finding,91.81%,No Finding,True,True
+14028.png,No Finding,No Finding,No Finding,66.09%,Finding,True,False
+14029.png,Edema,Finding,No Finding,53.07%,Finding,False,True
+14030.png,No Finding,No Finding,No Finding,88.79%,No Finding,True,True
+14031.png,No Finding,No Finding,No Finding,51.07%,Finding,True,False
+14032.png,No Finding,No Finding,No Finding,57.17%,Finding,True,False
+14033.png,No Finding,No Finding,No Finding,81.12%,No Finding,True,True
+14034.png,No Finding,No Finding,No Finding,92.44%,No Finding,True,True
+14038.png,No Finding,No Finding,No Finding,82.88%,No Finding,True,True
+14039.png,Infiltration,Finding,No Finding,48.34%,Finding,False,True
+14040.png,No Finding,No Finding,No Finding,68.54%,Finding,True,False
+14042.png,Nodule,Finding,No Finding,75.10%,No Finding,False,False
+14043.png,No Finding,No Finding,No Finding,72.20%,No Finding,True,True
+14044.png,No Finding,No Finding,No Finding,62.09%,Finding,True,False
+14045.png,No Finding,No Finding,No Finding,91.17%,No Finding,True,True
+14047.png,No Finding,No Finding,No Finding,56.23%,Finding,True,False
+14048.png,No Finding,No Finding,No Finding,79.44%,No Finding,True,True
+14049.png,Effusion,Finding,No Finding,50.96%,Finding,False,True
+14050.png,No Finding,No Finding,No Finding,60.48%,Finding,True,False
+14051.png,No Finding,No Finding,No Finding,78.90%,Finding,True,False
+14052.png,Atelectasis,Finding,No Finding,74.70%,Finding,False,True
+14054.png,No Finding,No Finding,No Finding,75.33%,No Finding,True,True
+14055.png,No Finding,No Finding,No Finding,68.07%,No Finding,True,True
+14056.png,No Finding,No Finding,No Finding,82.24%,Finding,True,False
+14058.png,Fibrosis,Finding,No Finding,67.08%,No Finding,False,False
+14059.png,Atelectasis,Finding,No Finding,78.51%,No Finding,False,False
+14060.png,Infiltration,Finding,No Finding,47.32%,Finding,False,True
+14061.png,No Finding,No Finding,No Finding,63.47%,No Finding,True,True
+14062.png,Effusion,Finding,No Finding,44.36%,Finding,False,True
+14063.png,Atelectasis,Finding,No Finding,70.27%,Finding,False,True
+14064.png,No Finding,No Finding,No Finding,63.88%,No Finding,True,True
+14065.png,Edema,Finding,No Finding,45.13%,Finding,False,True
+14066.png,No Finding,No Finding,No Finding,69.14%,No Finding,True,True
+14069.png,No Finding,No Finding,No Finding,79.77%,No Finding,True,True
+14070.png,No Finding,No Finding,No Finding,86.55%,No Finding,True,True
+14071.png,No Finding,No Finding,No Finding,54.88%,Finding,True,False
+14072.png,Effusion,Finding,No Finding,49.58%,Finding,False,True
+14074.png,Infiltration,Finding,No Finding,81.18%,No Finding,False,False
+14075.png,No Finding,No Finding,No Finding,69.19%,No Finding,True,True
+14076.png,Atelectasis,Finding,No Finding,53.66%,Finding,False,True
+14078.png,Nodule,Finding,No Finding,67.62%,No Finding,False,False
+14079.png,Nodule,Finding,No Finding,43.86%,Finding,False,True
+14082.png,Nodule,Finding,Nodule,40.41%,Finding,True,True
+14083.png,No Finding,No Finding,No Finding,67.25%,No Finding,True,True
+14084.png,No Finding,No Finding,No Finding,49.64%,Finding,True,False
+14085.png,Infiltration,Finding,No Finding,66.10%,No Finding,False,False
+14086.png,No Finding,No Finding,No Finding,54.76%,Finding,True,False
+14090.png,Nodule,Finding,No Finding,84.68%,No Finding,False,False
+14091.png,Mass,Finding,No Finding,45.92%,Finding,False,True
+14092.png,No Finding,No Finding,No Finding,91.70%,No Finding,True,True
+14093.png,Cardiomegaly,Finding,No Finding,56.58%,Finding,False,True
+14096.png,No Finding,No Finding,No Finding,41.04%,Finding,True,False
+14097.png,No Finding,No Finding,No Finding,63.42%,No Finding,True,True
+14098.png,No Finding,No Finding,No Finding,78.41%,No Finding,True,True
+14099.png,No Finding,No Finding,No Finding,52.60%,Finding,True,False
+14101.png,Consolidation,Finding,No Finding,42.81%,Finding,False,True
+14102.png,No Finding,No Finding,No Finding,82.08%,No Finding,True,True
+14103.png,No Finding,No Finding,No Finding,69.17%,No Finding,True,True
+14104.png,No Finding,No Finding,No Finding,64.38%,Finding,True,False
+14105.png,No Finding,No Finding,Effusion,50.83%,Finding,False,False
+14107.png,No Finding,No Finding,No Finding,80.99%,Finding,True,False
+14109.png,Effusion,Finding,No Finding,55.69%,Finding,False,True
+14110.png,Effusion,Finding,No Finding,42.91%,Finding,False,True
+14111.png,No Finding,No Finding,No Finding,53.83%,Finding,True,False
+14112.png,Infiltration,Finding,No Finding,59.21%,Finding,False,True
+14113.png,No Finding,No Finding,No Finding,87.48%,No Finding,True,True
+14114.png,No Finding,No Finding,No Finding,43.00%,Finding,True,False
+14115.png,Infiltration,Finding,No Finding,79.74%,No Finding,False,False
+14118.png,Mass,Finding,No Finding,71.85%,No Finding,False,False
+14119.png,No Finding,No Finding,No Finding,98.80%,No Finding,True,True
+14120.png,No Finding,No Finding,No Finding,55.55%,Finding,True,False
+14121.png,Atelectasis,Finding,No Finding,49.57%,Finding,False,True
+14122.png,No Finding,No Finding,No Finding,71.41%,No Finding,True,True
+14123.png,No Finding,No Finding,No Finding,88.78%,No Finding,True,True
+14124.png,No Finding,No Finding,No Finding,79.49%,No Finding,True,True
+14125.png,No Finding,No Finding,No Finding,65.74%,Finding,True,False
+14126.png,No Finding,No Finding,No Finding,72.82%,No Finding,True,True
+14127.png,No Finding,No Finding,No Finding,72.78%,No Finding,True,True
+14128.png,No Finding,No Finding,No Finding,82.43%,No Finding,True,True
+14129.png,Mass,Finding,No Finding,65.22%,Finding,False,True
+14130.png,No Finding,No Finding,No Finding,77.66%,No Finding,True,True
+14131.png,No Finding,No Finding,No Finding,68.54%,Finding,True,False
+14132.png,No Finding,No Finding,No Finding,97.14%,No Finding,True,True
+14133.png,No Finding,No Finding,No Finding,51.45%,Finding,True,False
+14134.png,No Finding,No Finding,No Finding,85.11%,No Finding,True,True
+14135.png,No Finding,No Finding,No Finding,62.13%,No Finding,True,True
+14136.png,Cardiomegaly,Finding,No Finding,67.33%,Finding,False,True
+14137.png,No Finding,No Finding,No Finding,77.06%,No Finding,True,True
+14138.png,No Finding,No Finding,No Finding,44.39%,Finding,True,False
+14139.png,No Finding,No Finding,No Finding,67.28%,No Finding,True,True
+14140.png,No Finding,No Finding,No Finding,46.01%,Finding,True,False
+14141.png,Infiltration,Finding,No Finding,46.00%,Finding,False,True
+14142.png,No Finding,No Finding,No Finding,66.74%,Finding,True,False
+14143.png,Atelectasis,Finding,No Finding,65.43%,Finding,False,True
+14146.png,No Finding,No Finding,No Finding,92.68%,No Finding,True,True
+14147.png,No Finding,No Finding,No Finding,69.44%,Finding,True,False
+14148.png,No Finding,No Finding,No Finding,79.29%,Finding,True,False
+14149.png,No Finding,No Finding,No Finding,60.80%,Finding,True,False
+14151.png,Effusion,Finding,Effusion,52.26%,No Finding,True,False
+14152.png,No Finding,No Finding,No Finding,81.00%,No Finding,True,True
+14153.png,No Finding,No Finding,No Finding,90.78%,No Finding,True,True
+14154.png,No Finding,No Finding,No Finding,63.86%,No Finding,True,True
+14155.png,Infiltration,Finding,No Finding,47.07%,Finding,False,True
+14157.png,No Finding,No Finding,No Finding,55.10%,Finding,True,False
+14158.png,Atelectasis,Finding,No Finding,48.13%,Finding,False,True
+14160.png,No Finding,No Finding,No Finding,89.67%,No Finding,True,True
+14161.png,Emphysema,Finding,No Finding,71.40%,Finding,False,True
+14162.png,Infiltration,Finding,No Finding,95.38%,No Finding,False,False
+14163.png,No Finding,No Finding,No Finding,68.70%,No Finding,True,True
+14165.png,Effusion,Finding,No Finding,37.25%,Finding,False,True
+14166.png,No Finding,No Finding,No Finding,99.17%,No Finding,True,True
+14167.png,No Finding,No Finding,No Finding,97.54%,No Finding,True,True
+14168.png,No Finding,No Finding,No Finding,70.71%,Finding,True,False
+14169.png,No Finding,No Finding,No Finding,60.27%,Finding,True,False
+14171.png,No Finding,No Finding,No Finding,76.79%,No Finding,True,True
+14172.png,No Finding,No Finding,No Finding,92.15%,No Finding,True,True
+14173.png,Consolidation,Finding,No Finding,53.35%,Finding,False,True
+14174.png,Effusion,Finding,Effusion,43.68%,Finding,True,True
+14175.png,No Finding,No Finding,No Finding,69.78%,No Finding,True,True
+14176.png,No Finding,No Finding,No Finding,87.14%,No Finding,True,True
+14177.png,No Finding,No Finding,No Finding,59.75%,Finding,True,False
+14178.png,No Finding,No Finding,No Finding,98.49%,No Finding,True,True
+14179.png,No Finding,No Finding,No Finding,86.87%,No Finding,True,True
+14180.png,No Finding,No Finding,No Finding,77.83%,No Finding,True,True
+14181.png,No Finding,No Finding,No Finding,67.24%,No Finding,True,True
+14182.png,No Finding,No Finding,No Finding,73.75%,Finding,True,False
+14183.png,No Finding,No Finding,No Finding,68.96%,Finding,True,False
+14185.png,No Finding,No Finding,No Finding,86.61%,No Finding,True,True
+14186.png,No Finding,No Finding,No Finding,84.34%,No Finding,True,True
+14187.png,No Finding,No Finding,No Finding,89.16%,No Finding,True,True
+14189.png,No Finding,No Finding,No Finding,78.28%,Finding,True,False
+14190.png,No Finding,No Finding,No Finding,55.94%,Finding,True,False
+14191.png,No Finding,No Finding,No Finding,78.15%,No Finding,True,True
+14192.png,No Finding,No Finding,No Finding,68.79%,No Finding,True,True
+14193.png,No Finding,No Finding,No Finding,81.34%,No Finding,True,True
+14194.png,No Finding,No Finding,No Finding,53.91%,Finding,True,False
+14195.png,No Finding,No Finding,No Finding,76.08%,No Finding,True,True
+14197.png,Consolidation,Finding,No Finding,70.28%,No Finding,False,False
+14198.png,Pneumonia,Finding,No Finding,54.25%,Finding,False,True
+14199.png,No Finding,No Finding,No Finding,67.50%,Finding,True,False
+14200.png,No Finding,No Finding,No Finding,80.48%,No Finding,True,True
+14201.png,Fibrosis,Finding,No Finding,65.75%,No Finding,False,False
+14202.png,Nodule,Finding,Nodule,62.86%,Finding,True,True
+14203.png,No Finding,No Finding,No Finding,46.60%,Finding,True,False
+14204.png,Infiltration,Finding,No Finding,69.95%,No Finding,False,False
+14207.png,No Finding,No Finding,No Finding,72.55%,No Finding,True,True
+14208.png,Consolidation,Finding,No Finding,46.75%,Finding,False,True
+14209.png,No Finding,No Finding,No Finding,94.27%,No Finding,True,True
+14210.png,No Finding,No Finding,No Finding,86.11%,No Finding,True,True
+14211.png,Nodule,Finding,No Finding,65.74%,No Finding,False,False
+14213.png,Effusion,Finding,No Finding,51.29%,Finding,False,True
+14214.png,No Finding,No Finding,No Finding,52.82%,Finding,True,False
+14215.png,No Finding,No Finding,No Finding,77.49%,Finding,True,False
+14217.png,No Finding,No Finding,No Finding,75.12%,No Finding,True,True
+14219.png,Atelectasis,Finding,No Finding,68.74%,Finding,False,True
+14220.png,No Finding,No Finding,No Finding,70.35%,No Finding,True,True
+14221.png,No Finding,No Finding,No Finding,67.92%,Finding,True,False
+14222.png,No Finding,No Finding,Atelectasis,43.97%,Finding,False,False
+14225.png,Pneumothorax,Finding,No Finding,53.14%,Finding,False,True
+14226.png,No Finding,No Finding,No Finding,70.40%,No Finding,True,True
+14227.png,Cardiomegaly,Finding,Cardiomegaly,44.98%,Finding,True,True
+14228.png,Infiltration,Finding,No Finding,78.79%,No Finding,False,False
+14229.png,Pneumothorax,Finding,Emphysema,47.24%,Finding,False,True
+14230.png,No Finding,No Finding,No Finding,64.90%,No Finding,True,True
+14231.png,No Finding,No Finding,No Finding,72.78%,No Finding,True,True
+14233.png,No Finding,No Finding,No Finding,73.92%,Finding,True,False
+14234.png,No Finding,No Finding,No Finding,56.90%,Finding,True,False
+14235.png,No Finding,No Finding,No Finding,54.41%,Finding,True,False
+14237.png,No Finding,No Finding,No Finding,83.97%,No Finding,True,True
+14238.png,No Finding,No Finding,No Finding,65.07%,Finding,True,False
+14239.png,No Finding,No Finding,No Finding,42.88%,Finding,True,False
+14241.png,No Finding,No Finding,No Finding,60.94%,No Finding,True,True
+14242.png,No Finding,No Finding,No Finding,79.66%,No Finding,True,True
+14243.png,No Finding,No Finding,No Finding,52.48%,Finding,True,False
+14244.png,No Finding,No Finding,No Finding,54.75%,Finding,True,False
+14245.png,No Finding,No Finding,No Finding,55.71%,Finding,True,False
+14246.png,No Finding,No Finding,No Finding,68.07%,Finding,True,False
+14247.png,No Finding,No Finding,No Finding,51.74%,Finding,True,False
+14248.png,No Finding,No Finding,No Finding,52.63%,Finding,True,False
+14249.png,Effusion,Finding,No Finding,40.15%,Finding,False,True
+14250.png,No Finding,No Finding,No Finding,62.55%,Finding,True,False
+14252.png,No Finding,No Finding,No Finding,79.06%,No Finding,True,True
+14254.png,No Finding,No Finding,No Finding,81.38%,No Finding,True,True
+14255.png,Infiltration,Finding,No Finding,49.94%,Finding,False,True
+14256.png,No Finding,No Finding,No Finding,89.27%,No Finding,True,True
+14259.png,No Finding,No Finding,No Finding,59.55%,No Finding,True,True
+14260.png,No Finding,No Finding,No Finding,56.50%,Finding,True,False
+14261.png,No Finding,No Finding,No Finding,69.44%,Finding,True,False
+14262.png,Atelectasis,Finding,No Finding,67.16%,No Finding,False,False
+14263.png,No Finding,No Finding,No Finding,50.80%,Finding,True,False
+14264.png,No Finding,No Finding,No Finding,79.01%,No Finding,True,True
+14265.png,No Finding,No Finding,No Finding,69.79%,No Finding,True,True
+14266.png,No Finding,No Finding,No Finding,96.10%,No Finding,True,True
+14269.png,Infiltration,Finding,No Finding,36.68%,Finding,False,True
+14270.png,No Finding,No Finding,No Finding,82.58%,No Finding,True,True
+14271.png,No Finding,No Finding,No Finding,61.71%,Finding,True,False
+14272.png,No Finding,No Finding,No Finding,67.83%,Finding,True,False
+14274.png,Infiltration,Finding,No Finding,41.56%,Finding,False,True
+14276.png,Nodule,Finding,Nodule,76.64%,Finding,True,True
+14278.png,No Finding,No Finding,No Finding,47.34%,Finding,True,False
+14279.png,Nodule,Finding,No Finding,48.99%,No Finding,False,False
+14280.png,Nodule,Finding,No Finding,54.55%,Finding,False,True
+14281.png,No Finding,No Finding,No Finding,83.05%,No Finding,True,True
+14282.png,No Finding,No Finding,No Finding,80.41%,No Finding,True,True
+14283.png,Pneumothorax,Finding,No Finding,55.50%,Finding,False,True
+14285.png,No Finding,No Finding,No Finding,87.30%,No Finding,True,True
+14286.png,No Finding,No Finding,No Finding,80.76%,No Finding,True,True
+14288.png,No Finding,No Finding,No Finding,37.46%,Finding,True,False
+14289.png,No Finding,No Finding,No Finding,79.64%,No Finding,True,True
+14290.png,No Finding,No Finding,No Finding,84.45%,No Finding,True,True
+14291.png,Nodule,Finding,No Finding,87.99%,No Finding,False,False
+14292.png,No Finding,No Finding,No Finding,54.16%,Finding,True,False
+14293.png,No Finding,No Finding,No Finding,41.13%,Finding,True,False
+14294.png,No Finding,No Finding,No Finding,94.66%,No Finding,True,True
+14295.png,Infiltration,Finding,No Finding,84.73%,No Finding,False,False
+14297.png,Nodule,Finding,No Finding,37.74%,Finding,False,True
+14298.png,No Finding,No Finding,No Finding,62.52%,Finding,True,False
+14299.png,No Finding,No Finding,No Finding,88.06%,No Finding,True,True
+14300.png,Nodule,Finding,No Finding,71.03%,Finding,False,True
+14301.png,Effusion,Finding,No Finding,39.36%,Finding,False,True
+14302.png,No Finding,No Finding,No Finding,88.40%,No Finding,True,True
+14303.png,No Finding,No Finding,No Finding,76.88%,No Finding,True,True
+14304.png,No Finding,No Finding,No Finding,82.47%,No Finding,True,True
+14306.png,No Finding,No Finding,No Finding,57.05%,Finding,True,False
+14307.png,Nodule,Finding,No Finding,76.73%,Finding,False,True
+14308.png,No Finding,No Finding,No Finding,63.31%,Finding,True,False
+14309.png,Infiltration,Finding,No Finding,73.29%,No Finding,False,False
+14310.png,No Finding,No Finding,No Finding,73.92%,No Finding,True,True
+14311.png,No Finding,No Finding,No Finding,92.67%,No Finding,True,True
+14312.png,Infiltration,Finding,No Finding,79.28%,No Finding,False,False
+14313.png,No Finding,No Finding,No Finding,53.04%,Finding,True,False
+14314.png,No Finding,No Finding,No Finding,80.48%,No Finding,True,True
+14315.png,No Finding,No Finding,No Finding,85.21%,No Finding,True,True
+14316.png,No Finding,No Finding,No Finding,58.80%,No Finding,True,True
+14317.png,No Finding,No Finding,No Finding,90.31%,No Finding,True,True
+14318.png,No Finding,No Finding,No Finding,63.59%,Finding,True,False
+14319.png,Nodule,Finding,No Finding,72.57%,Finding,False,True
+14320.png,No Finding,No Finding,No Finding,46.37%,Finding,True,False
+14321.png,Infiltration,Finding,No Finding,59.28%,Finding,False,True
+14322.png,Infiltration,Finding,No Finding,54.58%,Finding,False,True
+14323.png,No Finding,No Finding,No Finding,74.93%,Finding,True,False
+14324.png,No Finding,No Finding,No Finding,73.20%,No Finding,True,True
+14325.png,Atelectasis,Finding,No Finding,72.88%,No Finding,False,False
+14326.png,No Finding,No Finding,No Finding,84.91%,No Finding,True,True
+14327.png,No Finding,No Finding,No Finding,55.06%,Finding,True,False
+14329.png,Infiltration,Finding,Infiltration,35.55%,Finding,True,True
+14330.png,No Finding,No Finding,No Finding,82.65%,No Finding,True,True
+14331.png,No Finding,No Finding,No Finding,57.13%,Finding,True,False
+14332.png,No Finding,No Finding,No Finding,77.86%,No Finding,True,True
+14333.png,Fibrosis,Finding,Effusion,57.16%,Finding,False,True
+14334.png,No Finding,No Finding,No Finding,44.95%,Finding,True,False
+14335.png,Infiltration,Finding,No Finding,67.35%,Finding,False,True
+14337.png,No Finding,No Finding,No Finding,84.44%,No Finding,True,True
+14338.png,No Finding,No Finding,No Finding,93.48%,No Finding,True,True
+14339.png,Mass,Finding,No Finding,81.02%,No Finding,False,False
+14340.png,No Finding,No Finding,No Finding,60.18%,No Finding,True,True
+14341.png,No Finding,No Finding,No Finding,80.03%,No Finding,True,True
+14342.png,No Finding,No Finding,No Finding,76.61%,No Finding,True,True
+14343.png,Infiltration,Finding,No Finding,76.19%,No Finding,False,False
+14344.png,No Finding,No Finding,No Finding,73.76%,No Finding,True,True
+14345.png,No Finding,No Finding,No Finding,70.80%,No Finding,True,True
+14346.png,Nodule,Finding,No Finding,71.26%,No Finding,False,False
+14347.png,Edema,Finding,No Finding,47.26%,Finding,False,True
+14349.png,No Finding,No Finding,No Finding,67.09%,Finding,True,False
+14351.png,No Finding,No Finding,No Finding,90.68%,No Finding,True,True
+14352.png,No Finding,No Finding,No Finding,81.27%,No Finding,True,True
+14353.png,Infiltration,Finding,No Finding,71.51%,No Finding,False,False
+14354.png,No Finding,No Finding,No Finding,95.92%,No Finding,True,True
+14355.png,No Finding,No Finding,No Finding,70.10%,No Finding,True,True
+14356.png,Infiltration,Finding,Infiltration,47.97%,Finding,True,True
+14357.png,No Finding,No Finding,No Finding,77.96%,No Finding,True,True
+14359.png,Atelectasis,Finding,No Finding,34.13%,Finding,False,True
+14362.png,No Finding,No Finding,No Finding,75.15%,Finding,True,False
+14364.png,No Finding,No Finding,No Finding,62.03%,Finding,True,False
+14365.png,Infiltration,Finding,No Finding,55.15%,Finding,False,True
+14367.png,No Finding,No Finding,No Finding,50.78%,Finding,True,False
+14369.png,No Finding,No Finding,No Finding,50.14%,Finding,True,False
+14370.png,No Finding,No Finding,No Finding,90.52%,No Finding,True,True
+14371.png,No Finding,No Finding,No Finding,66.92%,Finding,True,False
+14372.png,No Finding,No Finding,No Finding,81.73%,No Finding,True,True
+14373.png,No Finding,No Finding,Infiltration,43.85%,Finding,False,False
+14374.png,No Finding,No Finding,No Finding,49.17%,Finding,True,False
+14375.png,No Finding,No Finding,No Finding,72.39%,No Finding,True,True
+14376.png,No Finding,No Finding,No Finding,71.93%,No Finding,True,True
+14377.png,No Finding,No Finding,No Finding,83.35%,No Finding,True,True
+14378.png,No Finding,No Finding,No Finding,68.54%,Finding,True,False
+14379.png,Infiltration,Finding,No Finding,47.50%,Finding,False,True
+14381.png,Infiltration,Finding,No Finding,75.49%,No Finding,False,False
+14382.png,Effusion,Finding,No Finding,59.87%,No Finding,False,False
+14383.png,Effusion,Finding,No Finding,41.84%,Finding,False,True
+14384.png,Nodule,Finding,Infiltration,42.38%,Finding,False,True
+14386.png,Infiltration,Finding,No Finding,84.24%,No Finding,False,False
+14387.png,Pneumonia,Finding,No Finding,69.49%,No Finding,False,False
+14390.png,No Finding,No Finding,No Finding,78.52%,No Finding,True,True
+14391.png,Nodule,Finding,No Finding,60.09%,No Finding,False,False
+14392.png,Effusion,Finding,No Finding,53.93%,Finding,False,True
+14394.png,Atelectasis,Finding,No Finding,42.48%,Finding,False,True
+14395.png,No Finding,No Finding,No Finding,81.09%,No Finding,True,True
+14396.png,No Finding,No Finding,No Finding,54.04%,Finding,True,False
+14398.png,No Finding,No Finding,No Finding,54.50%,Finding,True,False
+14399.png,No Finding,No Finding,No Finding,82.10%,No Finding,True,True
+14400.png,No Finding,No Finding,No Finding,66.08%,No Finding,True,True
+14401.png,Mass,Finding,No Finding,52.55%,Finding,False,True
+14402.png,Nodule,Finding,Nodule,35.45%,Finding,True,True
+14403.png,Pneumothorax,Finding,No Finding,78.05%,No Finding,False,False
+14404.png,No Finding,No Finding,No Finding,59.54%,Finding,True,False
+14405.png,Effusion,Finding,No Finding,35.16%,Finding,False,True
+14407.png,No Finding,No Finding,No Finding,74.04%,No Finding,True,True
+14410.png,No Finding,No Finding,No Finding,66.76%,No Finding,True,True
+14411.png,Atelectasis,Finding,No Finding,67.30%,Finding,False,True
+14412.png,Pneumothorax,Finding,No Finding,44.68%,Finding,False,True
+14413.png,Pleural_Thickening,Finding,No Finding,54.20%,No Finding,False,False
+14414.png,No Finding,No Finding,No Finding,81.72%,Finding,True,False
+14415.png,No Finding,No Finding,No Finding,35.84%,Finding,True,False
+14416.png,No Finding,No Finding,No Finding,61.88%,Finding,True,False
+14417.png,No Finding,No Finding,No Finding,83.17%,No Finding,True,True
+14418.png,Pneumothorax,Finding,No Finding,62.59%,Finding,False,True
+14419.png,No Finding,No Finding,No Finding,65.52%,No Finding,True,True
+14420.png,Infiltration,Finding,No Finding,69.10%,No Finding,False,False
+14421.png,No Finding,No Finding,No Finding,66.23%,No Finding,True,True
+14423.png,Nodule,Finding,No Finding,70.91%,Finding,False,True
+14424.png,No Finding,No Finding,No Finding,86.11%,No Finding,True,True
+14425.png,No Finding,No Finding,No Finding,79.00%,No Finding,True,True
+14426.png,Infiltration,Finding,No Finding,69.57%,No Finding,False,False
+14427.png,No Finding,No Finding,No Finding,63.58%,No Finding,True,True
+14428.png,No Finding,No Finding,No Finding,85.62%,No Finding,True,True
+14429.png,No Finding,No Finding,No Finding,74.46%,Finding,True,False
+14431.png,No Finding,No Finding,No Finding,84.52%,No Finding,True,True
+14432.png,No Finding,No Finding,No Finding,74.71%,No Finding,True,True
+14433.png,Atelectasis,Finding,No Finding,58.20%,Finding,False,True
+14436.png,No Finding,No Finding,No Finding,82.78%,No Finding,True,True
+14437.png,Atelectasis,Finding,No Finding,69.33%,Finding,False,True
+14440.png,No Finding,No Finding,No Finding,77.00%,No Finding,True,True
+14441.png,No Finding,No Finding,No Finding,46.03%,Finding,True,False
+14442.png,No Finding,No Finding,No Finding,67.59%,Finding,True,False
+14443.png,Effusion,Finding,Effusion,83.64%,Finding,True,True
+14444.png,Emphysema,Finding,No Finding,59.83%,Finding,False,True
+14445.png,Nodule,Finding,No Finding,90.47%,No Finding,False,False
+14446.png,No Finding,No Finding,No Finding,78.51%,No Finding,True,True
+14447.png,No Finding,No Finding,No Finding,80.79%,Finding,True,False
+14448.png,No Finding,No Finding,No Finding,73.64%,No Finding,True,True
+14449.png,No Finding,No Finding,No Finding,74.61%,No Finding,True,True
+14450.png,No Finding,No Finding,No Finding,92.67%,No Finding,True,True
+14451.png,No Finding,No Finding,No Finding,81.56%,No Finding,True,True
+14452.png,No Finding,No Finding,No Finding,90.05%,No Finding,True,True
+14453.png,No Finding,No Finding,No Finding,71.91%,No Finding,True,True
+14454.png,Infiltration,Finding,No Finding,79.01%,No Finding,False,False
+14457.png,Consolidation,Finding,No Finding,49.65%,Finding,False,True
+14458.png,No Finding,No Finding,No Finding,59.35%,No Finding,True,True
+14460.png,No Finding,No Finding,No Finding,82.61%,No Finding,True,True
+14461.png,Effusion,Finding,No Finding,66.70%,No Finding,False,False
+14462.png,Hernia,Finding,No Finding,47.24%,Finding,False,True
+14463.png,Infiltration,Finding,No Finding,71.97%,No Finding,False,False
+14464.png,No Finding,No Finding,No Finding,86.03%,No Finding,True,True
+14465.png,No Finding,No Finding,No Finding,72.96%,No Finding,True,True
+14466.png,No Finding,No Finding,No Finding,69.82%,No Finding,True,True
+14467.png,No Finding,No Finding,No Finding,71.17%,No Finding,True,True
+14468.png,No Finding,No Finding,No Finding,91.40%,No Finding,True,True
+14469.png,No Finding,No Finding,No Finding,62.35%,Finding,True,False
+14470.png,No Finding,No Finding,No Finding,89.62%,No Finding,True,True
+14471.png,Effusion,Finding,No Finding,49.66%,Finding,False,True
+14472.png,Infiltration,Finding,No Finding,51.80%,Finding,False,True
+14474.png,No Finding,No Finding,No Finding,93.16%,No Finding,True,True
+14475.png,No Finding,No Finding,No Finding,72.77%,No Finding,True,True
+14476.png,No Finding,No Finding,No Finding,78.06%,No Finding,True,True
+14478.png,No Finding,No Finding,No Finding,81.03%,No Finding,True,True
+14479.png,Infiltration,Finding,No Finding,86.22%,No Finding,False,False
+14481.png,No Finding,No Finding,No Finding,64.34%,No Finding,True,True
+14483.png,No Finding,No Finding,No Finding,92.27%,No Finding,True,True
+14484.png,No Finding,No Finding,No Finding,78.76%,No Finding,True,True
+14485.png,No Finding,No Finding,No Finding,53.79%,Finding,True,False
+14486.png,No Finding,No Finding,No Finding,97.00%,No Finding,True,True
+14487.png,Mass,Finding,No Finding,52.71%,Finding,False,True
+14489.png,No Finding,No Finding,No Finding,71.53%,No Finding,True,True
+14490.png,No Finding,No Finding,No Finding,56.68%,Finding,True,False
+14492.png,No Finding,No Finding,No Finding,65.31%,No Finding,True,True
+14493.png,No Finding,No Finding,No Finding,71.01%,No Finding,True,True
+14494.png,Atelectasis,Finding,No Finding,67.83%,No Finding,False,False
+14495.png,Infiltration,Finding,No Finding,87.14%,No Finding,False,False
+14496.png,No Finding,No Finding,No Finding,84.11%,No Finding,True,True
+14497.png,Nodule,Finding,No Finding,40.74%,Finding,False,True
+14500.png,No Finding,No Finding,No Finding,42.84%,Finding,True,False
+14501.png,No Finding,No Finding,No Finding,94.88%,No Finding,True,True
+14502.png,No Finding,No Finding,No Finding,65.69%,No Finding,True,True
+14503.png,No Finding,No Finding,No Finding,93.06%,No Finding,True,True
+14504.png,Nodule,Finding,No Finding,71.19%,No Finding,False,False
+14505.png,No Finding,No Finding,No Finding,66.76%,Finding,True,False
+14507.png,No Finding,No Finding,No Finding,79.94%,No Finding,True,True
+14508.png,No Finding,No Finding,No Finding,94.20%,No Finding,True,True
+14509.png,No Finding,No Finding,No Finding,69.40%,No Finding,True,True
+14510.png,No Finding,No Finding,No Finding,54.49%,No Finding,True,True
+14511.png,Pneumothorax,Finding,No Finding,43.04%,Finding,False,True
+14512.png,No Finding,No Finding,No Finding,73.82%,No Finding,True,True
+14516.png,No Finding,No Finding,No Finding,76.25%,No Finding,True,True
+14519.png,Cardiomegaly,Finding,No Finding,55.89%,Finding,False,True
+14520.png,No Finding,No Finding,No Finding,66.02%,No Finding,True,True
+14521.png,Atelectasis,Finding,No Finding,66.92%,No Finding,False,False
+14522.png,Infiltration,Finding,No Finding,53.12%,Finding,False,True
+14523.png,No Finding,No Finding,No Finding,65.50%,No Finding,True,True
+14525.png,Pneumothorax,Finding,No Finding,50.72%,Finding,False,True
+14526.png,No Finding,No Finding,No Finding,55.11%,No Finding,True,True
+14527.png,No Finding,No Finding,No Finding,43.38%,Finding,True,False
+14528.png,No Finding,No Finding,No Finding,75.61%,Finding,True,False
+14529.png,No Finding,No Finding,No Finding,81.37%,No Finding,True,True
+14530.png,Effusion,Finding,No Finding,57.13%,No Finding,False,False
+14531.png,Pleural_Thickening,Finding,No Finding,51.66%,No Finding,False,False
+14532.png,Mass,Finding,No Finding,64.83%,Finding,False,True
+14533.png,No Finding,No Finding,No Finding,82.40%,No Finding,True,True
+14535.png,No Finding,No Finding,No Finding,40.66%,Finding,True,False
+14536.png,Infiltration,Finding,No Finding,46.55%,Finding,False,True
+14537.png,Atelectasis,Finding,No Finding,76.87%,No Finding,False,False
+14538.png,No Finding,No Finding,No Finding,76.62%,No Finding,True,True
+14539.png,No Finding,No Finding,No Finding,59.77%,Finding,True,False
+14540.png,Edema,Finding,No Finding,50.05%,Finding,False,True
+14541.png,Pneumothorax,Finding,No Finding,76.06%,No Finding,False,False
+14543.png,No Finding,No Finding,No Finding,80.82%,No Finding,True,True
+14544.png,Cardiomegaly,Finding,No Finding,47.57%,Finding,False,True
+14546.png,Infiltration,Finding,No Finding,77.63%,No Finding,False,False
+14548.png,No Finding,No Finding,No Finding,70.44%,Finding,True,False
+14549.png,No Finding,No Finding,No Finding,93.81%,No Finding,True,True
+14550.png,No Finding,No Finding,No Finding,84.87%,No Finding,True,True
+14551.png,No Finding,No Finding,No Finding,55.49%,Finding,True,False
+14552.png,Infiltration,Finding,No Finding,77.93%,No Finding,False,False
+14553.png,Pleural_Thickening,Finding,No Finding,46.83%,Finding,False,True
+14555.png,Atelectasis,Finding,No Finding,87.22%,No Finding,False,False
+14556.png,No Finding,No Finding,No Finding,67.23%,No Finding,True,True
+14557.png,No Finding,No Finding,No Finding,90.77%,No Finding,True,True
+14558.png,No Finding,No Finding,No Finding,61.54%,No Finding,True,True
+14560.png,No Finding,No Finding,No Finding,64.81%,Finding,True,False
+14561.png,Atelectasis,Finding,No Finding,86.92%,No Finding,False,False
+14562.png,No Finding,No Finding,No Finding,70.29%,Finding,True,False
+14563.png,No Finding,No Finding,No Finding,89.89%,No Finding,True,True
+14565.png,Pleural_Thickening,Finding,No Finding,46.28%,Finding,False,True
+14566.png,Atelectasis,Finding,No Finding,67.48%,Finding,False,True
+14568.png,No Finding,No Finding,No Finding,74.69%,Finding,True,False
+14569.png,Nodule,Finding,No Finding,49.15%,Finding,False,True
+14570.png,Consolidation,Finding,No Finding,52.53%,Finding,False,True
+14571.png,No Finding,No Finding,No Finding,53.95%,Finding,True,False
+14572.png,No Finding,No Finding,No Finding,65.65%,Finding,True,False
+14573.png,Pneumothorax,Finding,No Finding,59.30%,Finding,False,True
+14574.png,Pneumothorax,Finding,No Finding,54.09%,No Finding,False,False
+14575.png,Pneumothorax,Finding,No Finding,40.54%,Finding,False,True
+14576.png,Infiltration,Finding,No Finding,54.36%,Finding,False,True
+14577.png,Atelectasis,Finding,No Finding,63.10%,Finding,False,True
+14578.png,No Finding,No Finding,No Finding,74.78%,No Finding,True,True
+14579.png,Nodule,Finding,No Finding,61.71%,Finding,False,True
+14581.png,Atelectasis,Finding,Effusion,70.89%,Finding,False,True
+14582.png,Infiltration,Finding,No Finding,73.92%,No Finding,False,False
+14584.png,No Finding,No Finding,No Finding,53.58%,Finding,True,False
+14585.png,Nodule,Finding,No Finding,47.51%,Finding,False,True
+14586.png,Infiltration,Finding,No Finding,68.73%,No Finding,False,False
+14588.png,No Finding,No Finding,No Finding,80.13%,No Finding,True,True
+14590.png,Nodule,Finding,No Finding,67.98%,Finding,False,True
+14593.png,No Finding,No Finding,No Finding,76.89%,No Finding,True,True
+14595.png,Mass,Finding,No Finding,63.80%,Finding,False,True
+14597.png,No Finding,No Finding,No Finding,85.04%,No Finding,True,True
+14598.png,No Finding,No Finding,No Finding,79.46%,No Finding,True,True
+14599.png,Pneumothorax,Finding,No Finding,43.14%,Finding,False,True
+14601.png,No Finding,No Finding,No Finding,51.71%,Finding,True,False
+14603.png,No Finding,No Finding,No Finding,93.79%,No Finding,True,True
+14604.png,No Finding,No Finding,No Finding,97.80%,No Finding,True,True
+14605.png,No Finding,No Finding,No Finding,77.07%,No Finding,True,True
+14606.png,No Finding,No Finding,No Finding,72.64%,No Finding,True,True
+14607.png,Infiltration,Finding,No Finding,57.74%,Finding,False,True
+14608.png,Infiltration,Finding,No Finding,72.12%,No Finding,False,False
+14610.png,No Finding,No Finding,No Finding,80.55%,No Finding,True,True
+14612.png,Nodule,Finding,No Finding,51.54%,Finding,False,True
+14613.png,No Finding,No Finding,No Finding,91.35%,No Finding,True,True
+14614.png,Nodule,Finding,No Finding,49.77%,Finding,False,True
+14615.png,Pneumothorax,Finding,Emphysema,58.80%,Finding,False,True
+14616.png,Infiltration,Finding,No Finding,71.61%,No Finding,False,False
+14617.png,Cardiomegaly,Finding,No Finding,66.01%,No Finding,False,False
+14618.png,No Finding,No Finding,No Finding,56.69%,Finding,True,False
+14619.png,No Finding,No Finding,No Finding,71.26%,No Finding,True,True
+14621.png,Mass,Finding,No Finding,71.84%,No Finding,False,False
+14622.png,No Finding,No Finding,No Finding,86.98%,No Finding,True,True
+14623.png,Infiltration,Finding,No Finding,70.61%,No Finding,False,False
+14624.png,Fibrosis,Finding,Fibrosis,47.45%,Finding,True,True
+14625.png,Infiltration,Finding,No Finding,71.94%,No Finding,False,False
+14626.png,Effusion,Finding,No Finding,58.89%,Finding,False,True
+14627.png,Pleural_Thickening,Finding,No Finding,53.62%,Finding,False,True
+14628.png,Nodule,Finding,No Finding,80.65%,No Finding,False,False
+14630.png,No Finding,No Finding,No Finding,89.40%,No Finding,True,True
+14631.png,No Finding,No Finding,No Finding,59.07%,Finding,True,False
+14632.png,No Finding,No Finding,No Finding,96.86%,No Finding,True,True
+14633.png,No Finding,No Finding,No Finding,61.89%,No Finding,True,True
+14634.png,Infiltration,Finding,Infiltration,54.23%,Finding,True,True
+14635.png,No Finding,No Finding,No Finding,98.35%,No Finding,True,True
+14636.png,No Finding,No Finding,No Finding,86.98%,No Finding,True,True
+14637.png,No Finding,No Finding,No Finding,70.36%,No Finding,True,True
+14638.png,Pneumothorax,Finding,No Finding,52.04%,Finding,False,True
+14639.png,No Finding,No Finding,No Finding,63.30%,Finding,True,False
+14641.png,No Finding,No Finding,No Finding,56.32%,Finding,True,False
+14642.png,Pleural_Thickening,Finding,No Finding,67.62%,No Finding,False,False
+14643.png,No Finding,No Finding,No Finding,97.38%,No Finding,True,True
+14644.png,No Finding,No Finding,No Finding,68.07%,Finding,True,False
+14645.png,No Finding,No Finding,No Finding,84.09%,No Finding,True,True
+14646.png,Infiltration,Finding,No Finding,75.11%,Finding,False,True
+14647.png,Nodule,Finding,No Finding,51.27%,Finding,False,True
+14649.png,No Finding,No Finding,No Finding,81.85%,No Finding,True,True
+14650.png,No Finding,No Finding,No Finding,69.97%,No Finding,True,True
+14651.png,Mass,Finding,No Finding,74.61%,No Finding,False,False
+14652.png,Fibrosis,Finding,No Finding,47.52%,Finding,False,True
+14653.png,No Finding,No Finding,No Finding,53.56%,Finding,True,False
+14654.png,No Finding,No Finding,No Finding,84.47%,No Finding,True,True
+14655.png,Emphysema,Finding,No Finding,48.52%,Finding,False,True
+14656.png,Pneumothorax,Finding,No Finding,52.97%,Finding,False,True
+14657.png,Infiltration,Finding,No Finding,80.75%,No Finding,False,False
+14658.png,Infiltration,Finding,No Finding,75.31%,No Finding,False,False
+14660.png,No Finding,No Finding,No Finding,68.34%,No Finding,True,True
+14661.png,No Finding,No Finding,No Finding,65.01%,Finding,True,False
+14662.png,No Finding,No Finding,No Finding,59.58%,Finding,True,False
+14664.png,No Finding,No Finding,No Finding,84.58%,No Finding,True,True
+14665.png,No Finding,No Finding,No Finding,58.86%,No Finding,True,True
+14668.png,No Finding,No Finding,No Finding,74.07%,No Finding,True,True
+14669.png,Pneumothorax,Finding,No Finding,58.13%,Finding,False,True
+14671.png,No Finding,No Finding,No Finding,71.31%,No Finding,True,True
+14672.png,Effusion,Finding,No Finding,46.72%,Finding,False,True
+14673.png,Consolidation,Finding,No Finding,68.53%,No Finding,False,False
+14674.png,Nodule,Finding,No Finding,63.79%,Finding,False,True
+14675.png,No Finding,No Finding,No Finding,88.67%,No Finding,True,True
+14676.png,Pneumothorax,Finding,No Finding,52.44%,Finding,False,True
+14677.png,No Finding,No Finding,No Finding,60.57%,Finding,True,False
+14678.png,No Finding,No Finding,No Finding,91.52%,No Finding,True,True
+14679.png,No Finding,No Finding,No Finding,93.29%,No Finding,True,True
+14680.png,Infiltration,Finding,No Finding,64.50%,Finding,False,True
+14681.png,Atelectasis,Finding,No Finding,60.06%,Finding,False,True
+14683.png,No Finding,No Finding,No Finding,53.73%,Finding,True,False
+14686.png,No Finding,No Finding,No Finding,47.05%,Finding,True,False
+14687.png,Consolidation,Finding,No Finding,72.21%,No Finding,False,False
+14688.png,Atelectasis,Finding,No Finding,54.18%,Finding,False,True
+14689.png,No Finding,No Finding,No Finding,53.00%,Finding,True,False
+14692.png,Infiltration,Finding,No Finding,47.92%,Finding,False,True
+14693.png,Atelectasis,Finding,No Finding,74.95%,No Finding,False,False
+14695.png,No Finding,No Finding,No Finding,75.16%,No Finding,True,True
+14697.png,No Finding,No Finding,No Finding,95.42%,No Finding,True,True
+14699.png,Pleural_Thickening,Finding,No Finding,53.18%,Finding,False,True
+14701.png,No Finding,No Finding,No Finding,90.79%,No Finding,True,True
+14702.png,No Finding,No Finding,No Finding,62.10%,No Finding,True,True
+14703.png,No Finding,No Finding,No Finding,68.59%,Finding,True,False
+14704.png,Atelectasis,Finding,No Finding,60.31%,No Finding,False,False
+14705.png,Effusion,Finding,No Finding,47.88%,Finding,False,True
+14706.png,No Finding,No Finding,No Finding,89.00%,No Finding,True,True
+14707.png,Effusion,Finding,Effusion,79.28%,Finding,True,True
+14709.png,No Finding,No Finding,No Finding,86.70%,No Finding,True,True
+14711.png,No Finding,No Finding,No Finding,44.52%,Finding,True,False
+14713.png,Mass,Finding,No Finding,53.54%,No Finding,False,False
+14714.png,Atelectasis,Finding,No Finding,55.02%,Finding,False,True
+14715.png,No Finding,No Finding,No Finding,69.42%,No Finding,True,True
+14717.png,No Finding,No Finding,No Finding,78.27%,No Finding,True,True
+14718.png,No Finding,No Finding,No Finding,75.74%,No Finding,True,True
+14723.png,No Finding,No Finding,No Finding,64.94%,No Finding,True,True
+14724.png,Effusion,Finding,No Finding,53.52%,Finding,False,True
+14726.png,No Finding,No Finding,No Finding,88.32%,No Finding,True,True
+14727.png,Effusion,Finding,No Finding,56.57%,Finding,False,True
+14728.png,No Finding,No Finding,No Finding,84.29%,No Finding,True,True
+14729.png,Consolidation,Finding,No Finding,41.51%,Finding,False,True
+14730.png,Atelectasis,Finding,No Finding,60.33%,No Finding,False,False
+14732.png,Consolidation,Finding,No Finding,55.94%,No Finding,False,False
+14734.png,No Finding,No Finding,No Finding,63.31%,Finding,True,False
+14735.png,Infiltration,Finding,No Finding,65.32%,No Finding,False,False
+14736.png,No Finding,No Finding,Infiltration,36.20%,Finding,False,False
+14740.png,No Finding,No Finding,No Finding,65.67%,No Finding,True,True
+14741.png,Infiltration,Finding,No Finding,75.15%,No Finding,False,False
+14742.png,No Finding,No Finding,No Finding,73.24%,No Finding,True,True
+14743.png,No Finding,No Finding,No Finding,51.62%,Finding,True,False
+14744.png,Pneumothorax,Finding,No Finding,54.18%,Finding,False,True
+14745.png,Infiltration,Finding,No Finding,68.51%,Finding,False,True
+14746.png,No Finding,No Finding,No Finding,65.47%,No Finding,True,True
+14747.png,No Finding,No Finding,No Finding,57.56%,Finding,True,False
+14748.png,Infiltration,Finding,No Finding,77.85%,Finding,False,True
+14749.png,No Finding,No Finding,No Finding,60.55%,No Finding,True,True
+14750.png,Atelectasis,Finding,No Finding,50.56%,Finding,False,True
+14751.png,Infiltration,Finding,No Finding,72.02%,No Finding,False,False
+14753.png,Consolidation,Finding,No Finding,56.56%,Finding,False,True
+14754.png,Nodule,Finding,No Finding,86.84%,Finding,False,True
+14756.png,No Finding,No Finding,No Finding,88.77%,No Finding,True,True
+14757.png,Effusion,Finding,No Finding,43.71%,Finding,False,True
+14759.png,Pneumothorax,Finding,No Finding,78.53%,Finding,False,True
+14760.png,No Finding,No Finding,No Finding,94.28%,No Finding,True,True
+14761.png,No Finding,No Finding,No Finding,86.05%,No Finding,True,True
+14762.png,Effusion,Finding,No Finding,46.50%,Finding,False,True
+14764.png,No Finding,No Finding,No Finding,71.98%,No Finding,True,True
+14765.png,Infiltration,Finding,No Finding,65.47%,Finding,False,True
+14766.png,Nodule,Finding,No Finding,48.71%,Finding,False,True
+14768.png,No Finding,No Finding,No Finding,87.63%,No Finding,True,True
+14771.png,Nodule,Finding,No Finding,62.00%,Finding,False,True
+14774.png,No Finding,No Finding,No Finding,81.82%,No Finding,True,True
+14775.png,No Finding,No Finding,No Finding,48.98%,Finding,True,False
+14777.png,No Finding,No Finding,No Finding,88.18%,No Finding,True,True
+14778.png,Effusion,Finding,No Finding,69.66%,No Finding,False,False
+14779.png,Effusion,Finding,Effusion,47.48%,Finding,True,True
+14781.png,No Finding,No Finding,No Finding,81.01%,No Finding,True,True
+14782.png,Infiltration,Finding,No Finding,72.34%,No Finding,False,False
+14783.png,No Finding,No Finding,No Finding,52.18%,Finding,True,False
+14784.png,No Finding,No Finding,No Finding,73.88%,No Finding,True,True
+14785.png,Infiltration,Finding,No Finding,66.29%,No Finding,False,False
+14786.png,No Finding,No Finding,No Finding,56.43%,No Finding,True,True
+14787.png,Infiltration,Finding,No Finding,72.00%,Finding,False,True
+14788.png,No Finding,No Finding,No Finding,59.70%,Finding,True,False
+14789.png,Infiltration,Finding,No Finding,77.04%,No Finding,False,False
+14791.png,Infiltration,Finding,No Finding,71.49%,No Finding,False,False
+14792.png,No Finding,No Finding,No Finding,69.34%,No Finding,True,True
+14793.png,Mass,Finding,No Finding,41.18%,Finding,False,True
+14796.png,No Finding,No Finding,No Finding,54.23%,Finding,True,False
+14797.png,Infiltration,Finding,Effusion,36.95%,Finding,False,True
+14798.png,Infiltration,Finding,No Finding,62.46%,Finding,False,True
+14799.png,No Finding,No Finding,No Finding,70.48%,No Finding,True,True
+14800.png,Infiltration,Finding,No Finding,50.28%,Finding,False,True
+14802.png,No Finding,No Finding,No Finding,62.37%,No Finding,True,True
+14805.png,Emphysema,Finding,No Finding,71.28%,No Finding,False,False
+14806.png,No Finding,No Finding,No Finding,48.19%,Finding,True,False
+14807.png,Effusion,Finding,Effusion,97.51%,Finding,True,True
+14808.png,No Finding,No Finding,No Finding,78.53%,Finding,True,False
+14809.png,No Finding,No Finding,No Finding,93.74%,No Finding,True,True
+14811.png,No Finding,No Finding,No Finding,67.68%,No Finding,True,True
+14812.png,No Finding,No Finding,No Finding,68.06%,No Finding,True,True
+14813.png,No Finding,No Finding,No Finding,88.97%,No Finding,True,True
+14814.png,No Finding,No Finding,No Finding,67.39%,No Finding,True,True
+14815.png,Pneumothorax,Finding,No Finding,63.67%,Finding,False,True
+14816.png,No Finding,No Finding,No Finding,87.67%,No Finding,True,True
+14817.png,No Finding,No Finding,No Finding,80.89%,No Finding,True,True
+14818.png,No Finding,No Finding,No Finding,54.87%,Finding,True,False
+14819.png,No Finding,No Finding,No Finding,78.04%,No Finding,True,True
+14820.png,Nodule,Finding,No Finding,41.41%,Finding,False,True
+14821.png,No Finding,No Finding,No Finding,45.77%,Finding,True,False
+14823.png,Infiltration,Finding,No Finding,56.61%,No Finding,False,False
+14824.png,No Finding,No Finding,No Finding,63.47%,No Finding,True,True
+14826.png,No Finding,No Finding,No Finding,79.44%,Finding,True,False
+14827.png,Atelectasis,Finding,No Finding,47.18%,Finding,False,True
+14828.png,Infiltration,Finding,No Finding,50.04%,Finding,False,True
+14829.png,No Finding,No Finding,No Finding,88.30%,No Finding,True,True
+14830.png,No Finding,No Finding,No Finding,92.01%,Finding,True,False
+14831.png,No Finding,No Finding,No Finding,88.46%,No Finding,True,True
+14832.png,Effusion,Finding,No Finding,51.42%,Finding,False,True
+14833.png,Infiltration,Finding,No Finding,64.41%,Finding,False,True
+14834.png,No Finding,No Finding,No Finding,51.01%,Finding,True,False
+14835.png,No Finding,No Finding,No Finding,74.32%,No Finding,True,True
+14836.png,No Finding,No Finding,No Finding,72.51%,No Finding,True,True
+14837.png,No Finding,No Finding,No Finding,40.27%,Finding,True,False
+14838.png,Infiltration,Finding,No Finding,73.02%,No Finding,False,False
+14839.png,No Finding,No Finding,No Finding,75.27%,Finding,True,False
+14840.png,Infiltration,Finding,No Finding,65.12%,Finding,False,True
+14841.png,No Finding,No Finding,No Finding,79.93%,No Finding,True,True
+14843.png,No Finding,No Finding,No Finding,76.76%,No Finding,True,True
+14844.png,Emphysema,Finding,No Finding,82.40%,No Finding,False,False
+14845.png,No Finding,No Finding,No Finding,75.87%,Finding,True,False
+14846.png,No Finding,No Finding,No Finding,79.52%,No Finding,True,True
+14847.png,No Finding,No Finding,No Finding,71.54%,Finding,True,False
+14848.png,No Finding,No Finding,No Finding,90.24%,No Finding,True,True
+14850.png,No Finding,No Finding,No Finding,54.34%,Finding,True,False
+14851.png,Consolidation,Finding,No Finding,87.64%,No Finding,False,False
+14852.png,No Finding,No Finding,No Finding,58.85%,No Finding,True,True
+14853.png,No Finding,No Finding,No Finding,53.85%,Finding,True,False
+14854.png,No Finding,No Finding,No Finding,67.37%,No Finding,True,True
+14856.png,Atelectasis,Finding,No Finding,67.76%,Finding,False,True
+14858.png,Infiltration,Finding,No Finding,75.93%,No Finding,False,False
+14859.png,No Finding,No Finding,No Finding,57.23%,Finding,True,False
+14860.png,No Finding,No Finding,No Finding,75.31%,No Finding,True,True
+14861.png,No Finding,No Finding,No Finding,75.85%,No Finding,True,True
+14862.png,No Finding,No Finding,No Finding,91.99%,No Finding,True,True
+14864.png,No Finding,No Finding,No Finding,96.78%,No Finding,True,True
+14865.png,No Finding,No Finding,No Finding,59.83%,Finding,True,False
+14866.png,No Finding,No Finding,No Finding,79.86%,No Finding,True,True
+14867.png,No Finding,No Finding,No Finding,56.96%,Finding,True,False
+14869.png,No Finding,No Finding,No Finding,75.89%,No Finding,True,True
+14872.png,No Finding,No Finding,No Finding,83.01%,No Finding,True,True
+14876.png,No Finding,No Finding,No Finding,65.63%,No Finding,True,True
+14879.png,Infiltration,Finding,No Finding,83.87%,No Finding,False,False
+14881.png,Nodule,Finding,No Finding,65.06%,No Finding,False,False
+14882.png,No Finding,No Finding,No Finding,71.40%,No Finding,True,True
+14883.png,Pneumothorax,Finding,No Finding,68.48%,Finding,False,True
+14884.png,Nodule,Finding,No Finding,87.75%,No Finding,False,False
+14885.png,No Finding,No Finding,No Finding,82.17%,No Finding,True,True
+14888.png,Infiltration,Finding,No Finding,59.54%,Finding,False,True
+14890.png,Mass,Finding,No Finding,70.25%,Finding,False,True
+14891.png,No Finding,No Finding,No Finding,47.08%,Finding,True,False
+14893.png,Infiltration,Finding,No Finding,62.80%,No Finding,False,False
+14895.png,No Finding,No Finding,No Finding,71.97%,No Finding,True,True
+14896.png,No Finding,No Finding,No Finding,44.13%,Finding,True,False
+14897.png,No Finding,No Finding,No Finding,78.68%,No Finding,True,True
+14898.png,No Finding,No Finding,No Finding,74.33%,No Finding,True,True
+14899.png,No Finding,No Finding,No Finding,54.03%,Finding,True,False
+14901.png,No Finding,No Finding,No Finding,60.35%,Finding,True,False
+14902.png,Mass,Finding,No Finding,75.88%,No Finding,False,False
+14903.png,No Finding,No Finding,No Finding,79.42%,No Finding,True,True
+14906.png,Atelectasis,Finding,No Finding,48.30%,Finding,False,True
+14907.png,No Finding,No Finding,No Finding,82.38%,No Finding,True,True
+14908.png,Mass,Finding,No Finding,61.52%,Finding,False,True
+14909.png,No Finding,No Finding,No Finding,59.10%,Finding,True,False
+14912.png,No Finding,No Finding,No Finding,51.94%,Finding,True,False
+14913.png,No Finding,No Finding,No Finding,69.33%,No Finding,True,True
+14914.png,No Finding,No Finding,No Finding,74.48%,No Finding,True,True
+14915.png,No Finding,No Finding,No Finding,44.56%,Finding,True,False
+14917.png,Infiltration,Finding,No Finding,88.94%,No Finding,False,False
+14918.png,Mass,Finding,No Finding,47.76%,Finding,False,True
+14919.png,No Finding,No Finding,No Finding,73.18%,No Finding,True,True
+14920.png,No Finding,No Finding,No Finding,85.34%,No Finding,True,True
+14921.png,No Finding,No Finding,No Finding,92.87%,No Finding,True,True
+14922.png,Mass,Finding,No Finding,80.95%,Finding,False,True
+14923.png,No Finding,No Finding,No Finding,85.70%,No Finding,True,True
+14926.png,No Finding,No Finding,No Finding,51.14%,No Finding,True,True
+14927.png,No Finding,No Finding,No Finding,83.56%,No Finding,True,True
+14928.png,No Finding,No Finding,No Finding,57.64%,Finding,True,False
+14930.png,Infiltration,Finding,No Finding,42.98%,Finding,False,True
+14932.png,Mass,Finding,No Finding,80.91%,No Finding,False,False
+14933.png,No Finding,No Finding,No Finding,52.41%,Finding,True,False
+14935.png,Consolidation,Finding,No Finding,59.15%,No Finding,False,False
+14936.png,No Finding,No Finding,No Finding,83.26%,No Finding,True,True
+14938.png,No Finding,No Finding,No Finding,68.98%,No Finding,True,True
+14939.png,Infiltration,Finding,No Finding,70.10%,No Finding,False,False
+14940.png,Infiltration,Finding,No Finding,62.81%,No Finding,False,False
+14941.png,Nodule,Finding,No Finding,62.80%,Finding,False,True
+14944.png,Consolidation,Finding,No Finding,53.40%,Finding,False,True
+14945.png,No Finding,No Finding,Effusion,58.16%,Finding,False,False
+14946.png,Pleural_Thickening,Finding,No Finding,93.71%,No Finding,False,False
+14947.png,No Finding,No Finding,No Finding,86.68%,No Finding,True,True
+14949.png,Pneumothorax,Finding,No Finding,42.43%,Finding,False,True
+14950.png,No Finding,No Finding,No Finding,82.21%,No Finding,True,True
+14951.png,Atelectasis,Finding,No Finding,69.32%,Finding,False,True
+14952.png,No Finding,No Finding,No Finding,95.71%,No Finding,True,True
+14954.png,No Finding,No Finding,No Finding,95.91%,No Finding,True,True
+14955.png,No Finding,No Finding,No Finding,87.71%,No Finding,True,True
+14956.png,Infiltration,Finding,No Finding,65.88%,No Finding,False,False
+14957.png,Fibrosis,Finding,No Finding,69.98%,No Finding,False,False
+14958.png,No Finding,No Finding,No Finding,76.27%,No Finding,True,True
+14959.png,No Finding,No Finding,No Finding,66.79%,No Finding,True,True
+14961.png,No Finding,No Finding,No Finding,84.28%,No Finding,True,True
+14962.png,No Finding,No Finding,No Finding,82.04%,No Finding,True,True
+14963.png,Cardiomegaly,Finding,No Finding,84.52%,No Finding,False,False
+14964.png,No Finding,No Finding,No Finding,91.58%,No Finding,True,True
+14965.png,Infiltration,Finding,No Finding,57.42%,No Finding,False,False
+14966.png,Atelectasis,Finding,No Finding,68.39%,Finding,False,True
+14968.png,No Finding,No Finding,No Finding,61.21%,No Finding,True,True
+14969.png,No Finding,No Finding,No Finding,65.24%,No Finding,True,True
+14970.png,No Finding,No Finding,No Finding,56.39%,Finding,True,False
+14971.png,No Finding,No Finding,Infiltration,38.35%,Finding,False,False
+14972.png,Atelectasis,Finding,No Finding,65.21%,Finding,False,True
+14973.png,No Finding,No Finding,No Finding,93.19%,No Finding,True,True
+14974.png,Infiltration,Finding,No Finding,72.58%,Finding,False,True
+14976.png,No Finding,No Finding,No Finding,41.49%,Finding,True,False
+14977.png,No Finding,No Finding,No Finding,71.37%,No Finding,True,True
+14978.png,Fibrosis,Finding,No Finding,60.72%,Finding,False,True
+14979.png,No Finding,No Finding,No Finding,45.24%,Finding,True,False
+14981.png,Infiltration,Finding,Infiltration,45.39%,Finding,True,True
+14982.png,Consolidation,Finding,No Finding,43.09%,Finding,False,True
+14983.png,No Finding,No Finding,No Finding,81.27%,No Finding,True,True
+14985.png,No Finding,No Finding,No Finding,64.94%,Finding,True,False
+14986.png,No Finding,No Finding,No Finding,75.24%,No Finding,True,True
+14987.png,No Finding,No Finding,No Finding,92.34%,No Finding,True,True
+14988.png,No Finding,No Finding,No Finding,76.35%,No Finding,True,True
+14989.png,Effusion,Finding,No Finding,50.65%,Finding,False,True
+14990.png,Infiltration,Finding,No Finding,73.67%,No Finding,False,False
+14991.png,No Finding,No Finding,No Finding,91.53%,No Finding,True,True
+14992.png,No Finding,No Finding,No Finding,65.86%,Finding,True,False
+14993.png,No Finding,No Finding,No Finding,70.43%,Finding,True,False
+14994.png,No Finding,No Finding,No Finding,67.00%,No Finding,True,True
+14995.png,No Finding,No Finding,No Finding,82.21%,No Finding,True,True
+14996.png,Nodule,Finding,No Finding,58.53%,No Finding,False,False
+14997.png,No Finding,No Finding,No Finding,76.54%,No Finding,True,True
+14998.png,No Finding,No Finding,No Finding,63.74%,Finding,True,False
+14999.png,No Finding,No Finding,No Finding,70.16%,Finding,True,False
