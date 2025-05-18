@@ -1999,3 +1999,2003 @@ image_filename,illness prediction,illness confidence,binary prediction
 1997.png,No Finding,66.08%,No Finding
 1998.png,No Finding,64.05%,No Finding
 1999.png,No Finding,49.68%,Finding
+2000.png,No Finding,52.16%,Finding
+2001.png,No Finding,78.25%,No Finding
+2002.png,Mass,73.28%,Finding
+2003.png,No Finding,56.09%,Finding
+2004.png,No Finding,81.97%,No Finding
+2005.png,No Finding,46.29%,Finding
+2006.png,No Finding,56.49%,Finding
+2007.png,No Finding,71.50%,Finding
+2008.png,No Finding,70.34%,No Finding
+2009.png,No Finding,70.57%,No Finding
+2010.png,No Finding,81.14%,No Finding
+2011.png,Effusion,38.97%,Finding
+2012.png,No Finding,62.88%,Finding
+2013.png,No Finding,68.96%,Finding
+2014.png,No Finding,44.34%,Finding
+2015.png,No Finding,63.19%,No Finding
+2016.png,No Finding,78.06%,No Finding
+2017.png,No Finding,52.11%,Finding
+2018.png,No Finding,42.42%,Finding
+2019.png,No Finding,57.58%,Finding
+2020.png,No Finding,89.03%,No Finding
+2021.png,Mass,51.36%,Finding
+2022.png,No Finding,88.86%,No Finding
+2023.png,No Finding,73.10%,No Finding
+2024.png,No Finding,46.05%,Finding
+2025.png,No Finding,77.86%,No Finding
+2026.png,No Finding,58.62%,Finding
+2027.png,No Finding,68.52%,No Finding
+2028.png,No Finding,86.58%,No Finding
+2029.png,No Finding,48.46%,Finding
+2030.png,No Finding,74.82%,No Finding
+2031.png,No Finding,91.71%,No Finding
+2032.png,No Finding,43.37%,Finding
+2033.png,No Finding,80.92%,No Finding
+2034.png,No Finding,79.36%,Finding
+2035.png,No Finding,37.25%,Finding
+2036.png,No Finding,58.47%,Finding
+2037.png,Mass,54.67%,Finding
+2038.png,No Finding,71.79%,Finding
+2039.png,No Finding,55.33%,Finding
+2040.png,No Finding,71.25%,No Finding
+2041.png,No Finding,58.48%,Finding
+2042.png,No Finding,64.43%,Finding
+2043.png,No Finding,72.92%,Finding
+2044.png,No Finding,62.79%,Finding
+2045.png,Infiltration,46.90%,Finding
+2046.png,No Finding,74.84%,Finding
+2047.png,No Finding,48.19%,Finding
+2048.png,No Finding,64.43%,Finding
+2049.png,No Finding,55.62%,Finding
+2050.png,No Finding,62.81%,Finding
+2051.png,No Finding,60.21%,Finding
+2052.png,No Finding,70.28%,No Finding
+2053.png,No Finding,95.41%,No Finding
+2054.png,No Finding,79.03%,No Finding
+2055.png,No Finding,64.73%,No Finding
+2056.png,Infiltration,38.16%,Finding
+2057.png,Atelectasis,60.98%,Finding
+2058.png,No Finding,40.51%,Finding
+2059.png,No Finding,57.99%,Finding
+2060.png,No Finding,87.29%,No Finding
+2061.png,No Finding,53.46%,Finding
+2062.png,No Finding,53.66%,Finding
+2063.png,No Finding,52.84%,Finding
+2064.png,No Finding,62.06%,Finding
+2065.png,No Finding,76.49%,No Finding
+2066.png,No Finding,88.33%,No Finding
+2067.png,No Finding,66.02%,No Finding
+2068.png,No Finding,96.82%,No Finding
+2069.png,No Finding,50.20%,Finding
+2070.png,Infiltration,34.43%,Finding
+2071.png,No Finding,79.27%,No Finding
+2072.png,No Finding,55.37%,Finding
+2073.png,No Finding,52.44%,Finding
+2074.png,No Finding,49.53%,Finding
+2075.png,No Finding,52.11%,Finding
+2076.png,No Finding,86.35%,No Finding
+2077.png,No Finding,67.22%,No Finding
+2078.png,No Finding,78.25%,No Finding
+2079.png,No Finding,48.65%,Finding
+2080.png,No Finding,61.60%,Finding
+2081.png,No Finding,51.62%,Finding
+2082.png,No Finding,65.57%,Finding
+2083.png,No Finding,88.38%,No Finding
+2084.png,No Finding,63.94%,Finding
+2085.png,No Finding,44.37%,Finding
+2086.png,No Finding,91.47%,No Finding
+2087.png,No Finding,62.03%,Finding
+2088.png,No Finding,77.74%,No Finding
+2089.png,No Finding,62.42%,No Finding
+2090.png,No Finding,83.22%,No Finding
+2091.png,No Finding,81.63%,No Finding
+2092.png,No Finding,56.06%,Finding
+2093.png,No Finding,86.38%,No Finding
+2094.png,No Finding,71.24%,No Finding
+2095.png,Effusion,90.61%,Finding
+2096.png,No Finding,86.74%,No Finding
+2097.png,No Finding,62.82%,No Finding
+2098.png,No Finding,87.37%,No Finding
+2099.png,No Finding,66.14%,No Finding
+2100.png,No Finding,56.59%,Finding
+2101.png,No Finding,94.55%,No Finding
+2102.png,No Finding,46.81%,Finding
+2103.png,No Finding,73.17%,Finding
+2104.png,No Finding,53.69%,Finding
+2105.png,No Finding,70.50%,Finding
+2106.png,No Finding,45.37%,Finding
+2107.png,No Finding,69.95%,No Finding
+2108.png,No Finding,51.47%,Finding
+2109.png,No Finding,74.09%,No Finding
+2110.png,No Finding,70.34%,No Finding
+2111.png,No Finding,52.14%,Finding
+2112.png,No Finding,41.17%,Finding
+2113.png,No Finding,65.83%,Finding
+2114.png,No Finding,64.07%,Finding
+2115.png,No Finding,60.04%,Finding
+2116.png,No Finding,71.27%,Finding
+2117.png,No Finding,80.64%,Finding
+2118.png,No Finding,66.54%,Finding
+2119.png,No Finding,45.62%,Finding
+2120.png,No Finding,57.82%,Finding
+2121.png,No Finding,70.42%,Finding
+2122.png,No Finding,52.86%,Finding
+2123.png,Effusion,61.55%,Finding
+2124.png,No Finding,40.42%,Finding
+2125.png,No Finding,65.55%,Finding
+2126.png,No Finding,49.07%,Finding
+2127.png,No Finding,50.46%,No Finding
+2128.png,No Finding,66.77%,No Finding
+2129.png,No Finding,89.65%,No Finding
+2130.png,No Finding,48.46%,Finding
+2131.png,Effusion,40.25%,Finding
+2132.png,No Finding,59.17%,Finding
+2133.png,No Finding,55.19%,Finding
+2134.png,No Finding,84.09%,No Finding
+2135.png,No Finding,89.12%,No Finding
+2136.png,No Finding,53.57%,Finding
+2137.png,No Finding,49.52%,Finding
+2138.png,No Finding,48.07%,Finding
+2139.png,No Finding,46.85%,Finding
+2140.png,No Finding,97.36%,No Finding
+2141.png,No Finding,68.08%,No Finding
+2142.png,No Finding,78.49%,No Finding
+2143.png,No Finding,72.39%,Finding
+2144.png,No Finding,50.08%,Finding
+2145.png,Effusion,46.75%,Finding
+2146.png,No Finding,49.57%,Finding
+2147.png,No Finding,74.14%,Finding
+2148.png,No Finding,90.44%,No Finding
+2149.png,No Finding,39.91%,Finding
+2150.png,No Finding,75.12%,No Finding
+2151.png,No Finding,63.23%,No Finding
+2152.png,No Finding,45.15%,Finding
+2153.png,No Finding,48.89%,Finding
+2154.png,No Finding,61.95%,Finding
+2155.png,No Finding,90.22%,No Finding
+2156.png,No Finding,87.12%,No Finding
+2157.png,No Finding,72.44%,Finding
+2158.png,No Finding,65.81%,No Finding
+2159.png,No Finding,51.24%,Finding
+2160.png,No Finding,62.54%,Finding
+2161.png,No Finding,75.66%,No Finding
+2162.png,No Finding,57.80%,Finding
+2163.png,No Finding,85.87%,Finding
+2164.png,No Finding,68.43%,Finding
+2165.png,No Finding,55.30%,Finding
+2166.png,No Finding,88.68%,No Finding
+2167.png,No Finding,71.36%,No Finding
+2168.png,No Finding,56.57%,Finding
+2169.png,No Finding,48.98%,Finding
+2170.png,No Finding,55.42%,Finding
+2171.png,No Finding,58.31%,Finding
+2172.png,No Finding,61.77%,Finding
+2173.png,No Finding,35.05%,Finding
+2174.png,No Finding,36.24%,Finding
+2175.png,No Finding,88.75%,No Finding
+2176.png,No Finding,31.48%,Finding
+2177.png,No Finding,59.30%,Finding
+2178.png,No Finding,75.14%,Finding
+2179.png,No Finding,93.14%,No Finding
+2180.png,No Finding,72.55%,No Finding
+2181.png,No Finding,59.88%,Finding
+2182.png,No Finding,74.78%,No Finding
+2183.png,No Finding,54.48%,Finding
+2184.png,No Finding,75.63%,No Finding
+2185.png,No Finding,77.28%,No Finding
+2186.png,No Finding,62.81%,No Finding
+2187.png,No Finding,61.40%,Finding
+2188.png,No Finding,70.74%,No Finding
+2189.png,No Finding,87.30%,No Finding
+2190.png,No Finding,56.98%,Finding
+2191.png,No Finding,63.15%,Finding
+2192.png,No Finding,46.73%,Finding
+2193.png,No Finding,66.16%,No Finding
+2194.png,No Finding,47.59%,Finding
+2195.png,No Finding,53.64%,Finding
+2196.png,No Finding,74.40%,No Finding
+2197.png,No Finding,91.34%,No Finding
+2198.png,No Finding,62.78%,No Finding
+2199.png,No Finding,90.02%,No Finding
+2200.png,No Finding,44.60%,Finding
+2201.png,No Finding,79.36%,No Finding
+2202.png,No Finding,88.85%,No Finding
+2203.png,No Finding,60.19%,No Finding
+2204.png,No Finding,72.31%,No Finding
+2205.png,No Finding,72.33%,No Finding
+2206.png,No Finding,59.12%,Finding
+2207.png,No Finding,51.30%,Finding
+2208.png,No Finding,73.35%,No Finding
+2209.png,No Finding,48.81%,Finding
+2210.png,No Finding,93.89%,No Finding
+2211.png,Infiltration,48.54%,Finding
+2212.png,No Finding,52.09%,Finding
+2213.png,No Finding,54.85%,Finding
+2214.png,Effusion,70.45%,Finding
+2215.png,No Finding,71.09%,Finding
+2216.png,No Finding,65.37%,Finding
+2217.png,No Finding,61.54%,Finding
+2218.png,No Finding,75.39%,No Finding
+2219.png,No Finding,60.56%,Finding
+2220.png,No Finding,42.15%,Finding
+2221.png,No Finding,76.45%,Finding
+2222.png,No Finding,49.41%,Finding
+2223.png,Effusion,36.01%,Finding
+2224.png,No Finding,80.29%,No Finding
+2225.png,Effusion,85.96%,Finding
+2226.png,No Finding,88.74%,No Finding
+2227.png,No Finding,50.29%,Finding
+2228.png,No Finding,57.31%,Finding
+2229.png,No Finding,97.41%,No Finding
+2230.png,Effusion,79.14%,Finding
+2231.png,Effusion,36.06%,Finding
+2232.png,No Finding,92.04%,No Finding
+2233.png,No Finding,62.91%,Finding
+2234.png,No Finding,79.18%,No Finding
+2235.png,No Finding,51.54%,Finding
+2236.png,No Finding,69.91%,Finding
+2237.png,No Finding,63.57%,Finding
+2238.png,No Finding,45.11%,Finding
+2239.png,No Finding,62.88%,Finding
+2240.png,No Finding,55.82%,Finding
+2241.png,No Finding,67.27%,Finding
+2242.png,No Finding,67.09%,Finding
+2243.png,No Finding,33.23%,Finding
+2244.png,No Finding,64.48%,No Finding
+2245.png,No Finding,76.00%,No Finding
+2246.png,No Finding,82.31%,No Finding
+2247.png,No Finding,56.65%,Finding
+2248.png,No Finding,41.97%,Finding
+2249.png,No Finding,71.55%,No Finding
+2250.png,No Finding,49.35%,Finding
+2251.png,No Finding,51.51%,Finding
+2252.png,No Finding,50.48%,Finding
+2253.png,No Finding,62.79%,No Finding
+2254.png,No Finding,80.59%,No Finding
+2255.png,No Finding,69.60%,Finding
+2256.png,Effusion,76.22%,Finding
+2257.png,No Finding,67.44%,Finding
+2258.png,No Finding,57.88%,Finding
+2259.png,No Finding,91.57%,No Finding
+2260.png,No Finding,42.23%,Finding
+2261.png,No Finding,49.13%,Finding
+2262.png,No Finding,72.26%,No Finding
+2263.png,No Finding,97.08%,No Finding
+2264.png,No Finding,78.93%,Finding
+2265.png,No Finding,87.61%,No Finding
+2266.png,No Finding,96.97%,No Finding
+2267.png,No Finding,82.03%,No Finding
+2268.png,No Finding,78.08%,No Finding
+2269.png,No Finding,33.84%,Finding
+2270.png,No Finding,46.96%,Finding
+2271.png,No Finding,42.33%,Finding
+2272.png,No Finding,75.58%,No Finding
+2273.png,No Finding,44.91%,Finding
+2274.png,No Finding,92.94%,No Finding
+2275.png,No Finding,83.89%,No Finding
+2276.png,No Finding,90.99%,No Finding
+2277.png,No Finding,43.66%,Finding
+2278.png,No Finding,46.28%,Finding
+2279.png,No Finding,90.66%,No Finding
+2280.png,No Finding,85.18%,No Finding
+2281.png,No Finding,73.69%,Finding
+2282.png,No Finding,63.59%,Finding
+2283.png,No Finding,39.91%,Finding
+2284.png,No Finding,61.42%,No Finding
+2285.png,No Finding,97.87%,No Finding
+2286.png,No Finding,75.59%,No Finding
+2287.png,No Finding,46.97%,Finding
+2288.png,No Finding,61.11%,Finding
+2289.png,No Finding,90.26%,No Finding
+2290.png,No Finding,43.20%,Finding
+2291.png,No Finding,72.41%,No Finding
+2292.png,No Finding,64.11%,Finding
+2293.png,No Finding,72.36%,Finding
+2294.png,No Finding,97.22%,No Finding
+2295.png,No Finding,58.97%,Finding
+2296.png,No Finding,68.82%,Finding
+2297.png,No Finding,53.56%,Finding
+2298.png,No Finding,81.72%,No Finding
+2299.png,No Finding,55.94%,Finding
+2300.png,No Finding,56.15%,Finding
+2301.png,Pneumothorax,30.16%,Finding
+2302.png,No Finding,50.64%,Finding
+2303.png,No Finding,50.27%,Finding
+2304.png,No Finding,77.94%,No Finding
+2305.png,Effusion,29.78%,Finding
+2306.png,No Finding,65.33%,Finding
+2307.png,No Finding,46.07%,Finding
+2308.png,No Finding,49.51%,Finding
+2309.png,Effusion,69.88%,Finding
+2310.png,No Finding,62.64%,Finding
+2311.png,No Finding,76.06%,No Finding
+2312.png,No Finding,69.87%,Finding
+2313.png,No Finding,71.98%,No Finding
+2314.png,No Finding,80.50%,No Finding
+2315.png,No Finding,82.42%,No Finding
+2316.png,No Finding,95.48%,No Finding
+2317.png,No Finding,60.97%,Finding
+2318.png,Effusion,35.29%,Finding
+2319.png,No Finding,71.10%,No Finding
+2320.png,No Finding,83.05%,No Finding
+2321.png,No Finding,55.60%,Finding
+2322.png,No Finding,81.11%,No Finding
+2323.png,No Finding,60.52%,No Finding
+2324.png,Effusion,31.80%,Finding
+2325.png,No Finding,48.68%,Finding
+2326.png,No Finding,51.93%,Finding
+2327.png,No Finding,91.14%,No Finding
+2328.png,No Finding,80.14%,No Finding
+2329.png,No Finding,64.35%,Finding
+2330.png,No Finding,56.92%,Finding
+2331.png,No Finding,41.65%,Finding
+2332.png,No Finding,52.44%,Finding
+2333.png,No Finding,76.11%,No Finding
+2334.png,No Finding,70.08%,No Finding
+2335.png,No Finding,54.74%,Finding
+2336.png,No Finding,85.62%,No Finding
+2337.png,No Finding,74.82%,No Finding
+2338.png,No Finding,79.41%,No Finding
+2339.png,Effusion,44.77%,Finding
+2340.png,No Finding,47.60%,Finding
+2341.png,No Finding,53.01%,Finding
+2342.png,No Finding,56.38%,Finding
+2343.png,No Finding,61.15%,Finding
+2344.png,No Finding,66.43%,No Finding
+2345.png,No Finding,60.50%,Finding
+2346.png,No Finding,47.75%,Finding
+2347.png,No Finding,58.57%,Finding
+2348.png,No Finding,63.93%,No Finding
+2349.png,No Finding,56.36%,Finding
+2350.png,No Finding,64.45%,No Finding
+2351.png,Effusion,69.88%,Finding
+2352.png,No Finding,55.30%,Finding
+2353.png,No Finding,53.99%,Finding
+2354.png,No Finding,60.60%,Finding
+2355.png,No Finding,44.61%,Finding
+2356.png,No Finding,82.00%,No Finding
+2357.png,Effusion,73.17%,Finding
+2358.png,No Finding,41.69%,Finding
+2359.png,No Finding,85.69%,Finding
+2360.png,No Finding,56.38%,Finding
+2361.png,No Finding,59.33%,No Finding
+2362.png,No Finding,69.69%,Finding
+2363.png,No Finding,81.04%,No Finding
+2364.png,No Finding,73.15%,No Finding
+2365.png,No Finding,60.22%,No Finding
+2366.png,No Finding,81.20%,No Finding
+2367.png,Infiltration,43.35%,Finding
+2368.png,No Finding,82.92%,No Finding
+2369.png,No Finding,95.76%,No Finding
+2370.png,No Finding,69.22%,Finding
+2371.png,No Finding,57.56%,Finding
+2372.png,No Finding,58.91%,No Finding
+2373.png,No Finding,90.02%,No Finding
+2374.png,No Finding,66.83%,No Finding
+2375.png,No Finding,78.24%,No Finding
+2376.png,No Finding,54.45%,Finding
+2377.png,No Finding,68.51%,No Finding
+2378.png,No Finding,76.67%,No Finding
+2379.png,No Finding,51.34%,Finding
+2380.png,No Finding,94.51%,No Finding
+2381.png,No Finding,75.73%,No Finding
+2382.png,No Finding,68.44%,No Finding
+2383.png,No Finding,43.92%,Finding
+2384.png,No Finding,93.59%,No Finding
+2385.png,No Finding,35.43%,Finding
+2386.png,No Finding,93.50%,No Finding
+2387.png,No Finding,68.75%,No Finding
+2388.png,No Finding,56.08%,Finding
+2389.png,No Finding,70.24%,No Finding
+2390.png,No Finding,55.92%,Finding
+2391.png,No Finding,55.70%,Finding
+2392.png,No Finding,55.94%,Finding
+2393.png,No Finding,82.03%,No Finding
+2394.png,No Finding,66.05%,Finding
+2395.png,No Finding,59.35%,Finding
+2396.png,No Finding,63.12%,No Finding
+2397.png,No Finding,72.56%,Finding
+2398.png,No Finding,66.05%,No Finding
+2399.png,No Finding,53.59%,Finding
+2400.png,No Finding,85.31%,No Finding
+2401.png,No Finding,56.10%,Finding
+2402.png,No Finding,75.99%,No Finding
+2403.png,No Finding,71.16%,No Finding
+2404.png,No Finding,58.18%,Finding
+2405.png,No Finding,33.44%,Finding
+2406.png,No Finding,61.92%,Finding
+2407.png,No Finding,50.53%,Finding
+2408.png,No Finding,53.66%,Finding
+2409.png,No Finding,64.95%,No Finding
+2410.png,No Finding,77.17%,No Finding
+2411.png,No Finding,59.39%,Finding
+2412.png,No Finding,64.04%,No Finding
+2413.png,No Finding,67.45%,Finding
+2414.png,No Finding,60.53%,No Finding
+2415.png,No Finding,93.36%,No Finding
+2416.png,No Finding,73.55%,No Finding
+2417.png,No Finding,80.10%,No Finding
+2418.png,No Finding,53.54%,Finding
+2419.png,No Finding,97.21%,No Finding
+2420.png,No Finding,56.09%,Finding
+2421.png,No Finding,86.11%,No Finding
+2422.png,No Finding,87.44%,No Finding
+2423.png,No Finding,51.53%,Finding
+2424.png,No Finding,67.09%,Finding
+2425.png,No Finding,48.04%,Finding
+2426.png,No Finding,60.51%,No Finding
+2427.png,No Finding,50.80%,Finding
+2428.png,No Finding,68.13%,Finding
+2429.png,No Finding,48.87%,Finding
+2430.png,No Finding,54.37%,Finding
+2431.png,No Finding,61.94%,Finding
+2432.png,No Finding,96.53%,No Finding
+2433.png,No Finding,58.23%,Finding
+2434.png,No Finding,82.27%,No Finding
+2435.png,No Finding,62.06%,Finding
+2436.png,No Finding,74.83%,No Finding
+2437.png,No Finding,50.08%,Finding
+2438.png,No Finding,94.52%,No Finding
+2439.png,No Finding,38.20%,Finding
+2440.png,No Finding,88.52%,No Finding
+2441.png,No Finding,74.30%,No Finding
+2442.png,No Finding,56.42%,Finding
+2443.png,Effusion,32.82%,Finding
+2444.png,No Finding,56.23%,Finding
+2445.png,No Finding,60.81%,Finding
+2446.png,No Finding,80.73%,Finding
+2447.png,No Finding,82.29%,No Finding
+2448.png,No Finding,44.94%,Finding
+2449.png,No Finding,77.60%,No Finding
+2450.png,No Finding,62.05%,Finding
+2451.png,No Finding,93.91%,No Finding
+2452.png,No Finding,62.32%,Finding
+2453.png,No Finding,46.78%,Finding
+2454.png,No Finding,44.02%,Finding
+2455.png,No Finding,61.61%,Finding
+2456.png,No Finding,45.40%,Finding
+2457.png,No Finding,90.90%,No Finding
+2458.png,No Finding,85.01%,No Finding
+2459.png,No Finding,52.82%,Finding
+2460.png,No Finding,63.03%,Finding
+2461.png,No Finding,38.92%,Finding
+2462.png,No Finding,53.96%,Finding
+2463.png,No Finding,81.90%,No Finding
+2464.png,No Finding,81.50%,No Finding
+2465.png,No Finding,82.17%,Finding
+2466.png,No Finding,50.18%,Finding
+2467.png,No Finding,64.01%,No Finding
+2468.png,No Finding,74.12%,No Finding
+2469.png,No Finding,55.91%,Finding
+2470.png,No Finding,68.65%,No Finding
+2471.png,No Finding,45.61%,Finding
+2472.png,No Finding,92.06%,No Finding
+2473.png,No Finding,52.15%,Finding
+2474.png,No Finding,87.21%,No Finding
+2475.png,No Finding,50.40%,Finding
+2476.png,No Finding,63.02%,Finding
+2477.png,No Finding,73.65%,No Finding
+2478.png,No Finding,93.75%,No Finding
+2479.png,No Finding,41.05%,Finding
+2480.png,Infiltration,36.29%,Finding
+2481.png,No Finding,67.25%,No Finding
+2482.png,No Finding,64.10%,No Finding
+2483.png,No Finding,74.48%,No Finding
+2484.png,No Finding,49.99%,Finding
+2485.png,No Finding,51.69%,Finding
+2486.png,No Finding,59.28%,Finding
+2487.png,No Finding,50.90%,Finding
+2488.png,Effusion,37.09%,Finding
+2489.png,No Finding,91.38%,No Finding
+2490.png,No Finding,54.15%,Finding
+2491.png,No Finding,51.85%,Finding
+2492.png,No Finding,54.39%,Finding
+2493.png,No Finding,56.88%,Finding
+2494.png,No Finding,60.00%,Finding
+2495.png,No Finding,88.14%,No Finding
+2496.png,No Finding,86.64%,No Finding
+2497.png,No Finding,83.59%,No Finding
+2498.png,No Finding,44.00%,Finding
+2499.png,No Finding,41.47%,Finding
+2500.png,No Finding,49.01%,Finding
+2501.png,No Finding,77.33%,No Finding
+2502.png,No Finding,64.78%,Finding
+2503.png,No Finding,45.10%,Finding
+2504.png,No Finding,73.83%,No Finding
+2505.png,No Finding,69.95%,No Finding
+2506.png,No Finding,63.40%,Finding
+2507.png,No Finding,71.68%,No Finding
+2508.png,No Finding,83.26%,No Finding
+2509.png,No Finding,89.38%,No Finding
+2510.png,No Finding,78.84%,No Finding
+2511.png,No Finding,63.87%,No Finding
+2512.png,No Finding,50.21%,Finding
+2513.png,No Finding,75.68%,No Finding
+2514.png,No Finding,43.81%,Finding
+2515.png,No Finding,63.85%,Finding
+2516.png,No Finding,87.70%,No Finding
+2517.png,No Finding,47.54%,Finding
+2518.png,No Finding,85.79%,No Finding
+2519.png,No Finding,36.67%,Finding
+2520.png,No Finding,75.50%,No Finding
+2521.png,No Finding,52.20%,Finding
+2522.png,No Finding,48.18%,Finding
+2523.png,No Finding,73.52%,Finding
+2524.png,No Finding,52.40%,No Finding
+2525.png,No Finding,77.36%,No Finding
+2526.png,No Finding,85.77%,No Finding
+2527.png,No Finding,63.34%,No Finding
+2528.png,No Finding,51.10%,Finding
+2529.png,Infiltration,37.47%,Finding
+2530.png,No Finding,72.10%,No Finding
+2531.png,No Finding,68.62%,No Finding
+2532.png,No Finding,42.28%,Finding
+2533.png,No Finding,58.41%,Finding
+2534.png,No Finding,87.49%,No Finding
+2535.png,No Finding,49.74%,Finding
+2536.png,No Finding,45.65%,Finding
+2537.png,No Finding,81.21%,No Finding
+2538.png,No Finding,61.99%,Finding
+2539.png,No Finding,67.82%,No Finding
+2540.png,No Finding,65.04%,Finding
+2541.png,No Finding,46.57%,Finding
+2542.png,No Finding,61.77%,Finding
+2543.png,No Finding,89.12%,No Finding
+2544.png,No Finding,72.41%,No Finding
+2545.png,No Finding,71.44%,No Finding
+2546.png,No Finding,77.61%,No Finding
+2547.png,No Finding,81.35%,No Finding
+2548.png,No Finding,46.58%,Finding
+2549.png,No Finding,78.62%,No Finding
+2550.png,No Finding,42.95%,Finding
+2551.png,No Finding,66.22%,Finding
+2552.png,No Finding,55.56%,Finding
+2553.png,No Finding,70.39%,No Finding
+2554.png,No Finding,48.80%,Finding
+2555.png,No Finding,60.47%,Finding
+2556.png,No Finding,85.35%,No Finding
+2557.png,No Finding,66.18%,No Finding
+2558.png,No Finding,58.28%,Finding
+2559.png,No Finding,86.77%,No Finding
+2560.png,No Finding,74.80%,No Finding
+2561.png,No Finding,76.98%,Finding
+2562.png,No Finding,93.66%,No Finding
+2563.png,No Finding,62.81%,Finding
+2564.png,No Finding,87.09%,No Finding
+2565.png,No Finding,47.64%,Finding
+2566.png,No Finding,46.68%,Finding
+2567.png,No Finding,48.33%,Finding
+2568.png,Effusion,42.22%,Finding
+2569.png,No Finding,80.23%,No Finding
+2570.png,No Finding,70.42%,No Finding
+2571.png,No Finding,77.20%,No Finding
+2572.png,No Finding,68.90%,No Finding
+2573.png,Infiltration,49.92%,Finding
+2574.png,No Finding,84.44%,No Finding
+2575.png,Effusion,82.26%,Finding
+2576.png,No Finding,48.64%,Finding
+2577.png,No Finding,66.71%,No Finding
+2578.png,Effusion,53.24%,Finding
+2579.png,No Finding,89.90%,No Finding
+2580.png,No Finding,90.41%,No Finding
+2581.png,Effusion,42.85%,Finding
+2582.png,No Finding,37.31%,Finding
+2583.png,No Finding,62.17%,Finding
+2584.png,No Finding,84.43%,Finding
+2585.png,No Finding,47.22%,No Finding
+2586.png,No Finding,86.22%,No Finding
+2587.png,No Finding,91.77%,No Finding
+2588.png,No Finding,58.93%,Finding
+2589.png,Effusion,40.98%,Finding
+2590.png,Effusion,66.78%,Finding
+2591.png,No Finding,82.73%,No Finding
+2592.png,No Finding,57.50%,Finding
+2593.png,No Finding,56.79%,Finding
+2594.png,No Finding,60.27%,Finding
+2595.png,No Finding,80.49%,No Finding
+2596.png,No Finding,67.63%,Finding
+2597.png,No Finding,53.91%,Finding
+2598.png,Infiltration,47.57%,Finding
+2599.png,No Finding,53.85%,Finding
+2600.png,No Finding,58.22%,No Finding
+2601.png,No Finding,60.06%,No Finding
+2602.png,No Finding,55.23%,Finding
+2603.png,No Finding,49.44%,Finding
+2604.png,No Finding,71.88%,Finding
+2605.png,No Finding,94.64%,No Finding
+2606.png,No Finding,38.99%,Finding
+2607.png,No Finding,60.24%,Finding
+2608.png,No Finding,46.35%,No Finding
+2609.png,No Finding,88.73%,No Finding
+2610.png,No Finding,41.86%,Finding
+2611.png,Infiltration,32.49%,Finding
+2612.png,No Finding,63.31%,Finding
+2613.png,No Finding,65.71%,No Finding
+2614.png,No Finding,55.66%,No Finding
+2615.png,No Finding,66.36%,No Finding
+2616.png,No Finding,69.28%,Finding
+2617.png,No Finding,82.87%,No Finding
+2618.png,No Finding,68.11%,Finding
+2619.png,No Finding,39.35%,Finding
+2620.png,Infiltration,46.07%,Finding
+2621.png,No Finding,55.23%,Finding
+2622.png,No Finding,52.34%,Finding
+2623.png,No Finding,70.26%,Finding
+2624.png,No Finding,72.08%,No Finding
+2625.png,No Finding,52.02%,Finding
+2626.png,No Finding,48.46%,Finding
+2627.png,No Finding,68.92%,No Finding
+2628.png,No Finding,60.05%,Finding
+2629.png,No Finding,87.93%,No Finding
+2630.png,Effusion,44.53%,Finding
+2631.png,No Finding,50.76%,Finding
+2632.png,No Finding,57.11%,Finding
+2633.png,No Finding,66.03%,Finding
+2634.png,No Finding,54.79%,Finding
+2635.png,No Finding,79.35%,No Finding
+2636.png,No Finding,58.70%,Finding
+2637.png,Effusion,63.70%,Finding
+2638.png,No Finding,36.65%,Finding
+2639.png,No Finding,49.16%,Finding
+2640.png,No Finding,65.08%,No Finding
+2641.png,No Finding,77.62%,No Finding
+2642.png,No Finding,40.34%,Finding
+2643.png,No Finding,79.40%,Finding
+2644.png,Infiltration,42.84%,Finding
+2645.png,No Finding,56.28%,Finding
+2646.png,No Finding,78.41%,No Finding
+2647.png,Atelectasis,37.73%,Finding
+2648.png,No Finding,94.23%,No Finding
+2649.png,No Finding,72.17%,No Finding
+2650.png,No Finding,70.69%,Finding
+2651.png,No Finding,41.65%,Finding
+2652.png,No Finding,85.15%,No Finding
+2653.png,No Finding,63.68%,Finding
+2654.png,No Finding,50.54%,Finding
+2655.png,No Finding,90.00%,No Finding
+2656.png,No Finding,52.07%,Finding
+2657.png,No Finding,38.97%,Finding
+2658.png,No Finding,49.47%,Finding
+2659.png,No Finding,72.86%,Finding
+2660.png,No Finding,66.05%,Finding
+2661.png,No Finding,87.84%,No Finding
+2662.png,No Finding,84.89%,No Finding
+2663.png,No Finding,55.22%,Finding
+2664.png,No Finding,65.64%,Finding
+2665.png,No Finding,65.41%,No Finding
+2666.png,No Finding,70.13%,No Finding
+2667.png,No Finding,86.94%,No Finding
+2668.png,No Finding,48.60%,Finding
+2669.png,Effusion,92.82%,Finding
+2670.png,No Finding,51.03%,Finding
+2671.png,No Finding,83.62%,No Finding
+2672.png,No Finding,62.18%,No Finding
+2673.png,No Finding,77.06%,No Finding
+2674.png,No Finding,51.74%,Finding
+2675.png,No Finding,45.20%,Finding
+2676.png,No Finding,72.29%,No Finding
+2677.png,No Finding,64.41%,No Finding
+2678.png,No Finding,70.19%,No Finding
+2679.png,No Finding,45.78%,Finding
+2680.png,No Finding,84.57%,No Finding
+2681.png,No Finding,54.70%,Finding
+2682.png,No Finding,80.97%,No Finding
+2683.png,Effusion,59.63%,Finding
+2684.png,No Finding,76.74%,No Finding
+2685.png,No Finding,62.42%,Finding
+2686.png,No Finding,83.21%,No Finding
+2687.png,No Finding,84.72%,No Finding
+2688.png,Effusion,94.53%,Finding
+2689.png,No Finding,52.59%,Finding
+2690.png,No Finding,48.89%,Finding
+2691.png,Infiltration,48.71%,Finding
+2692.png,No Finding,80.11%,No Finding
+2693.png,No Finding,83.06%,No Finding
+2694.png,No Finding,68.19%,No Finding
+2695.png,No Finding,67.60%,Finding
+2696.png,No Finding,85.66%,No Finding
+2697.png,No Finding,50.00%,Finding
+2698.png,Effusion,51.59%,Finding
+2699.png,No Finding,72.95%,No Finding
+2700.png,No Finding,72.84%,No Finding
+2701.png,No Finding,52.73%,Finding
+2702.png,No Finding,54.52%,Finding
+2703.png,No Finding,71.12%,No Finding
+2704.png,No Finding,81.46%,No Finding
+2705.png,No Finding,99.14%,No Finding
+2706.png,No Finding,57.31%,Finding
+2707.png,No Finding,51.37%,Finding
+2708.png,No Finding,86.03%,No Finding
+2709.png,No Finding,53.27%,Finding
+2710.png,No Finding,48.25%,Finding
+2711.png,No Finding,58.71%,Finding
+2712.png,Effusion,51.32%,Finding
+2713.png,No Finding,57.23%,Finding
+2714.png,No Finding,79.95%,No Finding
+2715.png,No Finding,59.82%,Finding
+2716.png,No Finding,52.35%,Finding
+2717.png,No Finding,60.60%,Finding
+2718.png,No Finding,90.54%,No Finding
+2719.png,No Finding,54.78%,Finding
+2720.png,No Finding,75.81%,No Finding
+2721.png,No Finding,46.63%,Finding
+2722.png,No Finding,37.56%,Finding
+2723.png,No Finding,57.08%,Finding
+2724.png,No Finding,37.66%,Finding
+2725.png,No Finding,58.12%,Finding
+2726.png,No Finding,86.87%,No Finding
+2727.png,No Finding,50.18%,Finding
+2728.png,No Finding,84.22%,No Finding
+2729.png,No Finding,55.89%,Finding
+2730.png,No Finding,84.95%,No Finding
+2731.png,No Finding,67.86%,No Finding
+2732.png,No Finding,89.14%,No Finding
+2733.png,No Finding,33.41%,Finding
+2734.png,No Finding,80.85%,No Finding
+2735.png,No Finding,51.66%,Finding
+2736.png,No Finding,84.19%,No Finding
+2737.png,No Finding,85.90%,No Finding
+2738.png,Atelectasis,38.95%,Finding
+2739.png,No Finding,56.70%,Finding
+2740.png,No Finding,52.34%,Finding
+2741.png,No Finding,71.52%,Finding
+2742.png,No Finding,55.32%,Finding
+2743.png,No Finding,74.64%,Finding
+2744.png,No Finding,43.24%,Finding
+2745.png,No Finding,84.55%,No Finding
+2746.png,No Finding,60.93%,Finding
+2747.png,No Finding,77.98%,Finding
+2748.png,No Finding,67.81%,No Finding
+2749.png,No Finding,52.67%,Finding
+2750.png,No Finding,40.97%,Finding
+2751.png,No Finding,67.85%,Finding
+2752.png,No Finding,81.04%,No Finding
+2753.png,No Finding,80.07%,No Finding
+2754.png,No Finding,37.91%,Finding
+2755.png,No Finding,79.12%,No Finding
+2756.png,No Finding,68.34%,No Finding
+2757.png,No Finding,49.73%,Finding
+2758.png,No Finding,54.20%,Finding
+2759.png,No Finding,79.22%,No Finding
+2760.png,No Finding,76.28%,Finding
+2761.png,No Finding,45.22%,Finding
+2762.png,No Finding,41.14%,Finding
+2763.png,No Finding,60.35%,No Finding
+2764.png,No Finding,62.88%,Finding
+2765.png,No Finding,86.14%,No Finding
+2766.png,No Finding,82.70%,No Finding
+2767.png,No Finding,95.77%,No Finding
+2768.png,No Finding,73.56%,No Finding
+2769.png,No Finding,70.15%,Finding
+2770.png,Effusion,60.40%,Finding
+2771.png,No Finding,82.35%,Finding
+2772.png,No Finding,60.82%,No Finding
+2773.png,No Finding,83.85%,No Finding
+2774.png,No Finding,55.00%,Finding
+2775.png,No Finding,72.24%,No Finding
+2776.png,No Finding,70.44%,No Finding
+2777.png,No Finding,80.73%,No Finding
+2778.png,No Finding,79.41%,No Finding
+2779.png,No Finding,52.25%,Finding
+2780.png,No Finding,87.85%,No Finding
+2781.png,No Finding,74.28%,No Finding
+2782.png,No Finding,62.21%,Finding
+2783.png,No Finding,45.75%,Finding
+2784.png,No Finding,65.87%,Finding
+2785.png,No Finding,86.08%,No Finding
+2786.png,No Finding,60.14%,Finding
+2787.png,No Finding,58.54%,Finding
+2788.png,No Finding,91.94%,No Finding
+2789.png,No Finding,54.53%,Finding
+2790.png,No Finding,58.83%,Finding
+2791.png,Nodule,36.06%,Finding
+2792.png,No Finding,54.82%,Finding
+2793.png,No Finding,85.10%,No Finding
+2794.png,No Finding,45.20%,Finding
+2795.png,No Finding,86.87%,No Finding
+2796.png,No Finding,76.73%,No Finding
+2797.png,No Finding,58.89%,Finding
+2798.png,No Finding,76.90%,No Finding
+2799.png,No Finding,83.72%,No Finding
+2800.png,No Finding,79.89%,No Finding
+2801.png,No Finding,81.46%,No Finding
+2802.png,No Finding,68.91%,No Finding
+2803.png,No Finding,68.21%,Finding
+2804.png,No Finding,43.86%,Finding
+2805.png,No Finding,69.56%,No Finding
+2806.png,No Finding,60.71%,Finding
+2807.png,No Finding,69.18%,Finding
+2808.png,No Finding,86.71%,No Finding
+2809.png,No Finding,64.67%,Finding
+2810.png,No Finding,51.81%,Finding
+2811.png,No Finding,80.44%,No Finding
+2812.png,Effusion,66.40%,Finding
+2813.png,No Finding,77.64%,No Finding
+2814.png,No Finding,73.54%,No Finding
+2815.png,No Finding,67.92%,No Finding
+2816.png,No Finding,53.90%,Finding
+2817.png,Cardiomegaly,46.04%,Finding
+2818.png,No Finding,45.81%,Finding
+2819.png,No Finding,80.48%,No Finding
+2820.png,No Finding,83.97%,No Finding
+2821.png,No Finding,71.23%,No Finding
+2822.png,No Finding,72.21%,No Finding
+2823.png,No Finding,75.19%,No Finding
+2824.png,No Finding,75.87%,No Finding
+2825.png,No Finding,71.42%,Finding
+2826.png,No Finding,70.75%,Finding
+2827.png,No Finding,91.91%,No Finding
+2828.png,No Finding,78.66%,No Finding
+2829.png,No Finding,51.43%,Finding
+2830.png,No Finding,95.18%,No Finding
+2831.png,No Finding,50.70%,Finding
+2832.png,No Finding,69.63%,Finding
+2833.png,No Finding,57.66%,Finding
+2834.png,No Finding,53.43%,Finding
+2835.png,No Finding,57.61%,Finding
+2836.png,No Finding,53.69%,Finding
+2837.png,No Finding,83.18%,No Finding
+2838.png,Effusion,59.39%,Finding
+2839.png,No Finding,91.32%,No Finding
+2840.png,No Finding,72.43%,No Finding
+2841.png,No Finding,68.64%,No Finding
+2842.png,No Finding,58.96%,Finding
+2843.png,No Finding,74.27%,No Finding
+2844.png,No Finding,42.04%,Finding
+2845.png,No Finding,72.22%,No Finding
+2846.png,No Finding,68.57%,Finding
+2847.png,No Finding,53.11%,Finding
+2848.png,No Finding,60.40%,Finding
+2849.png,No Finding,69.88%,No Finding
+2850.png,No Finding,78.87%,No Finding
+2851.png,No Finding,85.66%,No Finding
+2852.png,No Finding,86.93%,No Finding
+2853.png,No Finding,89.37%,No Finding
+2854.png,No Finding,71.09%,No Finding
+2855.png,No Finding,74.21%,No Finding
+2856.png,No Finding,77.07%,No Finding
+2857.png,No Finding,63.12%,Finding
+2858.png,Effusion,91.98%,Finding
+2859.png,No Finding,82.36%,No Finding
+2860.png,Infiltration,48.65%,Finding
+2861.png,No Finding,87.11%,No Finding
+2862.png,No Finding,91.59%,No Finding
+2863.png,No Finding,46.14%,Finding
+2864.png,No Finding,93.18%,No Finding
+2865.png,No Finding,59.33%,Finding
+2866.png,No Finding,73.84%,No Finding
+2867.png,No Finding,51.57%,Finding
+2868.png,No Finding,67.57%,Finding
+2869.png,No Finding,62.40%,Finding
+2870.png,No Finding,86.80%,No Finding
+2871.png,No Finding,90.89%,No Finding
+2872.png,No Finding,90.10%,No Finding
+2873.png,No Finding,47.95%,Finding
+2874.png,No Finding,78.00%,No Finding
+2875.png,No Finding,53.38%,Finding
+2876.png,No Finding,40.99%,Finding
+2877.png,No Finding,70.18%,No Finding
+2878.png,No Finding,65.36%,No Finding
+2879.png,No Finding,95.76%,No Finding
+2880.png,No Finding,83.43%,No Finding
+2881.png,No Finding,53.86%,No Finding
+2882.png,Effusion,55.27%,Finding
+2883.png,No Finding,79.56%,No Finding
+2884.png,No Finding,59.00%,Finding
+2885.png,No Finding,94.82%,No Finding
+2886.png,No Finding,65.91%,No Finding
+2887.png,No Finding,55.36%,Finding
+2888.png,No Finding,39.08%,Finding
+2889.png,No Finding,77.54%,Finding
+2890.png,No Finding,68.86%,No Finding
+2891.png,No Finding,64.86%,Finding
+2892.png,No Finding,90.84%,No Finding
+2893.png,No Finding,61.58%,Finding
+2894.png,No Finding,87.43%,No Finding
+2895.png,No Finding,47.37%,Finding
+2896.png,No Finding,87.75%,No Finding
+2897.png,Infiltration,40.53%,Finding
+2898.png,No Finding,57.01%,Finding
+2899.png,No Finding,79.43%,No Finding
+2900.png,No Finding,75.35%,No Finding
+2901.png,No Finding,93.24%,No Finding
+2902.png,No Finding,43.75%,Finding
+2903.png,No Finding,87.30%,No Finding
+2904.png,No Finding,83.48%,No Finding
+2905.png,No Finding,55.76%,Finding
+2906.png,No Finding,53.40%,Finding
+2907.png,No Finding,41.31%,Finding
+2908.png,No Finding,70.26%,No Finding
+2909.png,No Finding,83.81%,Finding
+2910.png,No Finding,90.44%,No Finding
+2911.png,No Finding,55.87%,Finding
+2912.png,No Finding,83.27%,No Finding
+2913.png,No Finding,44.72%,Finding
+2914.png,No Finding,41.33%,Finding
+2915.png,No Finding,56.84%,Finding
+2916.png,No Finding,51.24%,Finding
+2917.png,No Finding,90.26%,No Finding
+2918.png,No Finding,61.83%,Finding
+2919.png,No Finding,45.02%,Finding
+2920.png,No Finding,81.91%,No Finding
+2921.png,No Finding,58.99%,Finding
+2922.png,No Finding,82.49%,No Finding
+2923.png,No Finding,53.56%,Finding
+2924.png,No Finding,61.25%,Finding
+2925.png,No Finding,57.45%,No Finding
+2926.png,No Finding,60.87%,No Finding
+2927.png,No Finding,50.00%,Finding
+2928.png,No Finding,38.31%,Finding
+2929.png,Effusion,71.91%,Finding
+2930.png,No Finding,52.24%,Finding
+2931.png,Infiltration,40.38%,Finding
+2932.png,No Finding,42.24%,Finding
+2933.png,No Finding,49.11%,Finding
+2934.png,No Finding,73.72%,No Finding
+2935.png,No Finding,71.19%,No Finding
+2936.png,No Finding,70.95%,Finding
+2937.png,No Finding,88.86%,No Finding
+2938.png,No Finding,75.16%,Finding
+2939.png,No Finding,63.09%,Finding
+2940.png,No Finding,65.91%,Finding
+2941.png,No Finding,50.41%,Finding
+2942.png,No Finding,41.51%,Finding
+2943.png,No Finding,53.16%,Finding
+2944.png,No Finding,50.62%,Finding
+2945.png,No Finding,90.63%,No Finding
+2946.png,No Finding,73.89%,Finding
+2947.png,No Finding,48.38%,Finding
+2948.png,No Finding,42.01%,Finding
+2949.png,Effusion,41.94%,Finding
+2950.png,Infiltration,44.43%,Finding
+2951.png,No Finding,85.27%,No Finding
+2952.png,Nodule,44.81%,Finding
+2953.png,No Finding,59.26%,No Finding
+2954.png,No Finding,58.46%,Finding
+2955.png,No Finding,63.93%,Finding
+2956.png,No Finding,68.71%,No Finding
+2957.png,No Finding,40.58%,Finding
+2958.png,No Finding,75.26%,Finding
+2959.png,No Finding,90.57%,No Finding
+2960.png,No Finding,47.53%,Finding
+2961.png,No Finding,46.34%,Finding
+2962.png,No Finding,67.52%,Finding
+2963.png,No Finding,39.86%,Finding
+2964.png,No Finding,60.66%,No Finding
+2965.png,No Finding,57.74%,Finding
+2966.png,No Finding,77.09%,No Finding
+2967.png,No Finding,82.87%,No Finding
+2968.png,No Finding,46.25%,Finding
+2969.png,No Finding,83.07%,No Finding
+2970.png,Effusion,78.19%,Finding
+2971.png,No Finding,77.27%,No Finding
+2972.png,No Finding,64.78%,Finding
+2973.png,No Finding,54.25%,Finding
+2974.png,No Finding,67.34%,No Finding
+2975.png,No Finding,56.18%,Finding
+2976.png,No Finding,70.71%,Finding
+2977.png,No Finding,71.12%,No Finding
+2978.png,No Finding,51.33%,Finding
+2979.png,No Finding,83.45%,No Finding
+2980.png,No Finding,80.70%,No Finding
+2981.png,No Finding,90.66%,No Finding
+2982.png,No Finding,89.48%,No Finding
+2983.png,No Finding,53.96%,Finding
+2984.png,No Finding,48.85%,Finding
+2985.png,No Finding,92.14%,No Finding
+2986.png,No Finding,55.44%,Finding
+2987.png,No Finding,56.53%,Finding
+2988.png,No Finding,42.35%,Finding
+2989.png,No Finding,93.10%,No Finding
+2990.png,No Finding,58.76%,Finding
+2991.png,No Finding,73.56%,No Finding
+2992.png,Effusion,39.89%,Finding
+2993.png,No Finding,76.26%,No Finding
+2994.png,No Finding,82.53%,No Finding
+2995.png,No Finding,92.79%,No Finding
+2996.png,No Finding,84.16%,No Finding
+2997.png,No Finding,89.73%,No Finding
+2998.png,No Finding,80.82%,No Finding
+2999.png,No Finding,63.71%,No Finding
+3000.png,No Finding,83.37%,Finding
+3001.png,No Finding,47.89%,Finding
+3002.png,No Finding,80.17%,No Finding
+3003.png,No Finding,69.72%,No Finding
+3004.png,No Finding,61.30%,Finding
+3005.png,Effusion,77.07%,Finding
+3006.png,No Finding,44.38%,Finding
+3007.png,No Finding,43.93%,Finding
+3008.png,No Finding,49.11%,Finding
+3009.png,No Finding,51.47%,Finding
+3010.png,No Finding,96.55%,No Finding
+3011.png,No Finding,62.97%,Finding
+3012.png,No Finding,69.59%,No Finding
+3013.png,No Finding,87.64%,No Finding
+3014.png,No Finding,89.64%,No Finding
+3015.png,No Finding,83.44%,Finding
+3016.png,No Finding,67.02%,No Finding
+3017.png,No Finding,68.63%,Finding
+3018.png,No Finding,75.33%,No Finding
+3019.png,No Finding,84.75%,No Finding
+3020.png,No Finding,59.84%,No Finding
+3021.png,Effusion,37.36%,Finding
+3022.png,No Finding,69.89%,Finding
+3023.png,No Finding,62.21%,Finding
+3024.png,No Finding,78.53%,No Finding
+3025.png,No Finding,55.84%,Finding
+3026.png,No Finding,59.99%,No Finding
+3027.png,No Finding,47.00%,Finding
+3028.png,No Finding,78.01%,No Finding
+3029.png,No Finding,59.67%,Finding
+3030.png,No Finding,63.26%,No Finding
+3031.png,No Finding,67.18%,No Finding
+3032.png,No Finding,75.36%,No Finding
+3033.png,No Finding,79.01%,No Finding
+3034.png,No Finding,66.02%,No Finding
+3035.png,No Finding,57.07%,No Finding
+3036.png,No Finding,71.58%,Finding
+3037.png,No Finding,64.15%,Finding
+3038.png,Effusion,63.51%,Finding
+3039.png,No Finding,50.48%,Finding
+3040.png,No Finding,90.84%,No Finding
+3041.png,No Finding,71.55%,No Finding
+3042.png,No Finding,89.17%,Finding
+3043.png,No Finding,56.12%,Finding
+3044.png,No Finding,90.59%,No Finding
+3045.png,No Finding,60.21%,Finding
+3046.png,No Finding,81.73%,No Finding
+3047.png,No Finding,53.28%,Finding
+3048.png,No Finding,86.88%,No Finding
+3049.png,No Finding,58.03%,Finding
+3050.png,No Finding,90.25%,No Finding
+3051.png,No Finding,46.98%,Finding
+3052.png,No Finding,48.44%,Finding
+3053.png,No Finding,67.84%,No Finding
+3054.png,No Finding,70.99%,Finding
+3055.png,No Finding,69.15%,No Finding
+3056.png,No Finding,62.37%,Finding
+3057.png,No Finding,50.61%,Finding
+3058.png,No Finding,79.76%,No Finding
+3059.png,No Finding,76.84%,Finding
+3060.png,No Finding,86.89%,No Finding
+3061.png,No Finding,87.39%,No Finding
+3062.png,No Finding,76.81%,No Finding
+3063.png,No Finding,50.49%,Finding
+3064.png,Infiltration,59.99%,Finding
+3065.png,No Finding,70.41%,No Finding
+3066.png,Cardiomegaly,62.22%,Finding
+3067.png,No Finding,47.87%,Finding
+3068.png,No Finding,60.83%,Finding
+3069.png,No Finding,59.25%,Finding
+3070.png,No Finding,49.97%,Finding
+3071.png,No Finding,89.12%,No Finding
+3072.png,No Finding,56.08%,Finding
+3073.png,No Finding,49.65%,Finding
+3074.png,No Finding,67.37%,Finding
+3075.png,No Finding,72.92%,Finding
+3076.png,No Finding,53.62%,Finding
+3077.png,No Finding,45.38%,Finding
+3078.png,No Finding,48.35%,Finding
+3079.png,No Finding,54.26%,Finding
+3080.png,No Finding,46.26%,Finding
+3081.png,No Finding,94.08%,No Finding
+3082.png,No Finding,57.67%,Finding
+3083.png,No Finding,38.87%,Finding
+3084.png,No Finding,78.70%,No Finding
+3085.png,No Finding,57.57%,Finding
+3086.png,No Finding,61.90%,Finding
+3087.png,No Finding,84.14%,No Finding
+3088.png,Effusion,55.24%,Finding
+3089.png,No Finding,81.12%,No Finding
+3090.png,No Finding,48.88%,Finding
+3091.png,No Finding,80.98%,Finding
+3092.png,No Finding,90.61%,No Finding
+3093.png,No Finding,60.64%,Finding
+3094.png,Effusion,41.98%,Finding
+3095.png,No Finding,55.05%,Finding
+3096.png,No Finding,76.35%,No Finding
+3097.png,No Finding,55.68%,Finding
+3098.png,No Finding,52.92%,Finding
+3099.png,No Finding,59.45%,Finding
+3100.png,No Finding,75.22%,No Finding
+3101.png,Effusion,89.49%,Finding
+3102.png,No Finding,82.53%,No Finding
+3103.png,No Finding,69.13%,Finding
+3104.png,No Finding,42.65%,Finding
+3105.png,No Finding,47.47%,Finding
+3106.png,No Finding,58.87%,No Finding
+3107.png,No Finding,50.32%,Finding
+3108.png,No Finding,76.73%,No Finding
+3109.png,No Finding,91.30%,No Finding
+3110.png,No Finding,87.42%,No Finding
+3111.png,No Finding,74.59%,Finding
+3112.png,No Finding,36.24%,Finding
+3113.png,Infiltration,44.71%,Finding
+3114.png,No Finding,89.91%,No Finding
+3115.png,No Finding,47.64%,Finding
+3116.png,No Finding,92.29%,No Finding
+3117.png,No Finding,78.58%,No Finding
+3118.png,No Finding,37.12%,Finding
+3119.png,No Finding,65.36%,No Finding
+3120.png,No Finding,71.74%,Finding
+3121.png,No Finding,58.88%,Finding
+3122.png,No Finding,66.99%,No Finding
+3123.png,No Finding,86.19%,No Finding
+3124.png,No Finding,66.39%,No Finding
+3125.png,No Finding,77.94%,No Finding
+3126.png,No Finding,82.83%,No Finding
+3127.png,No Finding,66.65%,Finding
+3128.png,No Finding,54.63%,Finding
+3129.png,No Finding,88.11%,No Finding
+3130.png,No Finding,62.90%,Finding
+3131.png,No Finding,74.85%,No Finding
+3132.png,No Finding,60.72%,Finding
+3133.png,No Finding,56.06%,Finding
+3134.png,No Finding,82.09%,No Finding
+3135.png,No Finding,55.41%,Finding
+3136.png,No Finding,59.72%,Finding
+3137.png,No Finding,53.29%,Finding
+3138.png,No Finding,41.59%,Finding
+3139.png,No Finding,49.52%,Finding
+3140.png,No Finding,36.85%,Finding
+3141.png,No Finding,76.53%,No Finding
+3142.png,No Finding,80.32%,No Finding
+3143.png,No Finding,58.06%,Finding
+3144.png,No Finding,47.74%,Finding
+3145.png,No Finding,61.32%,No Finding
+3146.png,Infiltration,51.27%,Finding
+3147.png,No Finding,82.31%,No Finding
+3148.png,No Finding,84.73%,No Finding
+3149.png,No Finding,49.22%,Finding
+3150.png,No Finding,47.98%,Finding
+3151.png,No Finding,74.59%,No Finding
+3152.png,No Finding,40.36%,No Finding
+3153.png,No Finding,65.45%,Finding
+3154.png,No Finding,54.49%,Finding
+3155.png,No Finding,49.45%,Finding
+3156.png,No Finding,58.31%,No Finding
+3157.png,No Finding,56.18%,Finding
+3158.png,No Finding,84.18%,No Finding
+3159.png,No Finding,39.72%,Finding
+3160.png,No Finding,71.77%,Finding
+3161.png,No Finding,55.89%,Finding
+3162.png,No Finding,57.72%,No Finding
+3163.png,No Finding,49.92%,Finding
+3164.png,No Finding,46.11%,Finding
+3165.png,No Finding,72.54%,No Finding
+3166.png,No Finding,90.29%,No Finding
+3167.png,No Finding,65.18%,Finding
+3168.png,No Finding,56.75%,Finding
+3169.png,No Finding,81.97%,No Finding
+3170.png,No Finding,75.17%,No Finding
+3171.png,No Finding,95.96%,No Finding
+3172.png,No Finding,73.07%,Finding
+3173.png,No Finding,70.33%,Finding
+3174.png,No Finding,44.13%,Finding
+3175.png,No Finding,77.61%,No Finding
+3176.png,No Finding,81.07%,No Finding
+3177.png,No Finding,77.92%,No Finding
+3178.png,No Finding,46.79%,Finding
+3179.png,No Finding,62.01%,No Finding
+3180.png,No Finding,65.13%,Finding
+3181.png,No Finding,50.31%,Finding
+3182.png,No Finding,71.96%,No Finding
+3183.png,No Finding,80.90%,No Finding
+3184.png,Effusion,89.26%,Finding
+3185.png,No Finding,79.30%,Finding
+3186.png,Nodule,67.37%,Finding
+3187.png,No Finding,83.17%,No Finding
+3188.png,No Finding,35.76%,Finding
+3189.png,No Finding,79.26%,Finding
+3190.png,No Finding,82.46%,No Finding
+3191.png,No Finding,60.87%,No Finding
+3192.png,No Finding,46.93%,Finding
+3193.png,No Finding,70.07%,No Finding
+3194.png,No Finding,60.81%,Finding
+3195.png,Effusion,41.47%,Finding
+3196.png,No Finding,60.63%,No Finding
+3197.png,No Finding,64.72%,Finding
+3198.png,No Finding,79.80%,Finding
+3199.png,No Finding,57.08%,Finding
+3200.png,No Finding,50.27%,Finding
+3201.png,No Finding,76.62%,No Finding
+3202.png,No Finding,43.28%,Finding
+3203.png,Effusion,40.11%,Finding
+3204.png,No Finding,86.03%,No Finding
+3205.png,No Finding,71.65%,No Finding
+3206.png,No Finding,56.63%,Finding
+3207.png,No Finding,62.97%,No Finding
+3208.png,No Finding,50.46%,Finding
+3209.png,No Finding,73.62%,No Finding
+3210.png,No Finding,64.43%,Finding
+3211.png,No Finding,84.45%,No Finding
+3212.png,Effusion,42.87%,Finding
+3213.png,No Finding,68.78%,Finding
+3214.png,No Finding,51.17%,Finding
+3215.png,No Finding,90.64%,No Finding
+3216.png,No Finding,57.89%,Finding
+3217.png,No Finding,75.15%,No Finding
+3218.png,No Finding,58.34%,Finding
+3219.png,No Finding,64.38%,No Finding
+3220.png,No Finding,82.40%,No Finding
+3221.png,No Finding,48.99%,Finding
+3222.png,No Finding,56.31%,Finding
+3223.png,No Finding,74.00%,No Finding
+3224.png,No Finding,62.06%,Finding
+3225.png,Infiltration,38.09%,Finding
+3226.png,No Finding,77.92%,No Finding
+3227.png,No Finding,81.37%,No Finding
+3228.png,No Finding,72.76%,No Finding
+3229.png,No Finding,74.86%,No Finding
+3230.png,No Finding,74.43%,No Finding
+3231.png,No Finding,52.10%,Finding
+3232.png,No Finding,81.93%,Finding
+3233.png,No Finding,77.03%,No Finding
+3234.png,No Finding,46.85%,Finding
+3235.png,No Finding,55.57%,Finding
+3236.png,No Finding,84.50%,No Finding
+3237.png,No Finding,53.03%,No Finding
+3238.png,No Finding,46.18%,Finding
+3239.png,Infiltration,45.08%,Finding
+3240.png,No Finding,54.05%,Finding
+3241.png,No Finding,60.34%,Finding
+3242.png,No Finding,61.07%,Finding
+3243.png,No Finding,60.19%,Finding
+3244.png,No Finding,69.95%,Finding
+3245.png,No Finding,60.08%,Finding
+3246.png,No Finding,49.89%,Finding
+3247.png,No Finding,69.01%,Finding
+3248.png,No Finding,77.46%,No Finding
+3249.png,No Finding,40.15%,Finding
+3250.png,No Finding,72.70%,No Finding
+3251.png,No Finding,55.00%,Finding
+3252.png,No Finding,64.04%,Finding
+3253.png,No Finding,79.25%,No Finding
+3254.png,No Finding,62.48%,No Finding
+3255.png,No Finding,80.49%,No Finding
+3256.png,No Finding,60.77%,Finding
+3257.png,No Finding,51.59%,Finding
+3258.png,No Finding,57.58%,Finding
+3259.png,No Finding,82.27%,No Finding
+3260.png,No Finding,57.15%,Finding
+3261.png,No Finding,68.52%,Finding
+3262.png,No Finding,79.02%,No Finding
+3263.png,No Finding,72.06%,No Finding
+3264.png,No Finding,48.64%,Finding
+3265.png,No Finding,67.21%,No Finding
+3266.png,No Finding,69.79%,No Finding
+3267.png,No Finding,55.36%,Finding
+3268.png,No Finding,54.50%,Finding
+3269.png,No Finding,41.75%,Finding
+3270.png,No Finding,40.18%,Finding
+3271.png,No Finding,54.80%,Finding
+3272.png,No Finding,40.14%,Finding
+3273.png,No Finding,54.44%,Finding
+3274.png,No Finding,42.61%,Finding
+3275.png,No Finding,44.87%,Finding
+3276.png,No Finding,78.88%,No Finding
+3277.png,No Finding,93.69%,No Finding
+3278.png,No Finding,94.17%,No Finding
+3279.png,No Finding,49.78%,Finding
+3280.png,No Finding,60.75%,No Finding
+3281.png,No Finding,48.95%,Finding
+3282.png,No Finding,61.89%,Finding
+3283.png,No Finding,61.63%,Finding
+3284.png,No Finding,72.11%,No Finding
+3285.png,No Finding,79.56%,No Finding
+3286.png,No Finding,32.82%,Finding
+3287.png,No Finding,38.33%,Finding
+3288.png,No Finding,49.83%,Finding
+3289.png,No Finding,57.16%,Finding
+3290.png,No Finding,40.86%,Finding
+3291.png,No Finding,53.90%,Finding
+3292.png,No Finding,80.86%,No Finding
+3293.png,No Finding,76.46%,No Finding
+3294.png,No Finding,74.99%,No Finding
+3295.png,No Finding,73.57%,No Finding
+3296.png,No Finding,95.22%,No Finding
+3297.png,No Finding,56.27%,Finding
+3298.png,No Finding,59.75%,Finding
+3299.png,No Finding,60.40%,Finding
+3300.png,No Finding,74.68%,No Finding
+3301.png,No Finding,74.22%,No Finding
+3302.png,No Finding,69.55%,Finding
+3303.png,No Finding,42.08%,Finding
+3304.png,No Finding,70.62%,Finding
+3305.png,No Finding,51.37%,Finding
+3306.png,No Finding,69.59%,No Finding
+3307.png,No Finding,92.03%,No Finding
+3308.png,No Finding,83.92%,No Finding
+3309.png,No Finding,56.80%,Finding
+3310.png,No Finding,65.28%,Finding
+3311.png,No Finding,75.89%,No Finding
+3312.png,No Finding,38.98%,Finding
+3313.png,No Finding,49.86%,Finding
+3314.png,No Finding,48.84%,Finding
+3315.png,No Finding,65.42%,Finding
+3316.png,No Finding,89.53%,No Finding
+3317.png,No Finding,90.17%,No Finding
+3318.png,No Finding,67.29%,No Finding
+3319.png,No Finding,65.84%,Finding
+3320.png,No Finding,67.79%,No Finding
+3321.png,No Finding,68.66%,No Finding
+3322.png,Effusion,66.61%,Finding
+3323.png,No Finding,72.84%,Finding
+3324.png,No Finding,62.67%,Finding
+3325.png,No Finding,61.13%,Finding
+3326.png,No Finding,67.77%,No Finding
+3327.png,No Finding,73.96%,No Finding
+3328.png,No Finding,54.17%,Finding
+3329.png,No Finding,88.95%,No Finding
+3330.png,No Finding,73.64%,No Finding
+3331.png,No Finding,74.09%,No Finding
+3332.png,No Finding,76.19%,Finding
+3333.png,No Finding,62.19%,Finding
+3334.png,No Finding,54.87%,Finding
+3335.png,No Finding,64.23%,No Finding
+3336.png,No Finding,61.64%,Finding
+3337.png,No Finding,85.38%,No Finding
+3338.png,No Finding,56.55%,Finding
+3339.png,No Finding,49.99%,Finding
+3340.png,No Finding,51.53%,Finding
+3341.png,No Finding,72.17%,Finding
+3342.png,No Finding,92.67%,No Finding
+3343.png,No Finding,79.59%,No Finding
+3344.png,No Finding,64.48%,No Finding
+3345.png,No Finding,77.65%,No Finding
+3346.png,No Finding,80.85%,No Finding
+3347.png,No Finding,84.34%,No Finding
+3348.png,No Finding,51.21%,Finding
+3349.png,No Finding,75.34%,No Finding
+3350.png,Effusion,40.80%,Finding
+3351.png,No Finding,89.24%,No Finding
+3352.png,No Finding,77.07%,No Finding
+3353.png,No Finding,74.38%,Finding
+3354.png,No Finding,62.73%,Finding
+3355.png,No Finding,76.51%,Finding
+3356.png,No Finding,74.63%,Finding
+3357.png,No Finding,85.18%,No Finding
+3358.png,No Finding,90.18%,No Finding
+3359.png,No Finding,46.55%,Finding
+3360.png,No Finding,54.97%,Finding
+3361.png,No Finding,74.52%,Finding
+3362.png,No Finding,87.50%,No Finding
+3363.png,No Finding,90.38%,No Finding
+3364.png,No Finding,85.97%,Finding
+3365.png,No Finding,44.71%,Finding
+3366.png,No Finding,37.47%,Finding
+3367.png,No Finding,40.08%,Finding
+3368.png,No Finding,98.25%,No Finding
+3369.png,No Finding,70.42%,No Finding
+3370.png,No Finding,38.49%,Finding
+3371.png,No Finding,74.29%,No Finding
+3372.png,No Finding,49.67%,Finding
+3373.png,No Finding,62.66%,Finding
+3374.png,No Finding,81.82%,No Finding
+3375.png,No Finding,68.15%,Finding
+3376.png,No Finding,60.74%,Finding
+3377.png,Infiltration,35.17%,Finding
+3378.png,No Finding,78.34%,No Finding
+3379.png,No Finding,50.36%,Finding
+3380.png,No Finding,75.58%,No Finding
+3381.png,No Finding,57.21%,Finding
+3382.png,No Finding,49.99%,Finding
+3383.png,No Finding,55.51%,Finding
+3384.png,No Finding,60.18%,Finding
+3385.png,No Finding,81.37%,No Finding
+3386.png,No Finding,71.61%,No Finding
+3387.png,No Finding,64.75%,No Finding
+3388.png,No Finding,59.11%,Finding
+3389.png,No Finding,78.27%,No Finding
+3390.png,Effusion,39.17%,Finding
+3391.png,No Finding,47.95%,Finding
+3392.png,No Finding,59.90%,Finding
+3393.png,No Finding,60.26%,Finding
+3394.png,No Finding,52.91%,Finding
+3395.png,No Finding,59.65%,Finding
+3396.png,No Finding,94.81%,No Finding
+3397.png,No Finding,60.66%,Finding
+3398.png,No Finding,91.01%,No Finding
+3399.png,No Finding,54.66%,Finding
+3400.png,No Finding,48.17%,Finding
+3401.png,No Finding,79.53%,No Finding
+3402.png,No Finding,80.30%,No Finding
+3403.png,No Finding,89.90%,No Finding
+3404.png,No Finding,57.66%,Finding
+3405.png,No Finding,83.85%,No Finding
+3406.png,No Finding,92.66%,No Finding
+3407.png,No Finding,72.96%,No Finding
+3408.png,No Finding,52.19%,Finding
+3409.png,No Finding,70.22%,Finding
+3410.png,No Finding,75.83%,No Finding
+3411.png,No Finding,49.80%,Finding
+3412.png,No Finding,95.57%,No Finding
+3413.png,Effusion,72.51%,Finding
+3414.png,Effusion,86.97%,Finding
+3415.png,No Finding,92.95%,No Finding
+3416.png,No Finding,78.91%,No Finding
+3417.png,No Finding,71.01%,Finding
+3418.png,No Finding,89.61%,No Finding
+3419.png,No Finding,83.65%,No Finding
+3420.png,No Finding,51.48%,Finding
+3421.png,No Finding,69.75%,Finding
+3422.png,No Finding,81.35%,Finding
+3423.png,No Finding,94.33%,No Finding
+3424.png,No Finding,38.72%,Finding
+3425.png,No Finding,85.48%,No Finding
+3426.png,No Finding,33.38%,Finding
+3427.png,No Finding,57.12%,Finding
+3428.png,No Finding,54.09%,Finding
+3429.png,No Finding,58.99%,Finding
+3430.png,No Finding,37.19%,Finding
+3431.png,No Finding,56.92%,Finding
+3432.png,No Finding,62.08%,Finding
+3433.png,No Finding,50.67%,Finding
+3434.png,No Finding,79.92%,Finding
+3435.png,No Finding,50.63%,Finding
+3436.png,No Finding,62.89%,Finding
+3437.png,No Finding,52.11%,Finding
+3438.png,No Finding,75.92%,No Finding
+3439.png,No Finding,58.09%,Finding
+3440.png,No Finding,80.57%,Finding
+3441.png,No Finding,67.43%,No Finding
+3442.png,No Finding,51.68%,Finding
+3443.png,No Finding,88.85%,No Finding
+3444.png,No Finding,40.01%,Finding
+3445.png,No Finding,76.43%,No Finding
+3446.png,No Finding,62.76%,Finding
+3447.png,No Finding,37.44%,Finding
+3448.png,No Finding,67.88%,No Finding
+3449.png,No Finding,53.62%,Finding
+3450.png,No Finding,81.88%,No Finding
+3451.png,No Finding,98.56%,No Finding
+3452.png,No Finding,46.19%,Finding
+3453.png,No Finding,71.25%,No Finding
+3454.png,No Finding,65.77%,Finding
+3455.png,No Finding,76.73%,No Finding
+3456.png,Effusion,31.28%,Finding
+3457.png,No Finding,54.08%,Finding
+3458.png,No Finding,72.44%,No Finding
+3459.png,No Finding,45.03%,Finding
+3460.png,No Finding,97.90%,No Finding
+3461.png,No Finding,53.91%,Finding
+3462.png,No Finding,74.13%,No Finding
+3463.png,No Finding,92.97%,No Finding
+3464.png,No Finding,57.58%,Finding
+3465.png,No Finding,60.63%,Finding
+3466.png,No Finding,49.44%,Finding
+3467.png,No Finding,95.35%,No Finding
+3468.png,No Finding,61.27%,Finding
+3469.png,No Finding,52.44%,Finding
+3470.png,No Finding,62.33%,No Finding
+3471.png,No Finding,51.66%,Finding
+3472.png,No Finding,66.60%,Finding
+3473.png,No Finding,81.73%,No Finding
+3474.png,No Finding,57.68%,No Finding
+3475.png,No Finding,98.21%,No Finding
+3476.png,No Finding,59.21%,Finding
+3477.png,No Finding,97.27%,No Finding
+3478.png,No Finding,96.78%,No Finding
+3479.png,No Finding,87.96%,No Finding
+3480.png,Effusion,66.09%,Finding
+3481.png,No Finding,67.12%,Finding
+3482.png,No Finding,95.80%,No Finding
+3483.png,No Finding,39.20%,Finding
+3484.png,No Finding,96.56%,No Finding
+3485.png,No Finding,64.66%,Finding
+3486.png,No Finding,58.80%,Finding
+3487.png,No Finding,80.87%,No Finding
+3488.png,No Finding,56.75%,Finding
+3489.png,No Finding,54.82%,No Finding
+3490.png,No Finding,72.69%,No Finding
+3491.png,No Finding,44.16%,Finding
+3492.png,No Finding,54.73%,Finding
+3493.png,No Finding,52.38%,Finding
+3494.png,No Finding,66.54%,No Finding
+3495.png,No Finding,65.72%,No Finding
+3496.png,No Finding,79.33%,No Finding
+3497.png,No Finding,77.11%,No Finding
+3498.png,No Finding,43.68%,Finding
+3499.png,No Finding,62.62%,Finding
+3500.png,No Finding,74.37%,No Finding
+3501.png,No Finding,68.62%,No Finding
+3502.png,No Finding,52.38%,Finding
+3503.png,No Finding,50.71%,Finding
+3504.png,No Finding,97.70%,No Finding
+3505.png,No Finding,84.26%,No Finding
+3506.png,No Finding,56.87%,Finding
+3507.png,No Finding,55.37%,Finding
+3508.png,No Finding,60.41%,Finding
+3509.png,No Finding,45.73%,Finding
+3510.png,No Finding,65.88%,No Finding
+3511.png,No Finding,43.67%,Finding
+3512.png,No Finding,96.64%,No Finding
+3513.png,No Finding,89.46%,No Finding
+3514.png,No Finding,83.58%,No Finding
+3515.png,Mass,75.69%,Finding
+3516.png,No Finding,87.14%,No Finding
+3517.png,No Finding,60.37%,Finding
+3518.png,No Finding,68.55%,No Finding
+3519.png,No Finding,70.93%,No Finding
+3520.png,No Finding,64.95%,No Finding
+3521.png,No Finding,71.55%,No Finding
+3522.png,No Finding,75.37%,No Finding
+3523.png,No Finding,52.13%,Finding
+3524.png,No Finding,69.99%,No Finding
+3525.png,No Finding,59.33%,Finding
+3526.png,No Finding,50.26%,Finding
+3527.png,No Finding,62.61%,Finding
+3528.png,Effusion,69.70%,Finding
+3529.png,No Finding,85.54%,No Finding
+3530.png,No Finding,77.61%,No Finding
+3531.png,No Finding,69.72%,Finding
+3532.png,No Finding,56.56%,Finding
+3533.png,No Finding,38.23%,Finding
+3534.png,No Finding,59.88%,Finding
+3535.png,No Finding,71.37%,Finding
+3536.png,No Finding,64.10%,No Finding
+3537.png,No Finding,52.60%,Finding
+3538.png,No Finding,69.91%,No Finding
+3539.png,No Finding,86.41%,No Finding
+3540.png,No Finding,51.11%,Finding
+3541.png,No Finding,67.87%,Finding
+3542.png,No Finding,46.90%,Finding
+3543.png,No Finding,77.32%,No Finding
+3544.png,No Finding,51.77%,Finding
+3545.png,No Finding,54.84%,Finding
+3546.png,No Finding,72.72%,No Finding
+3547.png,No Finding,71.07%,Finding
+3548.png,No Finding,76.97%,No Finding
+3549.png,No Finding,57.92%,No Finding
+3550.png,Fibrosis,30.43%,Finding
+3551.png,No Finding,33.78%,Finding
+3552.png,No Finding,43.19%,Finding
+3553.png,No Finding,61.02%,Finding
+3554.png,No Finding,45.01%,Finding
+3555.png,No Finding,56.00%,Finding
+3556.png,No Finding,32.38%,Finding
+3557.png,No Finding,73.85%,Finding
+3558.png,No Finding,81.68%,No Finding
+3559.png,No Finding,73.61%,Finding
+3560.png,No Finding,44.09%,Finding
+3561.png,No Finding,59.55%,Finding
+3562.png,No Finding,93.34%,No Finding
+3563.png,No Finding,82.84%,No Finding
+3564.png,No Finding,47.92%,Finding
+3565.png,No Finding,79.54%,Finding
+3566.png,No Finding,68.60%,No Finding
+3567.png,No Finding,87.63%,No Finding
+3568.png,No Finding,84.28%,No Finding
+3569.png,No Finding,47.15%,Finding
+3570.png,Effusion,39.19%,Finding
+3571.png,No Finding,64.38%,Finding
+3572.png,No Finding,54.57%,Finding
+3573.png,No Finding,46.67%,Finding
+3574.png,No Finding,44.99%,Finding
+3575.png,No Finding,70.12%,No Finding
+3576.png,No Finding,55.73%,Finding
+3577.png,No Finding,44.39%,Finding
+3578.png,No Finding,47.34%,No Finding
+3579.png,No Finding,77.63%,No Finding
+3580.png,No Finding,61.85%,Finding
+3581.png,No Finding,49.98%,Finding
+3582.png,No Finding,56.45%,Finding
+3583.png,No Finding,36.67%,Finding
+3584.png,No Finding,55.85%,Finding
+3585.png,No Finding,56.12%,No Finding
+3586.png,No Finding,65.66%,No Finding
+3587.png,No Finding,63.25%,No Finding
+3588.png,No Finding,62.76%,Finding
+3589.png,No Finding,58.22%,Finding
+3590.png,No Finding,41.96%,Finding
+3591.png,No Finding,50.75%,Finding
+3592.png,No Finding,71.52%,No Finding
+3593.png,Effusion,41.63%,Finding
+3594.png,No Finding,52.78%,Finding
+3595.png,No Finding,52.12%,Finding
+3596.png,No Finding,67.02%,No Finding
+3597.png,No Finding,44.86%,Finding
+3598.png,No Finding,44.01%,Finding
+3599.png,No Finding,72.03%,No Finding
+3600.png,No Finding,52.91%,Finding
+3601.png,No Finding,45.12%,Finding
+3602.png,No Finding,69.79%,No Finding
+3603.png,No Finding,53.50%,Finding
+3604.png,No Finding,65.92%,Finding
+3605.png,No Finding,89.01%,No Finding
+3606.png,No Finding,50.37%,Finding
+3607.png,No Finding,32.48%,Finding
+3608.png,No Finding,68.85%,No Finding
+3609.png,No Finding,60.13%,Finding
+3610.png,No Finding,53.50%,Finding
+3611.png,No Finding,46.15%,Finding
+3612.png,No Finding,56.25%,Finding
+3613.png,No Finding,68.95%,No Finding
+3614.png,No Finding,69.87%,Finding
+3615.png,No Finding,85.11%,No Finding
+3616.png,No Finding,67.21%,Finding
+3617.png,Infiltration,49.81%,Finding
+3618.png,No Finding,50.98%,Finding
+3619.png,No Finding,56.00%,Finding
+3620.png,No Finding,77.48%,Finding
+3621.png,No Finding,47.65%,Finding
+3622.png,No Finding,59.02%,Finding
+3623.png,No Finding,81.16%,Finding
+3624.png,No Finding,84.31%,No Finding
+3625.png,No Finding,86.63%,No Finding
+3626.png,No Finding,49.39%,Finding
+3627.png,No Finding,68.73%,No Finding
+3628.png,No Finding,88.68%,No Finding
+3629.png,No Finding,67.81%,No Finding
+3630.png,No Finding,52.27%,No Finding
+3631.png,No Finding,91.62%,No Finding
+3632.png,No Finding,44.79%,Finding
+3633.png,No Finding,98.37%,No Finding
+3634.png,No Finding,49.52%,Finding
+3635.png,No Finding,74.06%,No Finding
+3636.png,No Finding,70.83%,Finding
+3637.png,No Finding,83.19%,No Finding
+3638.png,No Finding,75.11%,No Finding
+3639.png,No Finding,88.30%,No Finding
+3640.png,No Finding,59.22%,Finding
+3641.png,No Finding,68.48%,Finding
+3642.png,No Finding,93.01%,No Finding
+3643.png,No Finding,34.30%,Finding
+3644.png,No Finding,77.29%,No Finding
+3645.png,No Finding,65.38%,No Finding
+3646.png,No Finding,55.49%,Finding
+3647.png,No Finding,65.40%,No Finding
+3648.png,No Finding,90.58%,No Finding
+3649.png,No Finding,69.43%,Finding
+3650.png,No Finding,77.62%,Finding
+3651.png,Effusion,53.46%,Finding
+3652.png,No Finding,44.25%,No Finding
+3653.png,No Finding,72.49%,No Finding
+3654.png,No Finding,56.55%,No Finding
+3655.png,No Finding,80.36%,Finding
+3656.png,No Finding,93.22%,No Finding
+3657.png,No Finding,77.07%,No Finding
+3658.png,No Finding,65.07%,No Finding
+3659.png,No Finding,65.75%,No Finding
+3660.png,No Finding,56.04%,Finding
+3661.png,No Finding,79.85%,No Finding
+3662.png,No Finding,72.47%,Finding
+3663.png,No Finding,53.62%,Finding
+3664.png,No Finding,86.37%,No Finding
+3665.png,No Finding,55.70%,Finding
+3666.png,Effusion,49.93%,Finding
+3667.png,No Finding,84.07%,No Finding
+3668.png,No Finding,49.83%,Finding
+3669.png,No Finding,73.79%,No Finding
+3670.png,No Finding,79.57%,No Finding
+3671.png,No Finding,59.58%,Finding
+3672.png,No Finding,53.11%,Finding
+3673.png,No Finding,61.30%,Finding
+3674.png,No Finding,45.67%,Finding
+3675.png,No Finding,35.35%,Finding
+3676.png,Effusion,49.01%,Finding
+3677.png,No Finding,60.18%,Finding
+3678.png,No Finding,59.04%,Finding
+3679.png,No Finding,79.35%,No Finding
+3680.png,No Finding,53.60%,Finding
+3681.png,No Finding,78.69%,No Finding
+3682.png,No Finding,77.70%,No Finding
+3683.png,No Finding,63.41%,No Finding
+3684.png,No Finding,62.18%,Finding
+3685.png,No Finding,51.65%,Finding
+3686.png,Infiltration,46.90%,Finding
+3687.png,No Finding,54.06%,Finding
+3688.png,No Finding,96.07%,No Finding
+3689.png,No Finding,81.82%,No Finding
+3690.png,No Finding,44.51%,Finding
+3691.png,No Finding,64.98%,Finding
+3692.png,No Finding,58.59%,Finding
+3693.png,Nodule,60.96%,Finding
+3694.png,No Finding,44.56%,Finding
+3695.png,No Finding,69.68%,No Finding
+3696.png,No Finding,46.02%,Finding
+3697.png,No Finding,61.52%,Finding
+3698.png,No Finding,55.52%,Finding
+3699.png,No Finding,47.74%,Finding
+3700.png,No Finding,86.70%,No Finding
+3701.png,No Finding,53.65%,Finding
+3702.png,No Finding,71.69%,No Finding
+3703.png,No Finding,55.50%,Finding
+3704.png,No Finding,82.52%,No Finding
+3705.png,No Finding,86.43%,No Finding
+3706.png,No Finding,74.76%,No Finding
+3707.png,No Finding,61.87%,No Finding
+3708.png,No Finding,97.59%,No Finding
+3709.png,No Finding,57.23%,No Finding
+3710.png,No Finding,90.98%,No Finding
+3711.png,Effusion,34.64%,Finding
+3712.png,No Finding,68.80%,No Finding
+3713.png,No Finding,48.82%,Finding
+3714.png,No Finding,69.88%,No Finding
+3715.png,No Finding,59.77%,Finding
+3716.png,Effusion,86.38%,Finding
+3717.png,No Finding,58.44%,Finding
+3718.png,No Finding,56.62%,Finding
+3719.png,No Finding,54.47%,Finding
+3720.png,No Finding,57.73%,Finding
+3721.png,No Finding,53.97%,No Finding
+3722.png,Nodule,44.75%,Finding
+3723.png,No Finding,66.57%,No Finding
+3724.png,No Finding,78.44%,No Finding
+3725.png,No Finding,76.62%,Finding
+3726.png,No Finding,53.86%,Finding
+3727.png,Effusion,79.69%,Finding
+3728.png,No Finding,73.86%,No Finding
+3729.png,Effusion,47.84%,Finding
+3730.png,No Finding,77.21%,No Finding
+3731.png,No Finding,74.05%,Finding
+3732.png,No Finding,69.22%,Finding
+3733.png,No Finding,54.92%,Finding
+3734.png,No Finding,81.57%,No Finding
+3735.png,No Finding,70.32%,No Finding
+3736.png,No Finding,52.08%,Finding
+3737.png,No Finding,72.85%,No Finding
+3738.png,No Finding,73.27%,Finding
+3739.png,No Finding,50.10%,Finding
+3740.png,No Finding,55.56%,Finding
+3741.png,No Finding,61.63%,Finding
+3742.png,No Finding,75.01%,No Finding
+3743.png,No Finding,86.05%,No Finding
+3744.png,No Finding,54.45%,Finding
+3745.png,No Finding,70.17%,Finding
+3746.png,No Finding,49.38%,Finding
+3747.png,No Finding,67.74%,No Finding
+3748.png,No Finding,61.37%,No Finding
+3749.png,No Finding,92.50%,No Finding
+3750.png,No Finding,43.21%,Finding
+3751.png,Effusion,47.43%,Finding
+3752.png,No Finding,74.34%,Finding
+3753.png,No Finding,46.75%,Finding
+3754.png,No Finding,83.21%,Finding
+3755.png,No Finding,38.80%,Finding
+3756.png,No Finding,49.46%,Finding
+3757.png,No Finding,61.60%,No Finding
+3758.png,No Finding,88.28%,No Finding
+3759.png,No Finding,49.66%,Finding
+3760.png,No Finding,62.41%,Finding
+3761.png,No Finding,34.19%,Finding
+3762.png,No Finding,63.45%,No Finding
+3763.png,No Finding,81.51%,No Finding
+3764.png,No Finding,80.20%,Finding
+3765.png,No Finding,88.71%,No Finding
+3766.png,No Finding,52.77%,Finding
+3767.png,No Finding,45.45%,Finding
+3768.png,No Finding,87.79%,No Finding
+3769.png,No Finding,38.63%,Finding
+3770.png,No Finding,65.93%,Finding
+3771.png,No Finding,42.75%,Finding
+3772.png,No Finding,81.27%,Finding
+3773.png,No Finding,60.03%,Finding
+3774.png,No Finding,80.31%,No Finding
+3775.png,No Finding,67.56%,Finding
+3776.png,No Finding,82.83%,No Finding
+3777.png,Effusion,98.50%,Finding
+3778.png,No Finding,70.70%,No Finding
+3779.png,No Finding,64.62%,Finding
+3780.png,Emphysema,64.92%,Finding
+3781.png,No Finding,51.45%,Finding
+3782.png,Effusion,52.10%,Finding
+3783.png,No Finding,60.11%,Finding
+3784.png,No Finding,72.00%,No Finding
+3785.png,No Finding,90.90%,No Finding
+3786.png,No Finding,52.71%,Finding
+3787.png,No Finding,50.21%,Finding
+3788.png,No Finding,89.33%,No Finding
+3789.png,No Finding,37.24%,Finding
+3790.png,No Finding,87.76%,No Finding
+3791.png,No Finding,90.80%,No Finding
+3792.png,No Finding,80.19%,Finding
+3793.png,Infiltration,48.39%,Finding
+3794.png,No Finding,54.67%,Finding
+3795.png,No Finding,58.31%,Finding
+3796.png,No Finding,51.48%,Finding
+3797.png,No Finding,75.61%,No Finding
+3798.png,No Finding,74.24%,Finding
+3799.png,No Finding,58.97%,No Finding
+3800.png,Effusion,57.97%,Finding
+3801.png,Effusion,56.20%,Finding
+3802.png,No Finding,61.14%,Finding
+3803.png,No Finding,57.69%,Finding
+3804.png,No Finding,54.95%,Finding
+3805.png,No Finding,74.29%,No Finding
+3806.png,No Finding,68.06%,Finding
+3807.png,No Finding,54.00%,Finding
+3808.png,No Finding,90.86%,No Finding
+3809.png,No Finding,49.76%,Finding
+3810.png,No Finding,67.17%,No Finding
+3811.png,No Finding,44.15%,Finding
+3812.png,No Finding,94.59%,No Finding
+3813.png,No Finding,81.66%,No Finding
+3814.png,No Finding,50.79%,Finding
+3815.png,No Finding,64.84%,No Finding
+3816.png,No Finding,87.29%,Finding
+3817.png,No Finding,52.90%,Finding
+3818.png,No Finding,71.96%,No Finding
+3819.png,No Finding,63.21%,Finding
+3820.png,No Finding,72.08%,No Finding
+3821.png,No Finding,74.91%,No Finding
+3822.png,No Finding,66.58%,Finding
+3823.png,No Finding,51.68%,Finding
+3824.png,No Finding,49.28%,Finding
+3825.png,No Finding,76.24%,No Finding
+3826.png,No Finding,71.06%,No Finding
+3827.png,No Finding,47.21%,Finding
+3828.png,No Finding,72.81%,No Finding
+3829.png,No Finding,47.86%,Finding
+3830.png,No Finding,67.65%,Finding
+3831.png,No Finding,39.55%,Finding
+3832.png,No Finding,73.06%,No Finding
+3833.png,No Finding,83.26%,No Finding
+3834.png,No Finding,57.63%,Finding
+3835.png,No Finding,69.97%,No Finding
+3836.png,No Finding,49.13%,Finding
+3837.png,No Finding,72.39%,Finding
+3838.png,No Finding,75.91%,Finding
+3839.png,No Finding,70.59%,Finding
+3840.png,No Finding,75.19%,No Finding
+3841.png,No Finding,60.02%,Finding
+3842.png,No Finding,49.70%,Finding
+3843.png,No Finding,55.11%,Finding
+3844.png,No Finding,69.34%,Finding
+3845.png,Effusion,35.89%,Finding
+3846.png,No Finding,51.56%,Finding
+3847.png,No Finding,69.25%,No Finding
+3848.png,No Finding,85.30%,No Finding
+3849.png,No Finding,62.90%,No Finding
+3850.png,No Finding,35.87%,Finding
+3851.png,No Finding,44.98%,Finding
+3852.png,No Finding,60.68%,Finding
+3853.png,No Finding,89.51%,No Finding
+3854.png,No Finding,50.93%,Finding
+3855.png,No Finding,81.87%,No Finding
+3856.png,No Finding,80.21%,No Finding
+3857.png,No Finding,81.69%,No Finding
+3858.png,No Finding,66.07%,No Finding
+3859.png,No Finding,64.65%,No Finding
+3860.png,No Finding,70.98%,No Finding
+3861.png,No Finding,64.42%,No Finding
+3862.png,No Finding,48.50%,Finding
+3863.png,No Finding,63.11%,No Finding
+3864.png,No Finding,67.79%,No Finding
+3865.png,No Finding,59.82%,Finding
+3866.png,No Finding,72.75%,No Finding
+3867.png,No Finding,55.93%,No Finding
+3868.png,No Finding,59.54%,Finding
+3869.png,No Finding,52.33%,Finding
+3870.png,No Finding,84.86%,No Finding
+3871.png,No Finding,92.60%,Finding
+3872.png,No Finding,94.03%,No Finding
+3873.png,No Finding,53.18%,Finding
+3874.png,No Finding,37.77%,Finding
+3875.png,No Finding,64.18%,No Finding
+3876.png,No Finding,79.47%,No Finding
+3877.png,No Finding,60.64%,No Finding
+3878.png,No Finding,74.41%,No Finding
+3879.png,No Finding,58.12%,Finding
+3880.png,No Finding,48.23%,Finding
+3881.png,No Finding,50.27%,Finding
+3882.png,No Finding,71.67%,Finding
+3883.png,No Finding,90.29%,No Finding
+3884.png,No Finding,86.69%,No Finding
+3885.png,No Finding,85.25%,No Finding
+3886.png,No Finding,51.05%,Finding
+3887.png,No Finding,89.51%,No Finding
+3888.png,No Finding,85.11%,No Finding
+3889.png,No Finding,47.54%,Finding
+3890.png,No Finding,57.91%,No Finding
+3891.png,No Finding,62.08%,Finding
+3892.png,No Finding,44.55%,Finding
+3893.png,No Finding,43.40%,Finding
+3894.png,No Finding,54.44%,Finding
+3895.png,No Finding,56.91%,Finding
+3896.png,No Finding,58.51%,No Finding
+3897.png,No Finding,88.59%,No Finding
+3898.png,No Finding,43.10%,Finding
+3899.png,No Finding,86.95%,No Finding
+3900.png,No Finding,73.53%,No Finding
+3901.png,No Finding,80.28%,No Finding
+3902.png,No Finding,38.48%,Finding
+3903.png,No Finding,57.83%,Finding
+3904.png,No Finding,82.71%,No Finding
+3905.png,No Finding,61.93%,Finding
+3906.png,No Finding,70.65%,No Finding
+3907.png,No Finding,81.26%,No Finding
+3908.png,No Finding,44.78%,Finding
+3909.png,No Finding,49.18%,Finding
+3910.png,No Finding,79.03%,Finding
+3911.png,No Finding,67.12%,Finding
+3912.png,No Finding,53.95%,Finding
+3913.png,No Finding,46.12%,Finding
+3914.png,Effusion,65.08%,Finding
+3915.png,No Finding,83.30%,No Finding
+3916.png,No Finding,49.21%,Finding
+3917.png,No Finding,78.89%,No Finding
+3918.png,No Finding,60.36%,Finding
+3919.png,No Finding,76.42%,No Finding
+3920.png,No Finding,50.57%,Finding
+3921.png,No Finding,74.87%,No Finding
+3922.png,No Finding,91.85%,No Finding
+3923.png,No Finding,80.51%,No Finding
+3924.png,No Finding,74.85%,No Finding
+3925.png,No Finding,53.41%,Finding
+3926.png,No Finding,41.56%,Finding
+3927.png,No Finding,77.75%,No Finding
+3928.png,No Finding,35.99%,Finding
+3929.png,No Finding,81.48%,No Finding
+3930.png,Mass,68.18%,Finding
+3931.png,Infiltration,46.99%,Finding
+3932.png,No Finding,80.07%,No Finding
+3933.png,No Finding,51.22%,Finding
+3934.png,No Finding,73.84%,Finding
+3935.png,No Finding,85.64%,No Finding
+3936.png,No Finding,56.79%,Finding
+3937.png,No Finding,69.83%,No Finding
+3938.png,No Finding,43.16%,Finding
+3939.png,No Finding,70.22%,Finding
+3940.png,No Finding,78.23%,Finding
+3941.png,No Finding,88.20%,No Finding
+3942.png,No Finding,65.48%,No Finding
+3943.png,No Finding,66.21%,Finding
+3944.png,No Finding,79.72%,Finding
+3945.png,No Finding,88.62%,No Finding
+3946.png,No Finding,47.21%,Finding
+3947.png,No Finding,66.12%,Finding
+3948.png,No Finding,51.29%,Finding
+3949.png,No Finding,68.86%,Finding
+3950.png,Effusion,71.26%,Finding
+3951.png,No Finding,64.66%,Finding
+3952.png,No Finding,79.26%,No Finding
+3953.png,No Finding,83.68%,No Finding
+3954.png,No Finding,62.83%,No Finding
+3955.png,No Finding,68.45%,No Finding
+3956.png,Effusion,44.89%,Finding
+3957.png,No Finding,61.64%,Finding
+3958.png,No Finding,55.29%,Finding
+3959.png,No Finding,77.62%,No Finding
+3960.png,No Finding,58.74%,Finding
+3961.png,No Finding,51.18%,Finding
+3962.png,No Finding,83.31%,No Finding
+3963.png,No Finding,71.17%,Finding
+3964.png,No Finding,39.05%,Finding
+3965.png,No Finding,62.53%,No Finding
+3966.png,No Finding,66.71%,Finding
+3967.png,No Finding,82.38%,No Finding
+3968.png,No Finding,51.53%,Finding
+3969.png,No Finding,46.04%,Finding
+3970.png,No Finding,51.07%,Finding
+3971.png,No Finding,66.29%,Finding
+3972.png,No Finding,65.41%,No Finding
+3973.png,Infiltration,46.23%,Finding
+3974.png,No Finding,86.64%,No Finding
+3975.png,No Finding,59.84%,No Finding
+3976.png,No Finding,76.07%,No Finding
+3977.png,No Finding,65.95%,Finding
+3978.png,No Finding,68.48%,Finding
+3979.png,No Finding,78.57%,No Finding
+3980.png,No Finding,67.30%,No Finding
+3981.png,No Finding,93.65%,No Finding
+3982.png,No Finding,37.29%,Finding
+3983.png,No Finding,63.74%,Finding
+3984.png,No Finding,67.50%,Finding
+3985.png,No Finding,51.85%,Finding
+3986.png,No Finding,94.56%,No Finding
+3987.png,No Finding,43.06%,Finding
+3988.png,Effusion,44.86%,Finding
+3989.png,No Finding,48.05%,Finding
+3990.png,No Finding,97.10%,No Finding
+3991.png,No Finding,62.69%,Finding
+3992.png,No Finding,83.68%,No Finding
+3993.png,No Finding,64.56%,Finding
+3994.png,No Finding,71.41%,No Finding
+3995.png,No Finding,65.92%,Finding
+3996.png,No Finding,75.35%,No Finding
+3997.png,No Finding,81.82%,No Finding
+3998.png,No Finding,61.71%,Finding
+3999.png,No Finding,77.25%,No Finding
